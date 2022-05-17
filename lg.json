@@ -1,0 +1,714 @@
+{
+    "telephone": {
+        "United States": {
+            "nexril.net": [
+                "https://lg.nexril.net"
+            ],
+            "isplevel.com": [
+                "http://lg-us.isplevel.com",
+                "http://lg-us2.isplevel.com"
+            ],
+            "impactvps.com": [
+                "https://lg-nyc.impactvps.com",
+                "https://lg-sea.impactvps.com",
+                "https://lg-dal.impactvps.com"
+            ],
+            "incognet.io": [
+                "https://lg-txus.incognet.io"
+            ],
+            "evoxt.com": [
+                "https://usping.evoxt.com"
+            ],
+            "itldc.com": [
+                "http://lg-ewr.itldc.com"
+            ],
+            "spartanhost.net": [
+                "http://lg.sea.spartanhost.net",
+                "http://lg.dal.spartanhost.net"
+            ],
+            "alphavps.com": [
+                "http://lgny.alphavps.com"
+            ],
+            "reliableservers.com": [
+                "http://speedtest.reliableservers.com"
+            ],
+            "mrvm.net": [
+                "http://lg-us-bei.mrvm.net"
+            ],
+            "as20278.net": [
+                "http://lg.buf1.as20278.net"
+            ],
+            "servermania.com": [
+                "https://lg.ewr1.servermania.com"
+            ],
+            "choopa.net": [
+                "http://speedtest.choopa.net"
+            ],
+            "dedicontrol.com": [
+                "http://lg.dc03.dedicontrol.com"
+            ],
+            "virmach.com": [
+                "http://ny.lg.virmach.com",
+                "http://sea.lg.virmach.com",
+                "http://chi.lg.virmach.com",
+                "http://dal.lg.virmach.com",
+                "http://sj.lg.virmach.com",
+                "http://nj.lg.virmach.com",
+                "http://la.lg.virmach.com",
+                "http://atl.lg.virmach.com"
+            ],
+            "nexusbytes.com": [
+                "http://lgmi.NexusBytes.com"
+            ],
+            "hosthatch.com": [
+                "http://lg.ny.hosthatch.com"
+            ],
+            "ssdblaze.com": [
+                "http://lg-dal.ssdblaze.com"
+            ],
+            "racknerd.com": [
+                "http://lg-ny.racknerd.com",
+                "http://lg-nj.racknerd.com"
+            ],
+            "colocrossing.com": [
+                "http://lg.chi.colocrossing.com",
+                "http://lg.sj.colocrossing.com",
+                "http://lg.buf.colocrossing.com",
+                "http://lg.la.colocrossing.com",
+                "http://lg.dal.colocrossing.com"
+            ],
+            "softshellhosting.com": [
+                "http://sj-test.softshellhosting.com"
+            ],
+            "dataideas.com": [
+                "https://spring-glass.dataideas.com",
+                "http://looking.dataideas.com"
+            ],
+            "edis.at": [
+                "http://us.edis.at"
+            ],
+            "hosteons.com": [
+                "https://lg.jax.hosteons.com"
+            ],
+            "terrahost.com": [
+                "https://lg.kc-us.terrahost.com"
+            ],
+            "dediserve.com": [
+                "http://speedtest.c1.dal2.dediserve.com"
+            ],
+            "mnx.io": [
+                "http://lg.chi.mnx.io"
+            ],
+            "extravm.com": [
+                "https://dal.lg.extravm.com",
+                "https://vin.lg.extravm.com"
+            ],
+            "yourlasthost.com": [
+                "https://www.yourlasthost.com/LookingGlass-FL",
+                "https://www.yourlasthost.com/LookingGlass-LA",
+                "https://www.yourlasthost.com/LookingGlass-Dallas"
+            ],
+            "hostigger.com": [
+                "https://lg.us.hostigger.com",
+                "http://lg.chi.hostigger.com",
+                "https://lg-us.hostigger.com"
+            ]
+        },
+        "India": {
+            "advancedserverdns.com": [
+                "https://lg-delhi.advancedserverdns.com"
+            ]
+        },
+        "Spain": {
+            "advancedserverdns.com": [
+                "https://lg-spain.advancedserverdns.com"
+            ],
+            "ginernet.com": [
+                "http://lg.ginernet.com",
+                "http://telxius.lg.ginernet.com/#tests"
+            ],
+            "edis.at": [
+                "http://es.edis.at"
+            ]
+        },
+        "Ukraine": {
+            "friendhosting.net": [
+                "http://lg-ua.friendhosting.net",
+                "http://lg-ua-kyiv.friendhosting.net"
+            ],
+            "isplevel.com": [
+                "http://lg-ua.isplevel.com"
+            ]
+        },
+        "Netherlands": {
+            "friendhosting.net": [
+                "http://lg-nl.friendhosting.net"
+            ],
+            "isplevel.com": [
+                "http://lg-nl.isplevel.com"
+            ],
+            "server-factory.com": [
+                "https://lg.nl.server-factory.com"
+            ],
+            "naranja.tech": [
+                "https://lg.naranja.tech"
+            ],
+            "incognet.io": [
+                "https://lg-nl.incognet.io"
+            ],
+            "starrydns.com": [
+                "http://nl1.lg.starrydns.com"
+            ],
+            "ultravps.eu": [
+                "http://lg.ams.nl.ultravps.eu"
+            ],
+            "vpsgod.com": [
+                "http://lgnl.vpsgod.com"
+            ],
+            "bacloud.com": [
+                "http://lg-nl-eu.bacloud.com"
+            ],
+            "liteserver.nl": [
+                "http://lg-dro.liteserver.nl",
+                "https://lg-dro.liteserver.nl"
+            ],
+            "hostsailor.com": [
+                "https://hostsailor.com/NLLookingGlass"
+            ],
+            "hostslim.nl": [
+                "http://lg.hostslim.nl"
+            ],
+            "virmach.com": [
+                "http://ams.lg.virmach.com"
+            ],
+            "nexusbytes.com": [
+                "http://lgnl.nexusbytes.com",
+                "https://lgnl.nexusbytes.com"
+            ],
+            "hostus.us": [
+                "http://ams-lg.hostus.us",
+                "https://ams-lg.hostus.us"
+            ],
+            "racknerd.com": [
+                "http://lg-ams.racknerd.com"
+            ],
+            "providerservice.com": [
+                "http://lg.ams.nl.providerservice.com"
+            ],
+            "sa.net": [
+                "https://lg-am1.sa.net"
+            ],
+            "v.ps": [
+                "https://ams.lg.v.ps"
+            ],
+            "webhorizon.in": [
+                "http://dro.lg.webhorizon.in"
+            ]
+        },
+        "Bulgaria": {
+            "friendhosting.net": [
+                "http://lg-bg.friendhosting.net"
+            ],
+            "isplevel.com": [
+                "http://lg-bg.isplevel.com"
+            ],
+            "alphavps.com": [
+                "http://lgbg.alphavps.com"
+            ],
+            "mrvm.net": [
+                "http://lg-bg-sof.mrvm.net"
+            ],
+            "alphavps.bg": [
+                "http://lgbg.alphavps.bg"
+            ],
+            "fitvps.com": [
+                "http://lg.fitvps.com"
+            ]
+        },
+        "Lithuania": {
+            "time4vps.eu": [
+                "http://lg.time4vps.eu",
+                "http://lg.time4vps.eu/?utm_source=forum&utm_medium=offer"
+            ],
+            "ultravps.eu": [
+                "http://lg.sqq.lt.ultravps.eu"
+            ],
+            "bacloud.com": [
+                "http://lg-lt-eu.bacloud.com"
+            ],
+            "hostens.com": [
+                "http://lg.hostens.com/?utm_source=forum&utm_medium=offer",
+                "http://lg.hostens.com",
+                "https://lg.hostens.com"
+            ],
+            "time4vps.com": [
+                "https://lg.time4vps.com",
+                "http://lg.time4vps.com/?utm_source=forum&utm_medium=offer"
+            ],
+            "serveroffer.net": [
+                "http://lg.serveroffer.net"
+            ]
+        },
+        "Latvia": {
+            "isplevel.com": [
+                "http://lg-lv.isplevel.com"
+            ]
+        },
+        "Singapore": {
+            "isplevel.com": [
+                "http://lg-sg.isplevel.com"
+            ],
+            "oneasiahost.com": [
+                "http://core.oneasiahost.com/lg",
+                "http://www.oneasiahost.com/lg"
+            ],
+            "indovirtue.com": [
+                "http://singaporehe-lg.indovirtue.com",
+                "http://singaporepop-lg.indovirtue.com",
+                "http://singapore-lg.indovirtue.com"
+            ],
+            "starrydns.com": [
+                "http://sg1.lg.starrydns.com"
+            ],
+            "itldc.com": [
+                "http://lg-sin.itldc.com"
+            ],
+            "mrvm.net": [
+                "http://lg-sg-sin.mrvm.net"
+            ],
+            "readydedis.com": [
+                "https://lg.sg01.readydedis.com"
+            ],
+            "nexusbytes.com": [
+                "http://lgsg.NexusBytes.com",
+                "http://lgsg.nexusbytes.com",
+                "https://lgsg.nexusbytes.com"
+            ],
+            "webhosting24.com": [
+                "https://lg.sg.webhosting24.com"
+            ],
+            "hostus.us": [
+                "https://sgp-lg.hostus.us",
+                "http://sgp-lg.hostus.us"
+            ],
+            "maxkvm.net": [
+                "http://lg.dfw.maxkvm.net",
+                "http://lg.ams.maxkvm.net",
+                "http://lg.nyc.maxkvm.net",
+                "http://lg.sin.maxkvm.net",
+                "http://lg.lax.maxkvm.net"
+            ],
+            "serverkeren.com": [
+                "https://lgid.serverkeren.com",
+                "https://lgeusa.serverkeren.com",
+                "https://lgsg.serverkeren.com"
+            ],
+            "as210537.net": [
+                "https://lg.sg.as210537.net"
+            ],
+            "ransomit.com.au": [
+                "http://singapore-lg.ransomit.com.au"
+            ],
+            "extravm.com": [
+                "https://sgp.lg.extravm.com"
+            ],
+            "expertvm.com": [
+                "http://lg2.expertvm.com",
+                "http://lg.expertvm.com"
+            ]
+        },
+        "Russia": {
+            "isplevel.com": [
+                "http://lg-ru.isplevel.com"
+            ],
+            "justhost.ru": [
+                "https://lg-dcolo.justhost.ru",
+                "http://lg.justhost.ru",
+                "https://lg-adman.justhost.ru",
+                "https://lg-nskttk.justhost.ru",
+                "https://lg.justhost.ru",
+                "https://lg-rtcom.justhost.ru",
+                "https://lg-dtln.justhost.ru",
+                "https://lg-iqdata.justhost.ru",
+                "https://lg-prgrs.justhost.ru"
+            ],
+            "edis.at": [
+                "http://rusp.edis.at",
+                "http://ru.edis.at"
+            ],
+            "serverum.com": [
+                "http://ru-lg.serverum.com"
+            ]
+        },
+        "Germany": {
+            "afterburst.com": [
+                "http://de.lg.afterburst.com"
+            ],
+            "ultravps.eu": [
+                "http://lg.ultravps.eu",
+                "http://lg.dus.de.ultravps.eu"
+            ],
+            "active-servers.com": [
+                "http://lg.active-servers.com"
+            ],
+            "alphavps.com": [
+                "http://lgde.alphavps.com"
+            ],
+            "mrvm.net": [
+                "http://lg-de-fks.mrvm.net"
+            ],
+            "first-root.com": [
+                "http://lg.first-root.com"
+            ],
+            "svenhost.com": [
+                "http://de.lg.svenhost.com"
+            ],
+            "ip-projects.de": [
+                "http://lg.ip-projects.de"
+            ],
+            "alphavps.bg": [
+                "http://lgde.alphavps.bg"
+            ],
+            "combahton.net": [
+                "http://lg.combahton.net",
+                "https://lg.combahton.net"
+            ],
+            "deinserverhost.de": [
+                "https://lg.deinserverhost.de"
+            ],
+            "providerservice.com": [
+                "http://lg.dus.de.providerservice.com",
+                "http://lg.providerservice.com"
+            ],
+            "edis.at": [
+                "http://de.edis.at"
+            ],
+            "sa.net": [
+                "https://lg-de1.sa.net"
+            ],
+            "dediserve.com": [
+                "http://speedtest.c1.fra1.dediserve.com"
+            ],
+            "hazi.ro": [
+                "https://german-proof.hazi.ro"
+            ],
+            "obhost.org": [
+                "http://lg-de.obhost.org"
+            ],
+            "signaltransmitter.de": [
+                "https://lg.signaltransmitter.de"
+            ]
+        },
+        "Canada": {
+            "servarica.com": [
+                "https://ping.servarica.com",
+                "http://ping.servarica.com"
+            ],
+            "as212934.net": [
+                "https://lg.yyz.as212934.net"
+            ],
+            "dediserve.com": [
+                "http://speedtest.c1.tor1.dediserve.com"
+            ],
+            "extravm.com": [
+                "https://bhs.lg.extravm.com"
+            ],
+            "obhost.org": [
+                "http://lg-ca.obhost.org"
+            ]
+        },
+        "Hong Kong": {
+            "hosthongkong.net": [
+                "http://hke.lg.hosthongkong.net",
+                "http://hkp.lg.hosthongkong.net"
+            ],
+            "starrydns.com": [
+                "http://hk4.lg.starrydns.com"
+            ],
+            "hosthatch.com": [
+                "http://lg.hkg.hosthatch.com"
+            ],
+            "edis.at": [
+                "http://hk.edis.at"
+            ],
+            "mlnl.host": [
+                "http://nat0.mlnl.host:4301",
+                "http://hk.lg.mlnl.host",
+                "http://nat1.mlnl.host:4301",
+                "http://hkd.lg.mlnl.host"
+            ]
+        },
+        "Poland": {
+            "happybeehost.com": [
+                "http://lg.happybeehost.com",
+                "https://lg-pl.happybeehost.com"
+            ],
+            "edis.at": [
+                "http://pl.edis.at"
+            ],
+            "webhorizon.in": [
+                "http://waw.lg.webhorizon.in"
+            ]
+        },
+        "Finland": {
+            "incognet.io": [
+                "https://lg-fin.incognet.io"
+            ]
+        },
+        "United Kingdom": {
+            "evoxt.com": [
+                "https://ukping.evoxt.com"
+            ],
+            "hostus.us": [
+                "http://lon-lg.hostus.us"
+            ],
+            "edis.at": [
+                "http://uk.edis.at"
+            ],
+            "dediserve.com": [
+                "http://speedtest.c1.lon2.dediserve.com"
+            ],
+            "extravm.com": [
+                "https://lon.lg.extravm.com"
+            ],
+            "mlnl.host": [
+                "http://uk.lg.mlnl.host"
+            ]
+        },
+        "France": {
+            "liveinhost.com": [
+                "https://www.liveinhost.com/network"
+            ],
+            "edis.at": [
+                "http://fr.edis.at"
+            ],
+            "extravm.com": [
+                "https://gra.lg.extravm.com"
+            ]
+        },
+        "Japan": {
+            "starrydns.com": [
+                "http://jp1.lg.starrydns.com",
+                "http://jp2.lg.starrydns.com"
+            ],
+            "nexusbytes.com": [
+                "https://lgjp.nexusbytes.com",
+                "http://lgjp.nexusbytes.com"
+            ],
+            "webhosting24.com": [
+                "https://lg.jp.webhosting24.com"
+            ],
+            "ransomit.com.au": [
+                "http://tokyo-lg.ransomit.com.au"
+            ],
+            "sa.net": [
+                "https://lg-ty1.sa.net",
+                "https://lg-ty2.sa.net"
+            ],
+            "v.ps": [
+                "https://nrt.lg.v.ps",
+                "https://kix.lg.v.ps"
+            ]
+        },
+        "Jamaica": {
+            "loveservers.com": [
+                "http://lg.loveservers.com",
+                "https://lg.loveservers.com"
+            ]
+        },
+        "Switzerland": {
+            "sinavps.ch": [
+                "http://lg.zug.sinavps.ch"
+            ],
+            "edis.at": [
+                "http://ch.edis.at"
+            ]
+        },
+        "Moldova": {
+            "alexhost.com": [
+                "https://lg.alexhost.com"
+            ]
+        },
+        "Turkey": {
+            "comnet.com.tr": [
+                "https://lg.comnet.com.tr"
+            ],
+            "hostigger.com": [
+                "https://lg-tr.hostigger.com",
+                "https://lg.tr.hostigger.com"
+            ]
+        },
+        "Australia": {
+            "mrvm.net": [
+                "http://lg-au-syd.mrvm.net",
+                "http://lg-au-per.mrvm.net"
+            ],
+            "nexusbytes.com": [
+                "https://lgmel.nexusbytes.com"
+            ],
+            "hostus.us": [
+                "http://syd-lg.hostus.us",
+                "https://syd-lg.hostus.us"
+            ],
+            "ransomit.com.au": [
+                "http://lg.ransomit.com.au",
+                "http://brisbane-lg.ransomit.com.au",
+                "http://sydney-lg.ransomit.com.au",
+                "http://adelaide-lg.ransomit.com.au"
+            ],
+            "dediserve.com": [
+                "http://speedtest.c1.mel1.dediserve.com"
+            ]
+        },
+        "Norway": {
+            "mrvm.net": [
+                "http://lg-no-san.mrvm.net"
+            ],
+            "terrahost.no": [
+                "https://lg.terrahost.no",
+                "http://lg.terrahost.no"
+            ]
+        },
+        "New Zealand": {
+            "servermania.com": [
+                "http://lg.akl1.servermania.com"
+            ],
+            "ransomit.com.au": [
+                "http://auckland-lg.ransomit.com.au"
+            ]
+        },
+        "China": {
+            "newmediaexpress.com": [
+                "http://id1.newmediaexpress.com"
+            ],
+            "hostus.us": [
+                "https://hk-lg.hostus.us",
+                "http://hk-lg.hostus.us"
+            ],
+            "v.ps": [
+                "https://hkg.lg.v.ps"
+            ]
+        },
+        "Costa Rica": {
+            "edgevm.com": [
+                "http://lg-sjc.edgevm.com"
+            ],
+            "virmach.com": [
+                "http://sj.lg.virmach.com"
+            ],
+            "racknerd.com": [
+                "http://lg-sj.racknerd.com"
+            ],
+            "colocrossing.com": [
+                "http://lg.sj.colocrossing.com"
+            ],
+            "softshellhosting.com": [
+                "http://sj-test.softshellhosting.com"
+            ]
+        },
+        "Uruguay": {
+            "edgevm.com": [
+                "http://lg-sjc.edgevm.com"
+            ],
+            "racknerd.com": [
+                "http://lg-sj.racknerd.com"
+            ],
+            "colocrossing.com": [
+                "http://lg.sj.colocrossing.com"
+            ],
+            "softshellhosting.com": [
+                "http://sj-test.softshellhosting.com"
+            ]
+        },
+        "Ecuador": {
+            "hosterion.net": [
+                "http://cluj.lg.hosterion.net"
+            ],
+            "hosterion.com": [
+                "https://lg.clj.hosterion.com"
+            ]
+        },
+        "Romania": {
+            "hosterion.net": [
+                "http://cluj.lg.hosterion.net"
+            ],
+            "hostsailor.com": [
+                "http://hostsailor.com/ROLookingGlass"
+            ],
+            "edis.at": [
+                "http://ro.edis.at"
+            ],
+            "hosterion.com": [
+                "https://lg.clj.hosterion.com"
+            ],
+            "hazi.ro": [
+                "https://proof.hazi.ro",
+                "http://proof.hazi.ro"
+            ]
+        },
+        "Malaysia": {
+            "nickyzai.com": [
+                "http://lg.nickyzai.com:8082"
+            ]
+        },
+        "Georgia": {
+            "colocrossing.com": [
+                "http://lg.atl.colocrossing.com"
+            ]
+        },
+        "Chile": {
+            "edis.at": [
+                "http://cl.edis.at"
+            ]
+        },
+        "Sweden": {
+            "edis.at": [
+                "http://se.edis.at"
+            ]
+        },
+        "Austria": {
+            "edis.at": [
+                "http://at.edis.at"
+            ],
+            "dediserve.com": [
+                "http://speedtest.c1.vie1.dediserve.com"
+            ]
+        },
+        "Algeria": {
+            "edis.at": [
+                "http://it.edis.at"
+            ]
+        },
+        "Italy": {
+            "edis.at": [
+                "http://it.edis.at"
+            ]
+        },
+        "Iceland": {
+            "edis.at": [
+                "http://is.edis.at"
+            ]
+        },
+        "Niger": {
+            "terrahost.com": [
+                "https://lg.la-ng.terrahost.com"
+            ]
+        },
+        "Indonesia": {
+            "dediserve.com": [
+                "http://speedtest.c1.jkt1.dediserve.com"
+            ]
+        },
+        "United Arab Emirates": {
+            "dediserve.com": [
+                "http://speedtest.c1.dx1.dediserve.com"
+            ]
+        },
+        "Pakistan": {
+            "obhost.org": [
+                "http://lg-pk.obhost.org"
+            ]
+        }
+    },
+    "hybula": {}
+}

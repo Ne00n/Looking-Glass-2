@@ -5,13 +5,13 @@
                 "https://lg.nexril.net"
             ],
             "isplevel.com": [
-                "http://lg-us.isplevel.com",
-                "http://lg-us2.isplevel.com"
+                "http://lg-us2.isplevel.com",
+                "http://lg-us.isplevel.com"
             ],
             "impactvps.com": [
+                "https://lg-dal.impactvps.com",
                 "https://lg-nyc.impactvps.com",
-                "https://lg-sea.impactvps.com",
-                "https://lg-dal.impactvps.com"
+                "https://lg-sea.impactvps.com"
             ],
             "incognet.io": [
                 "https://lg-txus.incognet.io"
@@ -47,15 +47,18 @@
             "dedicontrol.com": [
                 "http://lg.dc03.dedicontrol.com"
             ],
+            "edgevm.com": [
+                "http://lg-sjc.edgevm.com"
+            ],
             "virmach.com": [
-                "http://ny.lg.virmach.com",
+                "http://atl.lg.virmach.com",
                 "http://sea.lg.virmach.com",
+                "http://ny.lg.virmach.com",
+                "http://sj.lg.virmach.com",
+                "http://la.lg.virmach.com",
                 "http://chi.lg.virmach.com",
                 "http://dal.lg.virmach.com",
-                "http://sj.lg.virmach.com",
-                "http://nj.lg.virmach.com",
-                "http://la.lg.virmach.com",
-                "http://atl.lg.virmach.com"
+                "http://nj.lg.virmach.com"
             ],
             "nexusbytes.com": [
                 "http://lgmi.NexusBytes.com"
@@ -67,14 +70,15 @@
                 "http://lg-dal.ssdblaze.com"
             ],
             "racknerd.com": [
+                "http://lg-nj.racknerd.com",
                 "http://lg-ny.racknerd.com",
-                "http://lg-nj.racknerd.com"
+                "http://lg-sj.racknerd.com"
             ],
             "colocrossing.com": [
+                "http://lg.la.colocrossing.com",
                 "http://lg.chi.colocrossing.com",
                 "http://lg.sj.colocrossing.com",
                 "http://lg.buf.colocrossing.com",
-                "http://lg.la.colocrossing.com",
                 "http://lg.dal.colocrossing.com"
             ],
             "softshellhosting.com": [
@@ -104,9 +108,9 @@
                 "https://vin.lg.extravm.com"
             ],
             "yourlasthost.com": [
-                "https://www.yourlasthost.com/LookingGlass-FL",
                 "https://www.yourlasthost.com/LookingGlass-LA",
-                "https://www.yourlasthost.com/LookingGlass-Dallas"
+                "https://www.yourlasthost.com/LookingGlass-Dallas",
+                "https://www.yourlasthost.com/LookingGlass-FL"
             ],
             "hostigger.com": [
                 "https://lg.us.hostigger.com",
@@ -124,8 +128,8 @@
                 "https://lg-spain.advancedserverdns.com"
             ],
             "ginernet.com": [
-                "http://lg.ginernet.com",
-                "http://telxius.lg.ginernet.com/#tests"
+                "http://telxius.lg.ginernet.com/#tests",
+                "http://lg.ginernet.com"
             ],
             "edis.at": [
                 "http://es.edis.at"
@@ -169,8 +173,8 @@
                 "http://lg-nl-eu.bacloud.com"
             ],
             "liteserver.nl": [
-                "http://lg-dro.liteserver.nl",
-                "https://lg-dro.liteserver.nl"
+                "https://lg-dro.liteserver.nl",
+                "http://lg-dro.liteserver.nl"
             ],
             "hostsailor.com": [
                 "https://hostsailor.com/NLLookingGlass"
@@ -182,8 +186,8 @@
                 "http://ams.lg.virmach.com"
             ],
             "nexusbytes.com": [
-                "http://lgnl.nexusbytes.com",
-                "https://lgnl.nexusbytes.com"
+                "https://lgnl.nexusbytes.com",
+                "http://lgnl.nexusbytes.com"
             ],
             "hostus.us": [
                 "http://ams-lg.hostus.us",
@@ -227,8 +231,8 @@
         },
         "Lithuania": {
             "time4vps.eu": [
-                "http://lg.time4vps.eu",
-                "http://lg.time4vps.eu/?utm_source=forum&utm_medium=offer"
+                "http://lg.time4vps.eu/?utm_source=forum&utm_medium=offer",
+                "http://lg.time4vps.eu"
             ],
             "ultravps.eu": [
                 "http://lg.sqq.lt.ultravps.eu"
@@ -237,8 +241,8 @@
                 "http://lg-lt-eu.bacloud.com"
             ],
             "hostens.com": [
-                "http://lg.hostens.com/?utm_source=forum&utm_medium=offer",
                 "http://lg.hostens.com",
+                "http://lg.hostens.com/?utm_source=forum&utm_medium=offer",
                 "https://lg.hostens.com"
             ],
             "time4vps.com": [
@@ -254,6 +258,29 @@
                 "http://lg-lv.isplevel.com"
             ]
         },
+        "Russia": {
+            "isplevel.com": [
+                "http://lg-ru.isplevel.com"
+            ],
+            "justhost.ru": [
+                "https://lg-dcolo.justhost.ru",
+                "https://lg.justhost.ru",
+                "http://lg.justhost.ru",
+                "https://lg-adman.justhost.ru",
+                "https://lg-prgrs.justhost.ru",
+                "https://lg-rtcom.justhost.ru",
+                "https://lg-iqdata.justhost.ru",
+                "https://lg-dtln.justhost.ru",
+                "https://lg-nskttk.justhost.ru"
+            ],
+            "edis.at": [
+                "http://ru.edis.at",
+                "http://rusp.edis.at"
+            ],
+            "serverum.com": [
+                "http://ru-lg.serverum.com"
+            ]
+        },
         "Singapore": {
             "isplevel.com": [
                 "http://lg-sg.isplevel.com"
@@ -263,9 +290,9 @@
                 "http://www.oneasiahost.com/lg"
             ],
             "indovirtue.com": [
-                "http://singaporehe-lg.indovirtue.com",
+                "http://singapore-lg.indovirtue.com",
                 "http://singaporepop-lg.indovirtue.com",
-                "http://singapore-lg.indovirtue.com"
+                "http://singaporehe-lg.indovirtue.com"
             ],
             "starrydns.com": [
                 "http://sg1.lg.starrydns.com"
@@ -280,27 +307,27 @@
                 "https://lg.sg01.readydedis.com"
             ],
             "nexusbytes.com": [
-                "http://lgsg.NexusBytes.com",
+                "https://lgsg.nexusbytes.com",
                 "http://lgsg.nexusbytes.com",
-                "https://lgsg.nexusbytes.com"
+                "http://lgsg.NexusBytes.com"
             ],
             "webhosting24.com": [
                 "https://lg.sg.webhosting24.com"
             ],
             "hostus.us": [
-                "https://sgp-lg.hostus.us",
-                "http://sgp-lg.hostus.us"
+                "http://sgp-lg.hostus.us",
+                "https://sgp-lg.hostus.us"
             ],
             "maxkvm.net": [
-                "http://lg.dfw.maxkvm.net",
                 "http://lg.ams.maxkvm.net",
-                "http://lg.nyc.maxkvm.net",
+                "http://lg.lax.maxkvm.net",
+                "http://lg.dfw.maxkvm.net",
                 "http://lg.sin.maxkvm.net",
-                "http://lg.lax.maxkvm.net"
+                "http://lg.nyc.maxkvm.net"
             ],
             "serverkeren.com": [
-                "https://lgid.serverkeren.com",
                 "https://lgeusa.serverkeren.com",
+                "https://lgid.serverkeren.com",
                 "https://lgsg.serverkeren.com"
             ],
             "as210537.net": [
@@ -315,29 +342,6 @@
             "expertvm.com": [
                 "http://lg2.expertvm.com",
                 "http://lg.expertvm.com"
-            ]
-        },
-        "Russia": {
-            "isplevel.com": [
-                "http://lg-ru.isplevel.com"
-            ],
-            "justhost.ru": [
-                "https://lg-dcolo.justhost.ru",
-                "http://lg.justhost.ru",
-                "https://lg-adman.justhost.ru",
-                "https://lg-nskttk.justhost.ru",
-                "https://lg.justhost.ru",
-                "https://lg-rtcom.justhost.ru",
-                "https://lg-dtln.justhost.ru",
-                "https://lg-iqdata.justhost.ru",
-                "https://lg-prgrs.justhost.ru"
-            ],
-            "edis.at": [
-                "http://rusp.edis.at",
-                "http://ru.edis.at"
-            ],
-            "serverum.com": [
-                "http://ru-lg.serverum.com"
             ]
         },
         "Germany": {
@@ -377,8 +381,8 @@
                 "https://lg.deinserverhost.de"
             ],
             "providerservice.com": [
-                "http://lg.dus.de.providerservice.com",
-                "http://lg.providerservice.com"
+                "http://lg.providerservice.com",
+                "http://lg.dus.de.providerservice.com"
             ],
             "edis.at": [
                 "http://de.edis.at"
@@ -401,8 +405,8 @@
         },
         "Canada": {
             "servarica.com": [
-                "https://ping.servarica.com",
-                "http://ping.servarica.com"
+                "http://ping.servarica.com",
+                "https://ping.servarica.com"
             ],
             "as212934.net": [
                 "https://lg.yyz.as212934.net"
@@ -419,8 +423,8 @@
         },
         "Hong Kong": {
             "hosthongkong.net": [
-                "http://hke.lg.hosthongkong.net",
-                "http://hkp.lg.hosthongkong.net"
+                "http://hkp.lg.hosthongkong.net",
+                "http://hke.lg.hosthongkong.net"
             ],
             "starrydns.com": [
                 "http://hk4.lg.starrydns.com"
@@ -432,16 +436,16 @@
                 "http://hk.edis.at"
             ],
             "mlnl.host": [
-                "http://nat0.mlnl.host:4301",
                 "http://hk.lg.mlnl.host",
-                "http://nat1.mlnl.host:4301",
-                "http://hkd.lg.mlnl.host"
+                "http://hkd.lg.mlnl.host",
+                "http://nat0.mlnl.host:4301",
+                "http://nat1.mlnl.host:4301"
             ]
         },
         "Poland": {
             "happybeehost.com": [
-                "http://lg.happybeehost.com",
-                "https://lg-pl.happybeehost.com"
+                "https://lg-pl.happybeehost.com",
+                "http://lg.happybeehost.com"
             ],
             "edis.at": [
                 "http://pl.edis.at"
@@ -502,8 +506,8 @@
                 "http://tokyo-lg.ransomit.com.au"
             ],
             "sa.net": [
-                "https://lg-ty1.sa.net",
-                "https://lg-ty2.sa.net"
+                "https://lg-ty2.sa.net",
+                "https://lg-ty1.sa.net"
             ],
             "v.ps": [
                 "https://nrt.lg.v.ps",
@@ -540,8 +544,8 @@
         },
         "Australia": {
             "mrvm.net": [
-                "http://lg-au-syd.mrvm.net",
-                "http://lg-au-per.mrvm.net"
+                "http://lg-au-per.mrvm.net",
+                "http://lg-au-syd.mrvm.net"
             ],
             "nexusbytes.com": [
                 "https://lgmel.nexusbytes.com"
@@ -551,10 +555,10 @@
                 "https://syd-lg.hostus.us"
             ],
             "ransomit.com.au": [
-                "http://lg.ransomit.com.au",
-                "http://brisbane-lg.ransomit.com.au",
+                "http://adelaide-lg.ransomit.com.au",
                 "http://sydney-lg.ransomit.com.au",
-                "http://adelaide-lg.ransomit.com.au"
+                "http://brisbane-lg.ransomit.com.au",
+                "http://lg.ransomit.com.au"
             ],
             "dediserve.com": [
                 "http://speedtest.c1.mel1.dediserve.com"
@@ -565,8 +569,8 @@
                 "http://lg-no-san.mrvm.net"
             ],
             "terrahost.no": [
-                "https://lg.terrahost.no",
-                "http://lg.terrahost.no"
+                "http://lg.terrahost.no",
+                "https://lg.terrahost.no"
             ]
         },
         "New Zealand": {
@@ -582,42 +586,11 @@
                 "http://id1.newmediaexpress.com"
             ],
             "hostus.us": [
-                "https://hk-lg.hostus.us",
-                "http://hk-lg.hostus.us"
+                "http://hk-lg.hostus.us",
+                "https://hk-lg.hostus.us"
             ],
             "v.ps": [
                 "https://hkg.lg.v.ps"
-            ]
-        },
-        "Costa Rica": {
-            "edgevm.com": [
-                "http://lg-sjc.edgevm.com"
-            ],
-            "virmach.com": [
-                "http://sj.lg.virmach.com"
-            ],
-            "racknerd.com": [
-                "http://lg-sj.racknerd.com"
-            ],
-            "colocrossing.com": [
-                "http://lg.sj.colocrossing.com"
-            ],
-            "softshellhosting.com": [
-                "http://sj-test.softshellhosting.com"
-            ]
-        },
-        "Uruguay": {
-            "edgevm.com": [
-                "http://lg-sjc.edgevm.com"
-            ],
-            "racknerd.com": [
-                "http://lg-sj.racknerd.com"
-            ],
-            "colocrossing.com": [
-                "http://lg.sj.colocrossing.com"
-            ],
-            "softshellhosting.com": [
-                "http://sj-test.softshellhosting.com"
             ]
         },
         "Ecuador": {
@@ -656,24 +629,6 @@
                 "http://lg.atl.colocrossing.com"
             ]
         },
-        "Chile": {
-            "edis.at": [
-                "http://cl.edis.at"
-            ]
-        },
-        "Sweden": {
-            "edis.at": [
-                "http://se.edis.at"
-            ]
-        },
-        "Austria": {
-            "edis.at": [
-                "http://at.edis.at"
-            ],
-            "dediserve.com": [
-                "http://speedtest.c1.vie1.dediserve.com"
-            ]
-        },
         "Algeria": {
             "edis.at": [
                 "http://it.edis.at"
@@ -684,9 +639,27 @@
                 "http://it.edis.at"
             ]
         },
+        "Sweden": {
+            "edis.at": [
+                "http://se.edis.at"
+            ]
+        },
         "Iceland": {
             "edis.at": [
                 "http://is.edis.at"
+            ]
+        },
+        "Chile": {
+            "edis.at": [
+                "http://cl.edis.at"
+            ]
+        },
+        "Austria": {
+            "edis.at": [
+                "http://at.edis.at"
+            ],
+            "dediserve.com": [
+                "http://speedtest.c1.vie1.dediserve.com"
             ]
         },
         "Niger": {
@@ -694,14 +667,14 @@
                 "https://lg.la-ng.terrahost.com"
             ]
         },
-        "Indonesia": {
-            "dediserve.com": [
-                "http://speedtest.c1.jkt1.dediserve.com"
-            ]
-        },
         "United Arab Emirates": {
             "dediserve.com": [
                 "http://speedtest.c1.dx1.dediserve.com"
+            ]
+        },
+        "Indonesia": {
+            "dediserve.com": [
+                "http://speedtest.c1.jkt1.dediserve.com"
             ]
         },
         "Pakistan": {

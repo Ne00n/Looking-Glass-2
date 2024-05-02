@@ -1,0 +1,294 @@
+{
+    "silicloud.com": {
+        "https://lg-global-west01-us.silicloud.com/": {
+            "ipv4": [
+                "154.19.185.122"
+            ],
+            "ipv6": [
+                "2400:38e0:0:4001::d0"
+            ]
+        },
+        "https://lg-cn2gia-west01-us.silicloud.com/": {
+            "ipv4": [
+                "103.177.81.120"
+            ],
+            "ipv6": [
+                "2400:38e0:0:4001::42"
+            ]
+        },
+        "https://lg-global-tyo01-jp.silicloud.com/": {
+            "ipv4": [
+                "38.47.52.200"
+            ],
+            "ipv6": [
+                "2400:38e0:1:417b::e4"
+            ]
+        },
+        "https://lg-global-tyo01-jp-cn2.silicloud.com/": {
+            "ipv4": [
+                "154.19.186.176"
+            ],
+            "ipv6": [
+                "2400:38e0:1:417b::388"
+            ]
+        }
+    },
+    "knownhost.com": {
+        "https://lg.atl.knownhost.com/": {
+            "ipv4": [
+                "64.74.200.107"
+            ],
+            "ipv6": [
+                "2600:4c00:4ff:fffe::1"
+            ]
+        }
+    },
+    "as20278.net": {
+        "http://lg.chi1.as20278.net/": {
+            "ipv4": [
+                "167.88.10.4"
+            ],
+            "ipv6": [
+                "2602:ffc8:1::2"
+            ]
+        },
+        "http://lg.buf1.as20278.net/": {
+            "ipv4": [
+                "96.9.249.58"
+            ],
+            "ipv6": [
+                "2602:ffc8:2:102::2"
+            ]
+        }
+    },
+    "cloudc.one": {
+        "http://la.lg.cloudc.one": {
+            "ipv4": [
+                "148.135.114.75"
+            ],
+            "ipv6": [
+                "2607:f130:0:ef::2"
+            ]
+        }
+    },
+    "vikinglayer.com": {
+        "http://lg.dal.vikinglayer.com": {
+            "ipv4": [
+                "192.138.210.63"
+            ],
+            "ipv6": []
+        }
+    },
+    "ultravps.eu": {
+        "http://lg.kiv.md.ultravps.eu/": {
+            "ipv4": [
+                "185.177.151.4"
+            ],
+            "ipv6": [
+                "2a02:e00:ffe8:3::1"
+            ]
+        },
+        "http://lg.dus.de.ultravps.eu/": {
+            "ipv4": [
+                "130.255.76.147"
+            ],
+            "ipv6": [
+                "2a02:e00:ffec:3a::1"
+            ]
+        },
+        "http://lg.sqq.lt.ultravps.eu/": {
+            "ipv4": [
+                "185.177.150.4"
+            ],
+            "ipv6": [
+                "2a02:e00:ffe7:3::1"
+            ]
+        },
+        "http://lg.dal.us.ultravps.eu/": {
+            "ipv4": [
+                "108.181.220.6"
+            ],
+            "ipv6": [
+                "2604:6600:2003:5::1"
+            ]
+        },
+        "http://lg.lon.uk.ultravps.eu/": {
+            "ipv4": [
+                "185.177.148.4"
+            ],
+            "ipv6": [
+                "2a02:e00:ffe9:2::1"
+            ]
+        },
+        "http://lg.lax.us.ultravps.eu/": {
+            "ipv4": [
+                "69.12.89.3"
+            ],
+            "ipv6": [
+                "2607:fcd0:107:2::1"
+            ]
+        },
+        "http://lg.ams.nl.ultravps.eu/": {
+            "ipv4": [
+                "185.45.112.15"
+            ],
+            "ipv6": [
+                "2a02:e00:fff0:c::1"
+            ]
+        }
+    },
+    "archhosting.net": {
+        "http://lg.archhosting.net": {
+            "ipv4": [],
+            "ipv6": []
+        }
+    },
+    "tzulo.com": {
+        "https://www.tzulo.com/lg/": {
+            "ipv4": [
+                "208.77.16.10"
+            ],
+            "ipv6": [
+                "2607:9000::b8ad:a3ff:febd:43cd"
+            ]
+        }
+    },
+    "hostshield.net": {
+        "http://lg-nl.hostshield.net": {
+            "ipv4": [
+                "193.142.59.82"
+            ],
+            "ipv6": [
+                "2a0f:ca80:0:1b0b:4de:63e9:d341:1"
+            ]
+        }
+    },
+    "alphavps.bg": {
+        "http://lgbg.alphavps.bg": {
+            "ipv4": [
+                "79.124.7.8"
+            ],
+            "ipv6": [
+                "2a01:8740:1:76f::ea47"
+            ]
+        },
+        "http://lgde.alphavps.bg": {
+            "ipv4": [
+                "194.35.12.68"
+            ],
+            "ipv6": [
+                "2a01:4f8:d1:7231::49c8"
+            ]
+        },
+        "http://lguk.alphavps.bg": {
+            "ipv4": [
+                "130.185.251.6"
+            ],
+            "ipv6": [
+                "2a04:92c7:2:3b2::4"
+            ]
+        }
+    },
+    "vmhaus.com": {
+        "https://lg.vmhaus.com": {
+            "ipv4": [
+                "103.105.49.34",
+                "185.214.69.46"
+            ],
+            "ipv6": [
+                "2402:28c0:2:310::1",
+                "2a06:82c2:0:88::1"
+            ]
+        }
+    },
+    "hosteroid.uk": {
+        "https://vie-lg.hosteroid.uk/": {
+            "ipv4": [
+                "212.69.167.70"
+            ],
+            "ipv6": [
+                "2a05:5504:1::4fe:1"
+            ]
+        },
+        "https://buc-lg.hosteroid.uk/": {
+            "ipv4": [
+                "146.70.213.36"
+            ],
+            "ipv6": [
+                "2a04:9dc0:0:a51::4b:1"
+            ]
+        },
+        "https://ld-lg.hosteroid.uk/": {
+            "ipv4": [
+                "185.75.240.231"
+            ],
+            "ipv6": [
+                "2a02:400:10:8::cba:1"
+            ]
+        },
+        "https://nj-lg.hosteroid.uk/": {
+            "ipv4": [
+                "162.254.85.201"
+            ],
+            "ipv6": [
+                "2001:1980:e00c::246:1"
+            ]
+        }
+    },
+    "27fibre.co.uk": {
+        "https://lg.27fibre.co.uk": {
+            "ipv4": [],
+            "ipv6": []
+        },
+        "https://lg.27fibre.co.uk/": {
+            "ipv4": [],
+            "ipv6": []
+        }
+    },
+    "khanwebhost.com": {
+        "Https://texaslg.khanwebhost.com": {
+            "ipv4": [
+                "64.112.124.13"
+            ],
+            "ipv6": [
+                "2602:fbdf::2d7:fd78"
+            ]
+        },
+        "https://texaslg.khanwebhost.com/": {
+            "ipv4": [
+                "64.112.124.13"
+            ],
+            "ipv6": [
+                "2602:fbdf::2d7:fd78"
+            ]
+        }
+    },
+    "virmach.com": {
+        "http://lg.virmach.com/": {
+            "ipv4": [
+                "176.119.149.79"
+            ],
+            "ipv6": []
+        }
+    },
+    "drserver.net": {
+        "http://lg-dal.ipv4.drserver.net/": {
+            "ipv4": [
+                "192.138.210.63"
+            ],
+            "ipv6": []
+        },
+        "http://lg-dal.ipv6.drserver.net/": {
+            "ipv4": [],
+            "ipv6": [
+                "2604:0880:0052:0000:0000:0000:01e5:657b"
+            ]
+        }
+    },
+    "indovirtue.com": {
+        "http://lasvegas-lg.indovirtue.com/": {
+            "ipv4": [],
+            "ipv6": []
+        }
+    }
+}

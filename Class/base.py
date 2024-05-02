@@ -60,8 +60,8 @@ class Base():
 
     def readme(self,list):
         readme = """# Looking-Glass-2\n
-        Spontaniously updated.<br>
-        """
+Spontaniously updated.<br>
+"""
         for element,urls in list.items():
             if len(urls) > 0:
                 readme += "### "+element+"\n"

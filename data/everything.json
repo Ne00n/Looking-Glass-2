@@ -10449,7 +10449,208 @@
     "icloudfusion.net": {},
     "h4y.us": {},
     "uptimeinstitute.com": {},
-    "gcore.com": {},
+    "gcore.com": {
+        "am3-speedtest.tools.gcore.com": {
+            "ipv4": {
+                "93.123.17.254": "Amsterdam, The Netherlands"
+            },
+            "ipv6": {
+                "2a03:90c0:11:2801::254": "Amsterdam, The Netherlands"
+            }
+        },
+        "bzi-speedtest.tools.gcore.com": {
+            "ipv4": {
+                "5.188.94.5": "Israel"
+            },
+            "ipv6": {
+                "2a03:90c0:1e1:2801::5": "Israel"
+            }
+        },
+        "cc1-speedtest.tools.gcore.com": {
+            "ipv4": {
+                "92.223.63.254": "Tokyo, Japan"
+            },
+            "ipv6": {
+                "2a03:90c0:111:2801:1::254": "Tokyo, Japan"
+            }
+        },
+        "eti-speedtest.tools.gcore.com": {
+            "ipv4": {
+                "89.223.90.4": "Al Fujairah City, United Arab Emirates"
+            },
+            "ipv6": {
+                "2a03:90c0:6d1:2801::4": "Al Fujairah City, United Arab Emirates"
+            }
+        },
+        "hk2-speedtest.tools.gcore.com": {
+            "ipv4": {
+                "92.223.76.254": "Hong Kong, Hong Kong"
+            },
+            "ipv6": {
+                "2a03:90c0:f1:2801::9999": "Hong Kong, Hong Kong"
+            }
+        },
+        "jp1-speedtest.tools.gcore.com": {
+            "ipv4": {
+                "5.188.133.99": "Johannesburg, South Africa"
+            },
+            "ipv6": {
+                "2a03:90c0:1f1:2801::99": "Johannesburg, South Africa"
+            }
+        },
+        "kal-speedtest.tools.gcore.com": {
+            "ipv4": {
+                "5.189.207.14": "Almaty, Kazakhstan"
+            },
+            "ipv6": {}
+        },
+        "kx-speedtest.tools.gcore.com": {
+            "ipv4": {
+                "92.223.61.30": "South Korea"
+            },
+            "ipv6": {
+                "2a03:90c0:121:2801::30": "South Korea"
+            }
+        },
+        "la2-speedtest.tools.gcore.com": {
+            "ipv4": {
+                "92.38.170.254": "Los Angeles, United States"
+            },
+            "ipv6": {}
+        },
+        "lgs-speedtest.tools.gcore.com": {
+            "ipv4": {
+                "150.107.126.62": "Lagos, Nigeria"
+            },
+            "ipv6": {
+                "2a03:90c0:5e1:2801::62": "Lagos, Nigeria"
+            }
+        },
+        "min4-speedtest.tools.gcore.com": {
+            "ipv4": {
+                "45.65.8.62": "Minneapolis, United States"
+            },
+            "ipv6": {
+                "2a03:90c0:641:2801::62": "Minneapolis, United States"
+            }
+        },
+        "ny2-speedtest.tools.gcore.com": {
+            "ipv4": {
+                "92.38.168.14": "Secaucus, United States"
+            },
+            "ipv6": {
+                "2a03:90c0:170:2801::14": "Secaucus, United States"
+            }
+        },
+        "pa5-speedtest.tools.gcore.com": {
+            "ipv4": {
+                "94.176.183.62": "Paris, France"
+            },
+            "ipv6": {}
+        },
+        "pl1-speedtest.tools.gcore.com": {
+            "ipv4": {
+                "92.223.92.30": "Warsaw, Poland"
+            },
+            "ipv6": {
+                "2a03:90c0:d1:2801::30": "Warsaw, Poland"
+            }
+        },
+        "sg1-speedtest.tools.gcore.com": {
+            "ipv4": {
+                "92.223.116.254": "Singapore, Singapore"
+            },
+            "ipv6": {
+                "2a03:90c0:321:2803::254": "Singapore, Singapore"
+            }
+        },
+        "sp3-speedtest.tools.gcore.com": {
+            "ipv4": {
+                "92.223.12.254": "Sao Paulo, Brazil"
+            },
+            "ipv6": {
+                "2a03:90c0:180:2801:1::254": "Sao Paulo, Brazil"
+            }
+        },
+        "speedtest.gcore.com": {
+            "ipv4": {
+                "92.223.124.62": "Frankfurt am Main, Germany"
+            },
+            "ipv6": {
+                "2a03:90c0:41:2801::62": "Frankfurt am Main, Germany"
+            }
+        },
+        "sqr-speedtest.tools.gcore.com": {
+            "ipv4": {
+                "213.156.144.62": "Queretaro City, Mexico"
+            },
+            "ipv6": {}
+        },
+        "sy4-speedtest.tools.gcore.com": {
+            "ipv4": {
+                "92.223.78.30": "Sydney, Australia"
+            },
+            "ipv6": {
+                "2a03:90c0:101:2801::30": "Sydney, Australia"
+            }
+        },
+        "syt-speedtest.tools.gcore.com": {
+            "ipv4": {
+                "87.120.164.62": "Buenos Aires, Argentina"
+            },
+            "ipv6": {
+                "2a03:90c0:571:2801::62": "Buenos Aires, Argentina"
+            }
+        },
+        "teg-speedtest.tools.gcore.com": {
+            "ipv4": {
+                "92.223.47.62": "Giza, Egypt"
+            },
+            "ipv6": {
+                "2a03:90c0:661:2801::62": "Giza, Egypt"
+            }
+        },
+        "thn2-speedtest.tools.gcore.com": {
+            "ipv4": {
+                "93.123.11.62": "Tower Hamlets, United Kingdom"
+            },
+            "ipv6": {
+                "2a03:90c0:5a1:2801::62": "Tower Hamlets, United Kingdom"
+            }
+        },
+        "tidc-speedtest.tools.gcore.com": {
+            "ipv4": {
+                "5.252.26.62": "Pak Kret, Thailand"
+            },
+            "ipv6": {
+                "2a03:90c0:5d1:2801::62": "Pak Kret, Thailand"
+            }
+        },
+        "tii-speedtest.tools.gcore.com": {
+            "ipv4": {
+                "92.38.142.30": "Istanbul, Turkiye"
+            },
+            "ipv6": {
+                "2a03:90c0:160:9999::9999": "Istanbul, Turkiye"
+            }
+        },
+        "wbs-speedtest.tools.gcore.com": {
+            "ipv4": {
+                "78.111.103.62": "Seattle, United States"
+            },
+            "ipv6": {
+                "2a03:90c0:6b1:2801::62": "Seattle, United States"
+            }
+        },
+        "ww-speedtest.tools.gcore.com": {
+            "ipv4": {
+                "185.105.1.14": "Mumbai, India"
+            },
+            "ipv6": {
+                "2a03:90c0:9995::9995": "Singapore"
+            }
+        }
+    },
     "runkit.com": {},
     "olga.sch.id": {},
     "stikeswirahusada.ac.id": {},
@@ -10740,6 +10941,37 @@
                 "2400:7fc0:8286:b300::ec2": "Beijing, China",
                 "2404:c2c0:8d06:1f00::ec2": "Ningxia, China"
             }
+        }
+    },
+    "ovh": {
+        "https://lg.ovh.net": {
+            "ipv4": {
+                "135.125.244.2": "France",
+                "135.148.101.2": "United States",
+                "141.94.18.2": "France",
+                "145.239.28.3": "United Kingdom",
+                "5.135.137.2": "France",
+                "51.210.158.3": "France",
+                "51.79.100.2": "Canada",
+                "51.81.200.4": "Hillsboro, United States"
+            },
+            "ipv6": {}
+        }
+    },
+    "edgecneter": {
+        "https://lg.edgecenter.ru": {
+            "ipv4": {
+                "146.185.196.1": "Samara, Russia",
+                "146.185.198.1": "Krasnodar, Russia",
+                "146.185.199.1": "Novosibirsk, Russia",
+                "5.101.218.1": "Vladivostok, Russia",
+                "92.223.103.1": "Moscow, Russia",
+                "92.223.65.1": "St Petersburg, Russia",
+                "92.223.80.1": "Khabarovsk, Russia",
+                "92.223.87.1": "Krasnoyarsk, Russia",
+                "92.223.91.1": "Yekaterinburg, Russia"
+            },
+            "ipv6": {}
         }
     },
     "Cyxym": {
@@ -14922,6 +15154,16 @@
             "ipv6": {}
         }
     },
+    "ovh.ca": {
+        "bhs.proof.ovh.ca": {
+            "ipv4": {
+                "51.222.154.207": "Canada"
+            },
+            "ipv6": {
+                "2607:5300:203:8acf::1": "Canada"
+            }
+        }
+    },
     "ovh.us": {
         "hil.proof.ovh.us": {
             "ipv4": {
@@ -14934,16 +15176,6 @@
                 "135.148.100.133": "United States"
             },
             "ipv6": {}
-        }
-    },
-    "ovh.ca": {
-        "bhs.proof.ovh.ca": {
-            "ipv4": {
-                "51.222.154.207": "Canada"
-            },
-            "ipv6": {
-                "2607:5300:203:8acf::1": "Canada"
-            }
         }
     },
     "bluevps.com": {
@@ -15530,6 +15762,15 @@
             "ipv6": {
                 "2604:9a00:2010:a067::77": "Upper Marlboro, United States"
             }
+        }
+    },
+    "gcore.lu": {
+        "lg.gcore.lu": {
+            "ipv4": {
+                "185.12.243.109": "Amsterdam, The Netherlands",
+                "92.223.26.72": "Luxembourg, Luxembourg"
+            },
+            "ipv6": {}
         }
     }
 }

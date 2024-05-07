@@ -1539,6 +1539,33 @@ Collects data from a bunch of sources,
 * [https://dedicated.com/montreal-datacenter](https://dedicated.com/montreal-datacenter)
 * [https://dedicated.com/new-york-city-datacenter](https://dedicated.com/new-york-city-datacenter)
 * [https://dedicated.com/seattle-datacenter](https://dedicated.com/seattle-datacenter)
+### gcore.com
+* [am3-speedtest.tools.gcore.com](http://am3-speedtest.tools.gcore.com)
+* [bzi-speedtest.tools.gcore.com](http://bzi-speedtest.tools.gcore.com)
+* [cc1-speedtest.tools.gcore.com](http://cc1-speedtest.tools.gcore.com)
+* [eti-speedtest.tools.gcore.com](http://eti-speedtest.tools.gcore.com)
+* [hk2-speedtest.tools.gcore.com](http://hk2-speedtest.tools.gcore.com)
+* [jp1-speedtest.tools.gcore.com](http://jp1-speedtest.tools.gcore.com)
+* [kal-speedtest.tools.gcore.com](http://kal-speedtest.tools.gcore.com)
+* [kx-speedtest.tools.gcore.com](http://kx-speedtest.tools.gcore.com)
+* [la2-speedtest.tools.gcore.com](http://la2-speedtest.tools.gcore.com)
+* [lgs-speedtest.tools.gcore.com](http://lgs-speedtest.tools.gcore.com)
+* [min4-speedtest.tools.gcore.com](http://min4-speedtest.tools.gcore.com)
+* [ny2-speedtest.tools.gcore.com](http://ny2-speedtest.tools.gcore.com)
+* [pa5-speedtest.tools.gcore.com](http://pa5-speedtest.tools.gcore.com)
+* [pl1-speedtest.tools.gcore.com](http://pl1-speedtest.tools.gcore.com)
+* [sg1-speedtest.tools.gcore.com](http://sg1-speedtest.tools.gcore.com)
+* [sp3-speedtest.tools.gcore.com](http://sp3-speedtest.tools.gcore.com)
+* [speedtest.gcore.com](http://speedtest.gcore.com)
+* [sqr-speedtest.tools.gcore.com](http://sqr-speedtest.tools.gcore.com)
+* [sy4-speedtest.tools.gcore.com](http://sy4-speedtest.tools.gcore.com)
+* [syt-speedtest.tools.gcore.com](http://syt-speedtest.tools.gcore.com)
+* [teg-speedtest.tools.gcore.com](http://teg-speedtest.tools.gcore.com)
+* [thn2-speedtest.tools.gcore.com](http://thn2-speedtest.tools.gcore.com)
+* [tidc-speedtest.tools.gcore.com](http://tidc-speedtest.tools.gcore.com)
+* [tii-speedtest.tools.gcore.com](http://tii-speedtest.tools.gcore.com)
+* [wbs-speedtest.tools.gcore.com](http://wbs-speedtest.tools.gcore.com)
+* [ww-speedtest.tools.gcore.com](http://ww-speedtest.tools.gcore.com)
 ### hybridserver.net
 * [http://lg-brazil.hybridserver.net/](http://lg-brazil.hybridserver.net/)
 * [http://lg-denmark.hybridserver.net/](http://lg-denmark.hybridserver.net/)
@@ -1571,6 +1598,10 @@ Collects data from a bunch of sources,
 ### aws
 * [http://ec2-reachability.amazonaws.com](http://ec2-reachability.amazonaws.com)
 * [http://ipv6.ec2-reachability.amazonaws.com/](http://ipv6.ec2-reachability.amazonaws.com/)
+### ovh
+* [https://lg.ovh.net](https://lg.ovh.net)
+### edgecneter
+* [https://lg.edgecenter.ru](https://lg.edgecenter.ru)
 ### Cyxym
 * [looking.house/point.php?id=568](http://looking.house/point.php?id=568)
 ### Shock Hosting
@@ -2312,11 +2343,11 @@ Collects data from a bunch of sources,
 * [looking.house/point.php?id=68](http://looking.house/point.php?id=68)
 ### UK Host4u
 * [looking.house/point.php?id=280](http://looking.house/point.php?id=280)
+### ovh.ca
+* [bhs.proof.ovh.ca](http://bhs.proof.ovh.ca)
 ### ovh.us
 * [hil.proof.ovh.us](http://hil.proof.ovh.us)
 * [vin.proof.ovh.us](http://vin.proof.ovh.us)
-### ovh.ca
-* [bhs.proof.ovh.ca](http://bhs.proof.ovh.ca)
 ### bluevps.com
 * [ams-speedtest.lg.bluevps.com](http://ams-speedtest.lg.bluevps.com)
 * [ams2-speedtest.lg.bluevps.com](http://ams2-speedtest.lg.bluevps.com)
@@ -2398,3 +2429,5 @@ Collects data from a bunch of sources,
 * [speedtest.syd12.au.leaseweb.net](http://speedtest.syd12.au.leaseweb.net)
 * [speedtest.tyo11.jp.leaseweb.net](http://speedtest.tyo11.jp.leaseweb.net)
 * [speedtest.wdc2.us.leaseweb.net](http://speedtest.wdc2.us.leaseweb.net)
+### gcore.lu
+* [lg.gcore.lu](http://lg.gcore.lu)

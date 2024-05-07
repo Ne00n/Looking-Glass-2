@@ -43,7 +43,10 @@ for file in files:
         request = requests.get(link,allow_redirects=True,timeout=6,headers=headers)
         if (request.status_code != 200): print(f"Got {request.status_code} for {link}")
         response = HTML(html=request.text)
-        for target in response.absolute_links:
+        parsedLinks = list(response.absolute_links)
+        if "gcore" in link:
+            parsedLinks.extend(re.findall("\/\/(.*?-speedtest.tools.gcore.com)",request.text, re.MULTILINE))
+        for target in parsedLinks:
             if any(element in target for element in tags) or ( not any(element in target for element in ignore) and  any(target.replace("https://","").startswith(element) for element in countries)):
                 print(f"Checking {target}")
                 ext = tldextract.extract(target)
@@ -75,17 +78,3 @@ print(f"Saving {default}")
 with open(os.getcwd()+'/data/'+default, 'w') as f:
     json.dump(data, f, indent=4)
 
-Core = Base()
-print("Merging files")
-list = Core.merge()
-
-print("Updating Readme")
-readme = Core.readme(list)
-
-print("Saving Readme")
-with open(os.getcwd()+"/README.md", 'w') as f:
-    f.write(readme)
-
-print(f"Saving everything.json")
-with open(os.getcwd()+'/data/everything.json', 'w') as f:
-    json.dump(list, f, indent=4)

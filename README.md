@@ -1007,10 +1007,6 @@ Collects data from a bunch of sources,
 * [https://lg.loveservers.com/](https://lg.loveservers.com/)
 ### getwebhosting.co.uk
 * [https://xhosts.uk/uk-ddos-protected-vps/](https://xhosts.uk/uk-ddos-protected-vps/)
-### securebit.ch
-* [https://www.securebit.ch/support/kb/5e319ae022435-Icinga-Web-2--Alle-konfigurierten-Authentifizierungsmethoden-sind-fehlgeschlagen.](https://www.securebit.ch/support/kb/5e319ae022435-Icinga-Web-2--Alle-konfigurierten-Authentifizierungsmethoden-sind-fehlgeschlagen.)
-* [https://www.securebit.ch/support/kb/5e0da23713b67-Parallels-Plesk-Speicherplatzkontingent-Synchronisierung-fehlgeschlagen](https://www.securebit.ch/support/kb/5e0da23713b67-Parallels-Plesk-Speicherplatzkontingent-Synchronisierung-fehlgeschlagen)
-* [https://www.securebit.ch/tools/network/looking_glass](https://www.securebit.ch/tools/network/looking_glass)
 ### x4b.org
 * [https://lg.x4b.net/](https://lg.x4b.net/)
 ### interserver.net
@@ -1405,6 +1401,8 @@ Collects data from a bunch of sources,
 * [https://rackservice.org/datacenter-germany](https://rackservice.org/datacenter-germany)
 * [https://rackservice.org/datacenter-italy.html](https://rackservice.org/datacenter-italy.html)
 * [https://rackservice.org/datacenter-netherlands.html](https://rackservice.org/datacenter-netherlands.html)
+### securebit.ch
+* [https://www.securebit.ch/tools/network/looking_glass](https://www.securebit.ch/tools/network/looking_glass)
 ### deltahost.ua
 * [https://deltahost.ua/datacenter.html](https://deltahost.ua/datacenter.html)
 ### ownwebservers.com

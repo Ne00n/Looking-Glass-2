@@ -6440,26 +6440,6 @@
         }
     },
     "skb-enterprise.com": {},
-    "securebit.ch": {
-        "https://www.securebit.ch/support/kb/5e319ae022435-Icinga-Web-2--Alle-konfigurierten-Authentifizierungsmethoden-sind-fehlgeschlagen.": {
-            "ipv4": {},
-            "ipv6": {
-                "2407:b9c0:f001:": "n/a"
-            }
-        },
-        "https://www.securebit.ch/support/kb/5e0da23713b67-Parallels-Plesk-Speicherplatzkontingent-Synchronisierung-fehlgeschlagen": {
-            "ipv4": {},
-            "ipv6": {
-                "2603:c022:0:644": "n/a"
-            }
-        },
-        "https://www.securebit.ch/tools/network/looking_glass": {
-            "ipv4": {},
-            "ipv6": {
-                "2a02:8109:a4a6:": "n/a"
-            }
-        }
-    },
     "x4b.org": {
         "https://lg.x4b.net/": {
             "ipv4": {
@@ -9455,6 +9435,14 @@
                 "93.190.136.17": "Naaldwijk, The Netherlands"
             },
             "ipv6": {}
+        }
+    },
+    "securebit.ch": {
+        "https://www.securebit.ch/tools/network/looking_glass": {
+            "ipv4": {},
+            "ipv6": {
+                "2a02:8109:a4a6:": "n/a"
+            }
         }
     },
     "acknowledge.nl": {},

@@ -658,7 +658,6 @@ Collects data from a bunch of sources,
 * [https://swedendedicated.com/vps/](https://swedendedicated.com/vps/)
 ### clouvider.net
 * [ams.speedtest.clouvider.net](http://ams.speedtest.clouvider.net)
-* [ash.speedtest.clouvider.net](http://ash.speedtest.clouvider.net)
 * [atl.speedtest.clouvider.net](http://atl.speedtest.clouvider.net)
 * [dal.speedtest.clouvider.net](http://dal.speedtest.clouvider.net)
 * [fra.speedtest.clouvider.net](http://fra.speedtest.clouvider.net)
@@ -668,6 +667,7 @@ Collects data from a bunch of sources,
 * [man.speedtest.clouvider.net](http://man.speedtest.clouvider.net)
 * [nyc.speedtest.clouvider.net](http://nyc.speedtest.clouvider.net)
 * [phx.speedtest.clouvider.net](http://phx.speedtest.clouvider.net)
+* [ash.speedtest.clouvider.net](http://ash.speedtest.clouvider.net)
 ### xhosts.uk
 * [http://lg.xhosts.uk/](http://lg.xhosts.uk/)
 ### hosterion.net
@@ -728,6 +728,19 @@ Collects data from a bunch of sources,
 * [http://lg.ams.hosthatch.com/](http://lg.ams.hosthatch.com/)
 * [http://lg.ny.hosthatch.com/](http://lg.ny.hosthatch.com/)
 * [http://lg.vie.hosthatch.com/](http://lg.vie.hosthatch.com/)
+* [lg.chi.hosthatch.com](http://lg.chi.hosthatch.com)
+* [lg.hkg.hosthatch.com](http://lg.hkg.hosthatch.com)
+* [lg.lax.hosthatch.com](http://lg.lax.hosthatch.com)
+* [lg.lon.hosthatch.com](http://lg.lon.hosthatch.com)
+* [lg.mad.hosthatch.com](http://lg.mad.hosthatch.com)
+* [lg.mil.hosthatch.com](http://lg.mil.hosthatch.com)
+* [lg.osl.hosthatch.com](http://lg.osl.hosthatch.com)
+* [lg.sgp.hosthatch.com](http://lg.sgp.hosthatch.com)
+* [lg.sto.hosthatch.com](http://lg.sto.hosthatch.com)
+* [lg.syd.hosthatch.com](http://lg.syd.hosthatch.com)
+* [lg.tok.hosthatch.com](http://lg.tok.hosthatch.com)
+* [lg.waw.hosthatch.com](http://lg.waw.hosthatch.com)
+* [lg.zrh.hosthatch.com](http://lg.zrh.hosthatch.com)
 ### readyserver.sg
 * [http://speedtest.readyserver.sg/](http://speedtest.readyserver.sg/)
 ### hosterion.com
@@ -2343,11 +2356,11 @@ Collects data from a bunch of sources,
 * [looking.house/point.php?id=68](http://looking.house/point.php?id=68)
 ### UK Host4u
 * [looking.house/point.php?id=280](http://looking.house/point.php?id=280)
-### ovh.ca
-* [bhs.proof.ovh.ca](http://bhs.proof.ovh.ca)
 ### ovh.us
 * [hil.proof.ovh.us](http://hil.proof.ovh.us)
 * [vin.proof.ovh.us](http://vin.proof.ovh.us)
+### ovh.ca
+* [bhs.proof.ovh.ca](http://bhs.proof.ovh.ca)
 ### bluevps.com
 * [ams-speedtest.lg.bluevps.com](http://ams-speedtest.lg.bluevps.com)
 * [ams2-speedtest.lg.bluevps.com](http://ams2-speedtest.lg.bluevps.com)

@@ -1,115 +1,11 @@
 {
     "linode.com": {
-        "speedtest.frankfurt.linode.com": {
+        "speedtest.madrid.linode.com": {
             "ipv4": [
-                "139.162.130.8"
+                "172.233.111.7"
             ],
             "ipv6": [
-                "2a01:7e01::f03c:91ff:fe26:8794"
-            ]
-        },
-        "speedtest.paris.linode.com": {
-            "ipv4": [
-                "172.232.32.31"
-            ],
-            "ipv6": [
-                "2600:3c07::f03c:93ff:feb7:c3be"
-            ]
-        },
-        "speedtest.tokyo2.linode.com": {
-            "ipv4": [
-                "139.162.65.37"
-            ],
-            "ipv6": [
-                "2400:8902::f03c:91ff:fe16:ffaa"
-            ]
-        },
-        "speedtest.london.linode.com": {
-            "ipv4": [
-                "176.58.107.39"
-            ],
-            "ipv6": [
-                "2a01:7e00::f03c:91ff:feae:657"
-            ]
-        },
-        "speedtest.newark.linode.com": {
-            "ipv4": [
-                "50.116.57.237"
-            ],
-            "ipv6": [
-                "2600:3c03::f03c:91ff:feae:65e"
-            ]
-        },
-        "speedtest.dallas.linode.com": {
-            "ipv4": [
-                "50.116.25.154"
-            ],
-            "ipv6": [
-                "2600:3c00::f03c:91ff:feae:603"
-            ]
-        },
-        "speedtest.miami.linode.com": {
-            "ipv4": [
-                "172.233.160.12"
-            ],
-            "ipv6": [
-                "2a01:7e04::f03c:93ff:fead:d398"
-            ]
-        },
-        "speedtest.sao-paulo.linode.com": {
-            "ipv4": [
-                "172.233.0.26"
-            ],
-            "ipv6": [
-                "2600:3c0d::f03c:93ff:fe3d:6e63"
-            ]
-        },
-        "speedtest.stockholm.linode.com": {
-            "ipv4": [
-                "172.232.128.9"
-            ],
-            "ipv6": [
-                "2600:3c09::f03c:93ff:feba:8f43"
-            ]
-        },
-        "speedtest.amsterdam.linode.com": {
-            "ipv4": [
-                "172.233.33.22"
-            ],
-            "ipv6": [
-                "2600:3c0e::f03c:93ff:fe9d:2de0"
-            ]
-        },
-        "speedtest.syd1.linode.com": {
-            "ipv4": [
-                "172.105.174.7"
-            ],
-            "ipv6": [
-                "2400:8907::f03c:92ff:fe6e:a16f"
-            ]
-        },
-        "speedtest.atlanta.linode.com": {
-            "ipv4": [
-                "192.155.94.157"
-            ],
-            "ipv6": [
-                "2600:3c02::f03c:93ff:fe76:6b67"
-            ]
-        },
-        "speedtest.chennai.linode.com": {
-            "ipv4": [
-                "172.232.96.28"
-            ],
-            "ipv6": [
-                "2600:3c08::f03c:93ff:fe7c:11f2"
-            ]
-        },
-        "speedtest.singapore.linode.com": {
-            "ipv4": [
-                "139.162.23.4"
-            ],
-            "ipv6": [
-                "2400:8901::f03c:91ff:fe84:541d"
+                "2a01:7e02::f03c:93ff:feea:b5b5"
             ]
         },
         "speedtest.washington.linode.com": {
@@ -120,36 +16,20 @@
                 "2600:3c05::f03c:93ff:fe07:ebe"
             ]
         },
-        "speedtest.milan.linode.com": {
+        "speedtest.chennai.linode.com": {
             "ipv4": [
-                "172.232.192.34"
+                "172.232.96.28"
             ],
             "ipv6": [
-                "2600:3c0b::f03c:93ff:feba:d504"
+                "2600:3c08::f03c:93ff:fe7c:11f2"
             ]
         },
-        "speedtest.seattle.linode.com": {
+        "speedtest.paris.linode.com": {
             "ipv4": [
-                "172.232.160.30"
+                "172.232.32.31"
             ],
             "ipv6": [
-                "2600:3c0a::f03c:93ff:fe54:c66f"
-            ]
-        },
-        "speedtest.chicago.linode.com": {
-            "ipv4": [
-                "172.232.0.29"
-            ],
-            "ipv6": [
-                "2600:3c06::f03c:93ff:fed0:e5d8"
-            ]
-        },
-        "speedtest.madrid.linode.com": {
-            "ipv4": [
-                "172.233.111.7"
-            ],
-            "ipv6": [
-                "2a01:7e02::f03c:93ff:feea:b5b5"
+                "2600:3c07::f03c:93ff:feb7:c3be"
             ]
         },
         "speedtest.los-angeles.linode.com": {
@@ -158,6 +38,70 @@
             ],
             "ipv6": [
                 "2a01:7e03::f03c:93ff:feb1:b772"
+            ]
+        },
+        "speedtest.miami.linode.com": {
+            "ipv4": [
+                "172.233.160.12"
+            ],
+            "ipv6": [
+                "2a01:7e04::f03c:93ff:fead:d398"
+            ]
+        },
+        "speedtest.london.linode.com": {
+            "ipv4": [
+                "176.58.107.39"
+            ],
+            "ipv6": [
+                "2a01:7e00::f03c:91ff:feae:657"
+            ]
+        },
+        "speedtest.mumbai1.linode.com": {
+            "ipv4": [
+                "172.105.33.31"
+            ],
+            "ipv6": [
+                "2400:8904::f03c:91ff:fea5:928b"
+            ]
+        },
+        "speedtest.newark.linode.com": {
+            "ipv4": [
+                "50.116.57.237"
+            ],
+            "ipv6": [
+                "2600:3c03::f03c:91ff:feae:65e"
+            ]
+        },
+        "speedtest.toronto1.linode.com": {
+            "ipv4": [
+                "172.105.30.21"
+            ],
+            "ipv6": [
+                "2600:3c04::f03c:91ff:feba:c4f8"
+            ]
+        },
+        "speedtest.stockholm.linode.com": {
+            "ipv4": [
+                "172.232.128.9"
+            ],
+            "ipv6": [
+                "2600:3c09::f03c:93ff:feba:8f43"
+            ]
+        },
+        "speedtest.syd1.linode.com": {
+            "ipv4": [
+                "172.105.174.7"
+            ],
+            "ipv6": [
+                "2400:8907::f03c:92ff:fe6e:a16f"
+            ]
+        },
+        "speedtest.tokyo2.linode.com": {
+            "ipv4": [
+                "139.162.65.37"
+            ],
+            "ipv6": [
+                "2400:8902::f03c:91ff:fe16:ffaa"
             ]
         },
         "speedtest.fremont.linode.com": {
@@ -176,6 +120,78 @@
                 "2600:3c0c::f03c:93ff:feed:a921"
             ]
         },
+        "speedtest.dallas.linode.com": {
+            "ipv4": [
+                "50.116.25.154"
+            ],
+            "ipv6": [
+                "2600:3c00::f03c:91ff:feae:603"
+            ]
+        },
+        "speedtest.seattle.linode.com": {
+            "ipv4": [
+                "172.232.160.30"
+            ],
+            "ipv6": [
+                "2600:3c0a::f03c:93ff:fe54:c66f"
+            ]
+        },
+        "speedtest.frankfurt.linode.com": {
+            "ipv4": [
+                "139.162.130.8"
+            ],
+            "ipv6": [
+                "2a01:7e01::f03c:91ff:fe26:8794"
+            ]
+        },
+        "speedtest.singapore.linode.com": {
+            "ipv4": [
+                "139.162.23.4"
+            ],
+            "ipv6": [
+                "2400:8901::f03c:91ff:fe84:541d"
+            ]
+        },
+        "speedtest.chicago.linode.com": {
+            "ipv4": [
+                "172.232.0.29"
+            ],
+            "ipv6": [
+                "2600:3c06::f03c:93ff:fed0:e5d8"
+            ]
+        },
+        "speedtest.amsterdam.linode.com": {
+            "ipv4": [
+                "172.233.33.22"
+            ],
+            "ipv6": [
+                "2600:3c0e::f03c:93ff:fe9d:2de0"
+            ]
+        },
+        "speedtest.milan.linode.com": {
+            "ipv4": [
+                "172.232.192.34"
+            ],
+            "ipv6": [
+                "2600:3c0b::f03c:93ff:feba:d504"
+            ]
+        },
+        "speedtest.sao-paulo.linode.com": {
+            "ipv4": [
+                "172.233.0.26"
+            ],
+            "ipv6": [
+                "2600:3c0d::f03c:93ff:fe3d:6e63"
+            ]
+        },
+        "speedtest.atlanta.linode.com": {
+            "ipv4": [
+                "192.155.94.157"
+            ],
+            "ipv6": [
+                "2600:3c02::f03c:93ff:fe76:6b67"
+            ]
+        },
         "speedtest.osaka.linode.com": {
             "ipv4": [
                 "172.233.64.142"
@@ -183,31 +199,31 @@
             "ipv6": [
                 "2400:8905::f03c:93ff:fe8b:326b"
             ]
-        },
-        "speedtest.mumbai1.linode.com": {
-            "ipv4": [
-                "172.105.33.31"
-            ],
-            "ipv6": [
-                "2400:8904::f03c:91ff:fea5:928b"
-            ]
-        },
-        "speedtest.toronto1.linode.com": {
-            "ipv4": [
-                "172.105.30.21"
-            ],
-            "ipv6": [
-                "2600:3c04::f03c:91ff:feba:c4f8"
-            ]
         }
     },
     "ovh.net": {
-        "sgp.proof.ovh.net": {
+        "gra.proof.ovh.net": {
             "ipv4": [
-                "15.235.182.181"
+                "141.94.30.145"
             ],
             "ipv6": [
-                "2402:1f00:8001:1bb5::"
+                "2001:41d0:303:fa91::"
+            ]
+        },
+        "rbx.proof.ovh.net": {
+            "ipv4": [
+                "141.95.207.211"
+            ],
+            "ipv6": [
+                "2001:41d0:242:d300::"
+            ]
+        },
+        "bom.proof.ovh.net": {
+            "ipv4": [
+                "148.113.1.33"
+            ],
+            "ipv6": [
+                "2402:1f00:8300:121::"
             ]
         },
         "eri.proof.ovh.net": {
@@ -226,12 +242,12 @@
                 "2001:41d0:403:3328::1"
             ]
         },
-        "gra.proof.ovh.net": {
+        "sgp.proof.ovh.net": {
             "ipv4": [
-                "141.94.30.145"
+                "15.235.182.181"
             ],
             "ipv6": [
-                "2001:41d0:303:fa91::"
+                "2402:1f00:8001:1bb5::"
             ]
         },
         "syd.proof.ovh.net": {
@@ -240,32 +256,6 @@
             ],
             "ipv6": [
                 "2402:1f00:8201:586::"
-            ]
-        },
-        "bom.proof.ovh.net": {
-            "ipv4": [
-                "148.113.1.33"
-            ],
-            "ipv6": [
-                "2402:1f00:8300:121::"
-            ]
-        },
-        "rbx.proof.ovh.net": {
-            "ipv4": [
-                "141.95.207.211"
-            ],
-            "ipv6": [
-                "2001:41d0:242:d300::"
-            ]
-        }
-    },
-    "ovh.ca": {
-        "bhs.proof.ovh.ca": {
-            "ipv4": [
-                "51.222.154.207"
-            ],
-            "ipv6": [
-                "2607:5300:203:8acf::1"
             ]
         }
     },
@@ -283,29 +273,31 @@
             "ipv6": []
         }
     },
+    "ovh.ca": {
+        "bhs.proof.ovh.ca": {
+            "ipv4": [
+                "51.222.154.207"
+            ],
+            "ipv6": [
+                "2607:5300:203:8acf::1"
+            ]
+        }
+    },
     "ramnode.com": {
-        "lg.nyc.ramnode.com": {
-            "ipv4": [
-                "168.235.89.44"
-            ],
-            "ipv6": [
-                "2604:180:2::d2a1:3da5"
-            ]
-        },
-        "lg.la.ramnode.com": {
-            "ipv4": [
-                "168.235.72.22"
-            ],
-            "ipv6": [
-                "2604:180:3:1::f1"
-            ]
-        },
         "lg.sea.ramnode.com": {
             "ipv4": [
                 "23.226.229.4"
             ],
             "ipv6": [
                 "2604:180:1::bd5a:1cb3"
+            ]
+        },
+        "lg.nyc.ramnode.com": {
+            "ipv4": [
+                "168.235.89.44"
+            ],
+            "ipv6": [
+                "2604:180:2::d2a1:3da5"
             ]
         },
         "lg.atl.ramnode.com": {
@@ -315,54 +307,20 @@
             "ipv6": [
                 "2604:180::9b07:1d5b"
             ]
+        },
+        "lg.la.ramnode.com": {
+            "ipv4": [
+                "168.235.72.22"
+            ],
+            "ipv6": [
+                "2604:180:3:1::f1"
+            ]
         }
     },
     "bluevps.com": {
-        "waw-speedtest.lg.bluevps.com": {
+        "syd-speedtest.lg.bluevps.com": {
             "ipv4": [
-                "194.61.121.10"
-            ],
-            "ipv6": []
-        },
-        "lim-speedtest.lg.bluevps.com": {
-            "ipv4": [
-                "54.38.222.82"
-            ],
-            "ipv6": []
-        },
-        "lon-speedtest.lg.bluevps.com": {
-            "ipv4": [
-                "62.182.96.101"
-            ],
-            "ipv6": []
-        },
-        "atl-speedtest.lg.bluevps.com": {
-            "ipv4": [
-                "193.35.224.242"
-            ],
-            "ipv6": []
-        },
-        "sgp-speedtest.lg.bluevps.com": {
-            "ipv4": [
-                "15.235.144.57"
-            ],
-            "ipv6": []
-        },
-        "hkg-speedtest.lg.bluevps.com": {
-            "ipv4": [
-                "103.253.40.191"
-            ],
-            "ipv6": []
-        },
-        "tll-speedtest.lg.bluevps.com": {
-            "ipv4": [
-                "77.72.85.25"
-            ],
-            "ipv6": []
-        },
-        "lms-speedtest.lg.bluevps.com": {
-            "ipv4": [
-                "85.239.41.247"
+                "139.99.149.97"
             ],
             "ipv6": []
         },
@@ -372,15 +330,39 @@
             ],
             "ipv6": []
         },
-        "bhs-speedtest.lg.bluevps.com": {
+        "lon-speedtest.lg.bluevps.com": {
             "ipv4": [
-                "15.235.82.175"
+                "62.182.96.101"
             ],
             "ipv6": []
         },
-        "pmo-speedtest.lg.bluevps.com": {
+        "waw-speedtest.lg.bluevps.com": {
             "ipv4": [
-                "91.201.64.50"
+                "194.61.121.10"
+            ],
+            "ipv6": []
+        },
+        "pet-speedtest.lg.bluevps.com": {
+            "ipv4": [
+                "185.185.133.122"
+            ],
+            "ipv6": []
+        },
+        "lax-speedtest.lg.bluevps.com": {
+            "ipv4": [
+                "88.210.36.34"
+            ],
+            "ipv6": []
+        },
+        "lms-speedtest.lg.bluevps.com": {
+            "ipv4": [
+                "85.239.41.247"
+            ],
+            "ipv6": []
+        },
+        "bhs-speedtest.lg.bluevps.com": {
+            "ipv4": [
+                "15.235.82.175"
             ],
             "ipv6": []
         },
@@ -396,27 +378,9 @@
             ],
             "ipv6": []
         },
-        "sof-speedtest.lg.bluevps.com": {
+        "ams2-speedtest.lg.bluevps.com": {
             "ipv4": [
-                "77.72.20.98"
-            ],
-            "ipv6": []
-        },
-        "pet-speedtest.lg.bluevps.com": {
-            "ipv4": [
-                "185.185.133.122"
-            ],
-            "ipv6": []
-        },
-        "syd-speedtest.lg.bluevps.com": {
-            "ipv4": [
-                "139.99.149.97"
-            ],
-            "ipv6": []
-        },
-        "stk-speedtest.lg.bluevps.com": {
-            "ipv4": [
-                "46.246.98.253"
+                "146.19.254.2"
             ],
             "ipv6": []
         },
@@ -426,38 +390,90 @@
             ],
             "ipv6": []
         },
+        "ams-speedtest.lg.bluevps.com": {
+            "ipv4": [
+                "46.249.49.253"
+            ],
+            "ipv6": []
+        },
+        "lim-speedtest.lg.bluevps.com": {
+            "ipv4": [
+                "54.38.222.82"
+            ],
+            "ipv6": []
+        },
+        "atl-speedtest.lg.bluevps.com": {
+            "ipv4": [
+                "193.35.224.242"
+            ],
+            "ipv6": []
+        },
+        "hkg-speedtest.lg.bluevps.com": {
+            "ipv4": [
+                "103.253.40.191"
+            ],
+            "ipv6": []
+        },
+        "sof-speedtest.lg.bluevps.com": {
+            "ipv4": [
+                "77.72.20.98"
+            ],
+            "ipv6": []
+        },
         "fjr-speedtest.lg.bluevps.com": {
             "ipv4": [
                 "5.42.206.138"
             ],
             "ipv6": []
         },
-        "ams2-speedtest.lg.bluevps.com": {
+        "stk-speedtest.lg.bluevps.com": {
             "ipv4": [
-                "146.19.254.2"
+                "46.246.98.253"
             ],
             "ipv6": []
         },
-        "lax-speedtest.lg.bluevps.com": {
+        "tll-speedtest.lg.bluevps.com": {
             "ipv4": [
-                "88.210.36.34"
+                "77.72.85.25"
             ],
             "ipv6": []
         },
-        "ams-speedtest.lg.bluevps.com": {
+        "pmo-speedtest.lg.bluevps.com": {
             "ipv4": [
-                "46.249.49.253"
+                "91.201.64.50"
+            ],
+            "ipv6": []
+        },
+        "sgp-speedtest.lg.bluevps.com": {
+            "ipv4": [
+                "15.235.144.57"
             ],
             "ipv6": []
         }
     },
     "hostus.us": {
-        "wdc-lg.hostus.us": {
+        "sgp-lg.hostus.us": {
             "ipv4": [
-                "216.189.157.2"
+                "210.16.120.5"
             ],
             "ipv6": [
-                "2602:ffc5:40::1:ec35"
+                "2403:5680::1:8888"
+            ]
+        },
+        "dal-lg.hostus.us": {
+            "ipv4": [
+                "104.128.239.2"
+            ],
+            "ipv6": [
+                "2602:ffc5:1f::14fd:d790"
+            ]
+        },
+        "syd-lg.hostus.us": {
+            "ipv4": [
+                "27.100.36.5"
+            ],
+            "ipv6": [
+                "2402:9e80:1::1:a4a4"
             ]
         },
         "la-lg.hostus.us": {
@@ -476,54 +492,6 @@
                 "2602:ffc5:50::1:5f8a"
             ]
         },
-        "ams-lg.hostus.us": {
-            "ipv4": [
-                "185.185.40.2"
-            ],
-            "ipv6": [
-                "2a0b:7080:10::1:e22d"
-            ]
-        },
-        "atl-lg.hostus.us": {
-            "ipv4": [
-                "45.58.56.3"
-            ],
-            "ipv6": [
-                "2602:ffc5:70::1:aaaa"
-            ]
-        },
-        "hk-lg.hostus.us": {
-            "ipv4": [
-                "45.124.64.3"
-            ],
-            "ipv6": [
-                "2402:9e80:0:1000::1:918b"
-            ]
-        },
-        "dal02-lg.hostus.us": {
-            "ipv4": [
-                "45.58.55.2"
-            ],
-            "ipv6": [
-                "2602:ffc5:30::1:bc16"
-            ]
-        },
-        "sgp-lg.hostus.us": {
-            "ipv4": [
-                "210.16.120.5"
-            ],
-            "ipv6": [
-                "2403:5680::1:8888"
-            ]
-        },
-        "clt-lg.hostus.us": {
-            "ipv4": [
-                "162.245.216.243"
-            ],
-            "ipv6": [
-                "2602:ffc5::a4fe:d5f9"
-            ]
-        },
         "lon-lg.hostus.us": {
             "ipv4": [
                 "83.143.116.6"
@@ -538,70 +506,62 @@
             ],
             "ipv6": []
         },
-        "syd-lg.hostus.us": {
+        "hk-lg.hostus.us": {
             "ipv4": [
-                "27.100.36.5"
+                "45.124.64.3"
             ],
             "ipv6": [
-                "2402:9e80:1::1:a4a4"
+                "2402:9e80:0:1000::1:918b"
             ]
         },
-        "dal-lg.hostus.us": {
+        "ams-lg.hostus.us": {
             "ipv4": [
-                "104.128.239.2"
+                "185.185.40.2"
             ],
             "ipv6": [
-                "2602:ffc5:1f::14fd:d790"
+                "2a0b:7080:10::1:e22d"
+            ]
+        },
+        "dal02-lg.hostus.us": {
+            "ipv4": [
+                "45.58.55.2"
+            ],
+            "ipv6": [
+                "2602:ffc5:30::1:bc16"
+            ]
+        },
+        "clt-lg.hostus.us": {
+            "ipv4": [
+                "162.245.216.243"
+            ],
+            "ipv6": [
+                "2602:ffc5::a4fe:d5f9"
+            ]
+        },
+        "atl-lg.hostus.us": {
+            "ipv4": [
+                "45.58.56.3"
+            ],
+            "ipv6": [
+                "2602:ffc5:70::1:aaaa"
+            ]
+        },
+        "wdc-lg.hostus.us": {
+            "ipv4": [
+                "216.189.157.2"
+            ],
+            "ipv6": [
+                "2602:ffc5:40::1:ec35"
             ]
         }
     },
     "edisglobal.com": {
-        "co.edisglobal.com": {
-            "ipv4": [
-                "103.57.250.10"
-            ],
-            "ipv6": [
-                "2a03:f80:57:da31::1"
-            ]
-        },
-        "ca.edisglobal.com": {
-            "ipv4": [
-                "192.71.227.10"
-            ],
-            "ipv6": [
-                "2605:3b80:cad:d2ed::1"
-            ]
-        },
         "gr.edisglobal.com": {
             "ipv4": [
                 "192.71.166.10"
             ],
             "ipv6": [
                 "2a03:f80:30:2f07::1"
-            ]
-        },
-        "fr.edisglobal.com": {
-            "ipv4": [
-                "158.255.215.250"
-            ],
-            "ipv6": [
-                "2a03:f80:33:bf92::1"
-            ]
-        },
-        "il.edisglobal.com": {
-            "ipv4": [
-                "193.182.144.14"
-            ],
-            "ipv6": [
-                "2a03:f80:972:2767::1"
-            ]
-        },
-        "hk.edisglobal.com": {
-            "ipv4": [
-                "158.255.208.12"
-            ],
-            "ipv6": [
-                "2a03:f80:852:b422::1"
             ]
         },
         "de.edisglobal.com": {
@@ -612,164 +572,12 @@
                 "2a03:f80:49:2d9d::1"
             ]
         },
-        "no.edisglobal.com": {
+        "cl.edisglobal.com": {
             "ipv4": [
-                "194.68.32.10"
+                "37.235.52.10"
             ],
             "ipv6": [
-                "2a03:f80:47:22a9::1"
-            ]
-        },
-        "us.edisglobal.com": {
-            "ipv4": [
-                "158.255.213.100"
-            ],
-            "ipv6": [
-                "2605:3b80:1:a584::1"
-            ]
-        },
-        "jp.edisglobal.com": {
-            "ipv4": [
-                "194.68.27.10"
-            ],
-            "ipv6": [
-                "2a03:f80:81:c266::1"
-            ]
-        },
-        "pl.edisglobal.com": {
-            "ipv4": [
-                "37.235.48.250"
-            ],
-            "ipv6": [
-                "2a03:f80:48:e3c6::1"
-            ]
-        },
-        "is.edisglobal.com": {
-            "ipv4": [
-                "37.235.49.250"
-            ],
-            "ipv6": [
-                "2a03:f80:354:2b0b::1"
-            ]
-        },
-        "it.edisglobal.com": {
-            "ipv4": [
-                "149.154.157.31"
-            ],
-            "ipv6": [
-                "2a03:f80:39:200e::1"
-            ]
-        },
-        "mk.edisglobal.com": {
-            "ipv4": [
-                "46.183.185.10"
-            ],
-            "ipv6": [
-                "2a03:f80:389:d190::1"
-            ]
-        },
-        "lv.edisglobal.com": {
-            "ipv4": [
-                "192.36.41.10"
-            ],
-            "ipv6": [
-                "2a03:f80:371:c918::1"
-            ]
-        },
-        "hr.edisglobal.com": {
-            "ipv4": [
-                "46.183.184.10"
-            ],
-            "ipv6": [
-                "2a03:f80:385:5b6::1"
-            ]
-        },
-        "dk.edisglobal.com": {
-            "ipv4": [
-                "192.36.27.10"
-            ],
-            "ipv6": [
-                "2a03:f80:45:c97b::1"
-            ]
-        },
-        "im.edisglobal.com": {
-            "ipv4": [
-                "37.235.55.22"
-            ],
-            "ipv6": [
-                "2a03:f80:44:d706::1"
-            ]
-        },
-        "cy.edisglobal.com": {
-            "ipv4": [
-                "134.255.210.10"
-            ],
-            "ipv6": [
-                "2a03:f80:357:c1b6::1"
-            ]
-        },
-        "se.edisglobal.com": {
-            "ipv4": [
-                "46.246.93.100"
-            ],
-            "ipv6": [
-                "2a00:1a28:1251:83ed::1"
-            ]
-        },
-        "md.edisglobal.com": {
-            "ipv4": [
-                "192.121.87.10"
-            ],
-            "ipv6": [
-                "2a03:f80:373:4a1c::1"
-            ]
-        },
-        "ru.edisglobal.com": {
-            "ipv4": [
-                "213.183.56.10"
-            ],
-            "ipv6": [
-                "2a03:f80:7:f574::1"
-            ]
-        },
-        "rs.edisglobal.com": {
-            "ipv4": [
-                "194.71.126.10"
-            ],
-            "ipv6": [
-                "2a03:f80:381:4ae8::1"
-            ]
-        },
-        "bg.edisglobal.com": {
-            "ipv4": [
-                "194.68.225.10"
-            ],
-            "ipv6": [
-                "2a03:f80:359:da98::1"
-            ]
-        },
-        "at.edisglobal.com": {
-            "ipv4": [
-                "149.154.154.90"
-            ],
-            "ipv6": [
-                "2a03:f80:ed15:435a::1"
-            ]
-        },
-        "ch.edisglobal.com": {
-            "ipv4": [
-                "178.209.51.90"
-            ],
-            "ipv6": [
-                "2a02:418:6a04:7d7f::1"
-            ]
-        },
-        "lt.edisglobal.com": {
-            "ipv4": [
-                "192.36.61.10"
-            ],
-            "ipv6": [
-                "2a03:f80:370:825c::1"
+                "2a03:f80:56:d8de::1"
             ]
         },
         "be.edisglobal.com": {
@@ -780,12 +588,36 @@
                 "2a03:f80:32:95f4::1"
             ]
         },
-        "sg.edisglobal.com": {
+        "lt.edisglobal.com": {
             "ipv4": [
-                "194.68.26.10"
+                "192.36.61.10"
             ],
             "ipv6": [
-                "2a03:f80:65:645d::1"
+                "2a03:f80:370:825c::1"
+            ]
+        },
+        "bg.edisglobal.com": {
+            "ipv4": [
+                "194.68.225.10"
+            ],
+            "ipv6": [
+                "2a03:f80:359:da98::1"
+            ]
+        },
+        "pl.edisglobal.com": {
+            "ipv4": [
+                "37.235.48.250"
+            ],
+            "ipv6": [
+                "2a03:f80:48:e3c6::1"
+            ]
+        },
+        "hk.edisglobal.com": {
+            "ipv4": [
+                "158.255.208.12"
+            ],
+            "ipv6": [
+                "2a03:f80:852:b422::1"
             ]
         },
         "ae.edisglobal.com": {
@@ -796,20 +628,20 @@
                 "2a03:f80:971:ba4c::1"
             ]
         },
-        "es.edisglobal.com": {
+        "rs.edisglobal.com": {
             "ipv4": [
-                "37.235.53.10"
+                "194.71.126.10"
             ],
             "ipv6": [
-                "2a00:1d70:ed15:a2c::1"
+                "2a03:f80:381:4ae8::1"
             ]
         },
-        "cz.edisglobal.com": {
+        "hr.edisglobal.com": {
             "ipv4": [
-                "193.235.207.10"
+                "46.183.184.10"
             ],
             "ipv6": [
-                "2a03:f80:420:b614::1"
+                "2a03:f80:385:5b6::1"
             ]
         },
         "ro.edisglobal.com": {
@@ -828,6 +660,134 @@
                 "2a03:f80:386:1b12::1"
             ]
         },
+        "cy.edisglobal.com": {
+            "ipv4": [
+                "134.255.210.10"
+            ],
+            "ipv6": [
+                "2a03:f80:357:c1b6::1"
+            ]
+        },
+        "it.edisglobal.com": {
+            "ipv4": [
+                "149.154.157.31"
+            ],
+            "ipv6": [
+                "2a03:f80:39:200e::1"
+            ]
+        },
+        "us.edisglobal.com": {
+            "ipv4": [
+                "158.255.213.100"
+            ],
+            "ipv6": [
+                "2605:3b80:1:a584::1"
+            ]
+        },
+        "md.edisglobal.com": {
+            "ipv4": [
+                "192.121.87.10"
+            ],
+            "ipv6": [
+                "2a03:f80:373:4a1c::1"
+            ]
+        },
+        "im.edisglobal.com": {
+            "ipv4": [
+                "37.235.55.22"
+            ],
+            "ipv6": [
+                "2a03:f80:44:d706::1"
+            ]
+        },
+        "se.edisglobal.com": {
+            "ipv4": [
+                "46.246.93.100"
+            ],
+            "ipv6": [
+                "2a00:1a28:1251:83ed::1"
+            ]
+        },
+        "jp.edisglobal.com": {
+            "ipv4": [
+                "194.68.27.10"
+            ],
+            "ipv6": [
+                "2a03:f80:81:c266::1"
+            ]
+        },
+        "no.edisglobal.com": {
+            "ipv4": [
+                "194.68.32.10"
+            ],
+            "ipv6": [
+                "2a03:f80:47:22a9::1"
+            ]
+        },
+        "dk.edisglobal.com": {
+            "ipv4": [
+                "192.36.27.10"
+            ],
+            "ipv6": [
+                "2a03:f80:45:c97b::1"
+            ]
+        },
+        "sg.edisglobal.com": {
+            "ipv4": [
+                "194.68.26.10"
+            ],
+            "ipv6": [
+                "2a03:f80:65:645d::1"
+            ]
+        },
+        "il.edisglobal.com": {
+            "ipv4": [
+                "193.182.144.14"
+            ],
+            "ipv6": [
+                "2a03:f80:972:2767::1"
+            ]
+        },
+        "is.edisglobal.com": {
+            "ipv4": [
+                "37.235.49.250"
+            ],
+            "ipv6": [
+                "2a03:f80:354:2b0b::1"
+            ]
+        },
+        "co.edisglobal.com": {
+            "ipv4": [
+                "103.57.250.10"
+            ],
+            "ipv6": [
+                "2a03:f80:57:da31::1"
+            ]
+        },
+        "lv.edisglobal.com": {
+            "ipv4": [
+                "192.36.41.10"
+            ],
+            "ipv6": [
+                "2a03:f80:371:c918::1"
+            ]
+        },
+        "cz.edisglobal.com": {
+            "ipv4": [
+                "193.235.207.10"
+            ],
+            "ipv6": [
+                "2a03:f80:420:b614::1"
+            ]
+        },
+        "fr.edisglobal.com": {
+            "ipv4": [
+                "158.255.215.250"
+            ],
+            "ipv6": [
+                "2a03:f80:33:bf92::1"
+            ]
+        },
         "hu.edisglobal.com": {
             "ipv4": [
                 "194.71.130.10"
@@ -836,12 +796,28 @@
                 "2a03:f80:36:d63b::1"
             ]
         },
-        "cl.edisglobal.com": {
+        "es.edisglobal.com": {
             "ipv4": [
-                "37.235.52.10"
+                "37.235.53.10"
             ],
             "ipv6": [
-                "2a03:f80:56:d8de::1"
+                "2a00:1d70:ed15:a2c::1"
+            ]
+        },
+        "mk.edisglobal.com": {
+            "ipv4": [
+                "46.183.185.10"
+            ],
+            "ipv6": [
+                "2a03:f80:389:d190::1"
+            ]
+        },
+        "ca.edisglobal.com": {
+            "ipv4": [
+                "192.71.227.10"
+            ],
+            "ipv6": [
+                "2605:3b80:cad:d2ed::1"
             ]
         },
         "nl.edisglobal.com": {
@@ -851,23 +827,39 @@
             "ipv6": [
                 "2a03:f80:31:2a4e::1"
             ]
+        },
+        "at.edisglobal.com": {
+            "ipv4": [
+                "149.154.154.90"
+            ],
+            "ipv6": [
+                "2a03:f80:ed15:435a::1"
+            ]
+        },
+        "ru.edisglobal.com": {
+            "ipv4": [
+                "213.183.56.10"
+            ],
+            "ipv6": [
+                "2a03:f80:7:f574::1"
+            ]
+        },
+        "ch.edisglobal.com": {
+            "ipv4": [
+                "178.209.51.90"
+            ],
+            "ipv6": [
+                "2a02:418:6a04:7d7f::1"
+            ]
         }
     },
     "leaseweb.net": {
-        "speedtest.wdc2.us.leaseweb.net": {
+        "speedtest.ams2.nl.leaseweb.net": {
             "ipv4": [
-                "23.105.9.80"
+                "178.162.166.76"
             ],
             "ipv6": [
-                "2604:9a00:2010:a067::77"
-            ]
-        },
-        "speedtest.lon12.uk.leaseweb.net": {
-            "ipv4": [
-                "81.17.61.145"
-            ],
-            "ipv6": [
-                "2a0d:3001:2100:a065::77"
+                "2001:1af8:8110:a011::77"
             ]
         },
         "speedtest.dal13.us.leaseweb.net": {
@@ -878,22 +870,6 @@
                 "2606:9880:2100:a00e::77"
             ]
         },
-        "speedtest.hkg12.hk.leaseweb.net": {
-            "ipv4": [
-                "64.120.117.34"
-            ],
-            "ipv6": [
-                "2402:a7c1:2010:a019::77"
-            ]
-        },
-        "speedtest.lon1.uk.leaseweb.net": {
-            "ipv4": [
-                "23.106.58.162"
-            ],
-            "ipv6": [
-                "2a0d:3002:2100:a016::77"
-            ]
-        },
         "speedtest.sfo12.us.leaseweb.net": {
             "ipv4": [
                 "23.81.166.99"
@@ -902,36 +878,36 @@
                 "2605:fe80:2100:a108::77"
             ]
         },
-        "speedtest.syd12.au.leaseweb.net": {
+        "speedtest.mia11.us.leaseweb.net": {
             "ipv4": [
-                "23.106.244.70"
+                "23.82.138.78"
             ],
             "ipv6": [
-                "2401:d040:1001:101::77"
+                "2607:f5b6:1:10::77"
             ]
         },
-        "speedtest.ams1.nl.leaseweb.net": {
+        "speedtest.mtl2.ca.leaseweb.net": {
             "ipv4": [
-                "95.211.20.80"
+                "70.38.95.143"
             ],
             "ipv6": [
-                "2001:1af8:5300:a018::77"
+                "2607:f748:203:131::77"
             ]
         },
-        "speedtest.fra1.de.leaseweb.net": {
+        "speedtest.sea11.us.leaseweb.net": {
             "ipv4": [
-                "178.162.226.176"
+                "23.82.193.66"
             ],
             "ipv6": [
-                "2a00:c98:4005:1::77"
+                "2607:f5b2:1:a007::77"
             ]
         },
-        "speedtest.ams2.nl.leaseweb.net": {
+        "speedtest.lax12.us.leaseweb.net": {
             "ipv4": [
-                "178.162.166.76"
+                "23.105.41.222"
             ],
             "ipv6": [
-                "2001:1af8:8110:a011::77"
+                "2607:f5b4:1:1c::77"
             ]
         },
         "speedtest.chi11.us.leaseweb.net": {
@@ -950,12 +926,28 @@
                 "2001:df3:2680:4a01::77"
             ]
         },
-        "speedtest.mtl2.ca.leaseweb.net": {
+        "speedtest.lon12.uk.leaseweb.net": {
             "ipv4": [
-                "70.38.95.143"
+                "81.17.61.145"
             ],
             "ipv6": [
-                "2607:f748:203:131::77"
+                "2a0d:3001:2100:a065::77"
+            ]
+        },
+        "speedtest.ams1.nl.leaseweb.net": {
+            "ipv4": [
+                "95.211.20.80"
+            ],
+            "ipv6": [
+                "2001:1af8:5300:a018::77"
+            ]
+        },
+        "speedtest.phx1.us.leaseweb.net": {
+            "ipv4": [
+                "23.81.207.31"
+            ],
+            "ipv6": [
+                "2607:f5b0:1:a009::77"
             ]
         },
         "speedtest.nyc1.us.leaseweb.net": {
@@ -966,6 +958,46 @@
                 "2607:f5b3:1:25::77"
             ]
         },
+        "speedtest.syd12.au.leaseweb.net": {
+            "ipv4": [
+                "23.106.244.70"
+            ],
+            "ipv6": [
+                "2401:d040:1001:101::77"
+            ]
+        },
+        "speedtest.lon1.uk.leaseweb.net": {
+            "ipv4": [
+                "23.106.58.162"
+            ],
+            "ipv6": [
+                "2a0d:3002:2100:a016::77"
+            ]
+        },
+        "speedtest.wdc2.us.leaseweb.net": {
+            "ipv4": [
+                "23.105.9.80"
+            ],
+            "ipv6": [
+                "2604:9a00:2010:a067::77"
+            ]
+        },
+        "speedtest.hkg12.hk.leaseweb.net": {
+            "ipv4": [
+                "64.120.117.34"
+            ],
+            "ipv6": [
+                "2402:a7c1:2010:a019::77"
+            ]
+        },
+        "speedtest.fra1.de.leaseweb.net": {
+            "ipv4": [
+                "178.162.226.176"
+            ],
+            "ipv6": [
+                "2a00:c98:4005:1::77"
+            ]
+        },
         "speedtest.sin1.sg.leaseweb.net": {
             "ipv4": [
                 "23.108.99.54"
@@ -973,79 +1005,15 @@
             "ipv6": [
                 "2402:a7c0:8100:a013::77"
             ]
-        },
-        "speedtest.lax12.us.leaseweb.net": {
-            "ipv4": [
-                "23.105.41.222"
-            ],
-            "ipv6": [
-                "2607:f5b4:1:1c::77"
-            ]
-        },
-        "speedtest.mia11.us.leaseweb.net": {
-            "ipv4": [
-                "23.82.138.78"
-            ],
-            "ipv6": [
-                "2607:f5b6:1:10::77"
-            ]
-        },
-        "speedtest.sea11.us.leaseweb.net": {
-            "ipv4": [
-                "23.82.193.66"
-            ],
-            "ipv6": [
-                "2607:f5b2:1:a007::77"
-            ]
-        },
-        "speedtest.phx1.us.leaseweb.net": {
-            "ipv4": [
-                "23.81.207.31"
-            ],
-            "ipv6": [
-                "2607:f5b0:1:a009::77"
-            ]
         }
     },
     "clouvider.net": {
-        "dal.speedtest.clouvider.net": {
+        "man.speedtest.clouvider.net": {
             "ipv4": [
-                "2.56.188.136"
+                "103.214.44.130"
             ],
             "ipv6": [
-                "2a0b:f302:2:2::2"
-            ]
-        },
-        "lon.speedtest.clouvider.net": {
-            "ipv4": [
-                "5.180.211.133"
-            ],
-            "ipv6": [
-                "2a0d:5082:0:4::2"
-            ]
-        },
-        "fra.speedtest.clouvider.net": {
-            "ipv4": [
-                "91.199.118.184"
-            ],
-            "ipv6": [
-                "2a0f:9440:1:b::2"
-            ]
-        },
-        "ams.speedtest.clouvider.net": {
-            "ipv4": [
-                "194.127.172.176"
-            ],
-            "ipv6": [
-                "2a0f:93c0:0:8::2"
-            ]
-        },
-        "atl.speedtest.clouvider.net": {
-            "ipv4": [
-                "92.119.16.139"
-            ],
-            "ipv6": [
-                "2a10:4dc0:2::2"
+                "2a0b:9b00:2::2"
             ]
         },
         "phx.speedtest.clouvider.net": {
@@ -1064,20 +1032,28 @@
                 "2a0b:f301:2:4::2"
             ]
         },
-        "ash.speedtest.clouvider.net": {
+        "lon.speedtest.clouvider.net": {
             "ipv4": [
-                "45.250.25.133"
+                "5.180.211.133"
             ],
             "ipv6": [
-                "2a0b:f304:2::2"
+                "2a0d:5082:0:4::2"
             ]
         },
-        "man.speedtest.clouvider.net": {
+        "dal.speedtest.clouvider.net": {
             "ipv4": [
-                "103.214.44.130"
+                "2.56.188.136"
             ],
             "ipv6": [
-                "2a0b:9b00:2::2"
+                "2a0b:f302:2:2::2"
+            ]
+        },
+        "fra.speedtest.clouvider.net": {
+            "ipv4": [
+                "91.199.118.184"
+            ],
+            "ipv6": [
+                "2a0f:9440:1:b::2"
             ]
         },
         "nyc.speedtest.clouvider.net": {
@@ -1087,18 +1063,140 @@
             "ipv6": [
                 "2a0b:f300:2:12d::2"
             ]
+        },
+        "ams.speedtest.clouvider.net": {
+            "ipv4": [
+                "194.127.172.176"
+            ],
+            "ipv6": [
+                "2a0f:93c0:0:8::2"
+            ]
+        },
+        "atl.speedtest.clouvider.net": {
+            "ipv4": [
+                "92.119.16.139"
+            ],
+            "ipv6": [
+                "2a10:4dc0:2::2"
+            ]
+        },
+        "ash.speedtest.clouvider.net": {
+            "ipv4": [
+                "45.250.25.133"
+            ],
+            "ipv6": [
+                "2a0b:f304:2::2"
+            ]
         }
     },
-    "fdcservers.net": {
-        "lg-spb.fdcservers.net": {
+    "hosthatch.com": {
+        "lg.chi.hosthatch.com": {
             "ipv4": [
-                "50.7.35.4"
+                "193.29.62.40"
             ],
             "ipv6": []
         },
-        "lg-minn.fdcservers.net": {
+        "lg.lax.hosthatch.com": {
             "ipv4": [
-                "23.237.166.122"
+                "185.197.30.30"
+            ],
+            "ipv6": []
+        },
+        "lg.ny.hosthatch.com": {
+            "ipv4": [
+                "185.213.26.26"
+            ],
+            "ipv6": []
+        },
+        "lg.hkg.hosthatch.com": {
+            "ipv4": [
+                "103.214.22.76"
+            ],
+            "ipv6": []
+        },
+        "lg.sgp.hosthatch.com": {
+            "ipv4": [
+                "103.167.150.90"
+            ],
+            "ipv6": []
+        },
+        "lg.syd.hosthatch.com": {
+            "ipv4": [
+                "194.29.100.26"
+            ],
+            "ipv6": []
+        },
+        "lg.tok.hosthatch.com": {
+            "ipv4": [
+                "212.52.0.11"
+            ],
+            "ipv6": []
+        },
+        "lg.ams.hosthatch.com": {
+            "ipv4": [
+                "83.138.53.15"
+            ],
+            "ipv6": []
+        },
+        "lg.lon.hosthatch.com": {
+            "ipv4": [
+                "150.107.201.10"
+            ],
+            "ipv6": []
+        },
+        "lg.mad.hosthatch.com": {
+            "ipv4": [
+                "45.132.74.19"
+            ],
+            "ipv6": []
+        },
+        "lg.mil.hosthatch.com": {
+            "ipv4": [
+                "45.91.95.105"
+            ],
+            "ipv6": []
+        },
+        "lg.osl.hosthatch.com": {
+            "ipv4": [
+                "185.175.56.60"
+            ],
+            "ipv6": []
+        },
+        "lg.sto.hosthatch.com": {
+            "ipv4": [
+                "31.220.15.232"
+            ],
+            "ipv6": []
+        },
+        "lg.vie.hosthatch.com": {
+            "ipv4": [
+                "185.175.59.70"
+            ],
+            "ipv6": []
+        },
+        "lg.waw.hosthatch.com": {
+            "ipv4": [
+                "45.132.75.75"
+            ],
+            "ipv6": []
+        },
+        "lg.zrh.hosthatch.com": {
+            "ipv4": [
+                "45.91.92.92"
+            ],
+            "ipv6": []
+        }
+    },
+    "fdcservers.net": {
+        "lg-pra.fdcservers.net": {
+            "ipv4": [
+                "66.90.111.4"
+            ],
+            "ipv6": []
+        },
+        "lg-chie.fdcservers.net": {
+            "ipv4": [
+                "192.240.104.4"
             ],
             "ipv6": []
         },
@@ -1108,11 +1206,19 @@
             ],
             "ipv6": []
         },
-        "lg-vie.fdcservers.net": {
+        "lg-mia.fdcservers.net": {
             "ipv4": [
-                "50.7.37.26"
+                "50.7.64.4"
             ],
             "ipv6": []
+        },
+        "lg-syd.fdcservers.net": {
+            "ipv4": [
+                "67.159.27.4"
+            ],
+            "ipv6": [
+                "2001:49f0:d119::4"
+            ]
         },
         "lg-tor.fdcservers.net": {
             "ipv4": [
@@ -1126,75 +1232,35 @@
             ],
             "ipv6": []
         },
-        "lg-tok.fdcservers.net": {
+        "lg-lon.fdcservers.net": {
             "ipv4": [
-                "50.7.159.4"
+                "50.7.152.4"
             ],
             "ipv6": []
         },
-        "lg-bai.fdcservers.net": {
+        "lg-akl.fdcservers.net": {
             "ipv4": [
-                "66.90.73.4"
-            ],
-            "ipv6": []
-        },
-        "lg-jnb.fdcservers.net": {
-            "ipv4": [
-                "67.159.37.4"
+                "67.159.35.4"
             ],
             "ipv6": [
-                "2001:49f0:d11d::4"
+                "2001:49f0:d11c::4"
             ]
         },
-        "lg-dene.fdcservers.net": {
+        "lg-hou.fdcservers.net": {
             "ipv4": [
-                "198.255.8.4"
+                "23.237.164.248"
             ],
             "ipv6": []
         },
-        "lg-lim.fdcservers.net": {
+        "lg-kie.fdcservers.net": {
             "ipv4": [
-                "200.25.29.4"
+                "50.7.249.4"
             ],
             "ipv6": []
-        },
-        "lg-atl.fdcservers.net": {
-            "ipv4": [
-                "23.237.162.248"
-            ],
-            "ipv6": []
-        },
-        "lg-sea.fdcservers.net": {
-            "ipv4": [
-                "50.7.72.4"
-            ],
-            "ipv6": [
-                "2001:49f0:d002::4"
-            ]
         },
         "lg-lis.fdcservers.net": {
             "ipv4": [
                 "50.7.43.4"
-            ],
-            "ipv6": []
-        },
-        "lg-pra.fdcservers.net": {
-            "ipv4": [
-                "66.90.111.4"
-            ],
-            "ipv6": []
-        },
-        "lg-syd.fdcservers.net": {
-            "ipv4": [
-                "67.159.27.4"
-            ],
-            "ipv6": [
-                "2001:49f0:d119::4"
-            ]
-        },
-        "lg-san.fdcservers.net": {
-            "ipv4": [
-                "66.90.77.4"
             ],
             "ipv6": []
         },
@@ -1212,9 +1278,79 @@
                 "2001:49f0:d0ea::4"
             ]
         },
-        "lg-mia.fdcservers.net": {
+        "lg-bai.fdcservers.net": {
             "ipv4": [
-                "50.7.64.4"
+                "66.90.73.4"
+            ],
+            "ipv6": []
+        },
+        "lg-dene.fdcservers.net": {
+            "ipv4": [
+                "198.255.8.4"
+            ],
+            "ipv6": []
+        },
+        "lg-vie.fdcservers.net": {
+            "ipv4": [
+                "50.7.37.26"
+            ],
+            "ipv6": []
+        },
+        "lg-san.fdcservers.net": {
+            "ipv4": [
+                "66.90.77.4"
+            ],
+            "ipv6": []
+        },
+        "lg-sea.fdcservers.net": {
+            "ipv4": [
+                "50.7.72.4"
+            ],
+            "ipv6": [
+                "2001:49f0:d002::4"
+            ]
+        },
+        "lg-spb.fdcservers.net": {
+            "ipv4": [
+                "50.7.35.4"
+            ],
+            "ipv6": []
+        },
+        "lg-jnb.fdcservers.net": {
+            "ipv4": [
+                "67.159.37.4"
+            ],
+            "ipv6": [
+                "2001:49f0:d11d::4"
+            ]
+        },
+        "lg-mad.fdcservers.net": {
+            "ipv4": [
+                "50.7.31.242"
+            ],
+            "ipv6": []
+        },
+        "lg-tok.fdcservers.net": {
+            "ipv4": [
+                "50.7.159.4"
+            ],
+            "ipv6": []
+        },
+        "lg-hkg.fdcservers.net": {
+            "ipv4": [
+                "50.7.251.4"
+            ],
+            "ipv6": []
+        },
+        "lg-lim.fdcservers.net": {
+            "ipv4": [
+                "200.25.29.4"
+            ],
+            "ipv6": []
+        },
+        "lg-sin.fdcservers.net": {
+            "ipv4": [
+                "50.7.253.4"
             ],
             "ipv6": []
         },
@@ -1226,35 +1362,9 @@
                 "2001:49f0:d085::4"
             ]
         },
-        "lg-hkg.fdcservers.net": {
+        "lg-bg.fdcservers.net": {
             "ipv4": [
-                "50.7.251.4"
-            ],
-            "ipv6": []
-        },
-        "lg-akl.fdcservers.net": {
-            "ipv4": [
-                "67.159.35.4"
-            ],
-            "ipv6": [
-                "2001:49f0:d11c::4"
-            ]
-        },
-        "lg-kie.fdcservers.net": {
-            "ipv4": [
-                "50.7.249.4"
-            ],
-            "ipv6": []
-        },
-        "lg-chie.fdcservers.net": {
-            "ipv4": [
-                "192.240.104.4"
-            ],
-            "ipv6": []
-        },
-        "lg-mad.fdcservers.net": {
-            "ipv4": [
-                "50.7.31.242"
+                "66.90.67.4"
             ],
             "ipv6": []
         },
@@ -1264,9 +1374,9 @@
             ],
             "ipv6": []
         },
-        "lg-lon.fdcservers.net": {
+        "lg-atl.fdcservers.net": {
             "ipv4": [
-                "50.7.152.4"
+                "23.237.162.248"
             ],
             "ipv6": []
         },
@@ -1276,40 +1386,20 @@
             ],
             "ipv6": []
         },
-        "lg-bg.fdcservers.net": {
+        "lg-minn.fdcservers.net": {
             "ipv4": [
-                "66.90.67.4"
-            ],
-            "ipv6": []
-        },
-        "lg-sin.fdcservers.net": {
-            "ipv4": [
-                "50.7.253.4"
-            ],
-            "ipv6": []
-        },
-        "lg-hou.fdcservers.net": {
-            "ipv4": [
-                "23.237.164.248"
+                "23.237.166.122"
             ],
             "ipv6": []
         }
     },
     "shockhosting.net": {
-        "nl-lg.shockhosting.net": {
+        "wa-lg.shockhosting.net": {
             "ipv4": [
-                "217.195.155.3"
+                "209.182.227.3"
             ],
             "ipv6": [
-                "2a0d:9ec0:0:1::7476"
-            ]
-        },
-        "uk-lg.shockhosting.net": {
-            "ipv4": [
-                "45.155.39.3"
-            ],
-            "ipv6": [
-                "2a0d:d8c0:0:1::7476"
+                "2607:a680:9:1::7476"
             ]
         },
         "jp-lg.shockhosting.net": {
@@ -1320,12 +1410,37 @@
                 "2406:cb42:0:1::7476"
             ]
         },
-        "fl-lg.shockhosting.net": {
+        "de-lg.shockhosting.net": {
             "ipv4": [
-                "104.225.131.3"
+                "213.139.207.3"
             ],
             "ipv6": [
-                "2607:a680:4:1::7476"
+                "2a0d:9ec2:0:1::7476",
+                "2a0d:9ec1:0:1::7476"
+            ]
+        },
+        "nj-lg.shockhosting.net": {
+            "ipv4": [
+                "107.161.50.3"
+            ],
+            "ipv6": [
+                "2607:a680:0:1::7476"
+            ]
+        },
+        "uk-lg.shockhosting.net": {
+            "ipv4": [
+                "45.155.39.3"
+            ],
+            "ipv6": [
+                "2a0d:d8c0:0:1::7476"
+            ]
+        },
+        "wc-lg.shockhosting.net": {
+            "ipv4": [
+                "104.36.231.3"
+            ],
+            "ipv6": [
+                "2607:a680:2:1::7476"
             ]
         },
         "la-lg.shockhosting.net": {
@@ -1344,35 +1459,12 @@
                 "2406:cb41:0:1::7476"
             ]
         },
-        "de-lg.shockhosting.net": {
-            "ipv4": [
-                "213.139.207.3"
-            ],
-            "ipv6": [
-                "2a0d:9ec1:0:1::7476",
-                "2a0d:9ec2:0:1::7476"
-            ]
-        },
         "sg-lg.shockhosting.net": {
             "ipv4": [
                 "103.159.64.3"
             ],
             "ipv6": [
                 "2406:cb40:0:1::7476"
-            ]
-        },
-        "ro-lg.shockhosting.net": {
-            "ipv4": [
-                "185.93.223.3"
-            ],
-            "ipv6": []
-        },
-        "tx-lg.shockhosting.net": {
-            "ipv4": [
-                "172.96.139.3"
-            ],
-            "ipv6": [
-                "2607:a680:3:1::7476"
             ]
         },
         "co-lg.shockhosting.net": {
@@ -1383,28 +1475,34 @@
                 "2607:a680:6:1::7476"
             ]
         },
-        "nj-lg.shockhosting.net": {
+        "tx-lg.shockhosting.net": {
             "ipv4": [
-                "107.161.50.3"
+                "172.96.139.3"
             ],
             "ipv6": [
-                "2607:a680:0:1::7476"
+                "2607:a680:3:1::7476"
             ]
         },
-        "wc-lg.shockhosting.net": {
+        "ro-lg.shockhosting.net": {
             "ipv4": [
-                "104.36.231.3"
+                "185.93.223.3"
+            ],
+            "ipv6": []
+        },
+        "nl-lg.shockhosting.net": {
+            "ipv4": [
+                "217.195.155.3"
             ],
             "ipv6": [
-                "2607:a680:2:1::7476"
+                "2a0d:9ec0:0:1::7476"
             ]
         },
-        "wa-lg.shockhosting.net": {
+        "fl-lg.shockhosting.net": {
             "ipv4": [
-                "209.182.227.3"
+                "104.225.131.3"
             ],
             "ipv6": [
-                "2607:a680:9:1::7476"
+                "2607:a680:4:1::7476"
             ]
         }
     },
@@ -1415,27 +1513,15 @@
             ],
             "ipv6": []
         },
-        "sjc01.lg.freerangecloud.com": {
-            "ipv4": [
-                "103.144.176.216"
-            ],
-            "ipv6": []
-        },
         "yvr01.lg.freerangecloud.com": {
             "ipv4": [
                 "104.218.61.164"
             ],
             "ipv6": []
         },
-        "yyz01.lg.freerangecloud.com": {
+        "iad01.lg.freerangecloud.com": {
             "ipv4": [
-                "103.144.177.41"
-            ],
-            "ipv6": []
-        },
-        "trf01.lg.freerangecloud.com": {
-            "ipv4": [
-                "206.83.41.78"
+                "23.152.224.179"
             ],
             "ipv6": []
         },
@@ -1447,9 +1533,9 @@
                 "2602:fc1c:fa0:1::1"
             ]
         },
-        "iad01.lg.freerangecloud.com": {
+        "trf01.lg.freerangecloud.com": {
             "ipv4": [
-                "23.152.224.179"
+                "206.83.41.78"
             ],
             "ipv6": []
         },
@@ -1459,18 +1545,21 @@
             ],
             "ipv6": []
         },
+        "yyz01.lg.freerangecloud.com": {
+            "ipv4": [
+                "103.144.177.41"
+            ],
+            "ipv6": []
+        },
         "ams01.lg.freerangecloud.com": {
             "ipv4": [
                 "206.83.40.24"
             ],
             "ipv6": []
-        }
-    },
-    "gcore.lu": {
-        "lg.gcore.lu": {
+        },
+        "sjc01.lg.freerangecloud.com": {
             "ipv4": [
-                "92.223.26.72",
-                "185.12.243.109"
+                "103.144.176.216"
             ],
             "ipv6": []
         }
@@ -1683,6 +1772,15 @@
             "ipv6": [
                 "2a03:90c0:5e1:2801::62"
             ]
+        }
+    },
+    "gcore.lu": {
+        "lg.gcore.lu": {
+            "ipv4": [
+                "92.223.26.72",
+                "185.12.243.109"
+            ],
+            "ipv6": []
         }
     }
 }

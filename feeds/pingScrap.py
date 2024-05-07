@@ -46,6 +46,8 @@ for file in files:
         parsedLinks = list(response.absolute_links)
         if "gcore" in link:
             parsedLinks.extend(re.findall("\/\/(.*?-speedtest.tools.gcore.com)",request.text, re.MULTILINE))
+        elif "hosthatch" in link:
+            parsedLinks.extend(re.findall("(http://lg.*?)/",request.text, re.MULTILINE))
         for target in parsedLinks:
             if any(element in target for element in tags) or ( not any(element in target for element in ignore) and  any(target.replace("https://","").startswith(element) for element in countries)):
                 print(f"Checking {target}")

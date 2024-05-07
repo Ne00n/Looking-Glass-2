@@ -4226,12 +4226,6 @@
                 "2a0f:93c0:0:8::2": "United Kingdom"
             }
         },
-        "ash.speedtest.clouvider.net": {
-            "ipv4": {},
-            "ipv6": {
-                "2a0b:f304:2::2": "London, United Kingdom"
-            }
-        },
         "atl.speedtest.clouvider.net": {
             "ipv4": {
                 "92.119.16.139": "Atlanta, United States"
@@ -4303,6 +4297,12 @@
             "ipv4": {},
             "ipv6": {
                 "2a0b:f303:2::2": "London, United Kingdom"
+            }
+        },
+        "ash.speedtest.clouvider.net": {
+            "ipv4": {},
+            "ipv6": {
+                "2a0b:f304:2::2": "London, United Kingdom"
             }
         }
     },
@@ -4644,6 +4644,84 @@
             "ipv6": {
                 "2a0e:dc0:3:33f5::1": "Sweden"
             }
+        },
+        "lg.chi.hosthatch.com": {
+            "ipv4": {
+                "193.29.62.40": "Chicago, United States"
+            },
+            "ipv6": {}
+        },
+        "lg.hkg.hosthatch.com": {
+            "ipv4": {
+                "103.214.22.76": "Hong Kong, Hong Kong"
+            },
+            "ipv6": {}
+        },
+        "lg.lax.hosthatch.com": {
+            "ipv4": {
+                "185.197.30.30": "Los Angeles, United States"
+            },
+            "ipv6": {}
+        },
+        "lg.lon.hosthatch.com": {
+            "ipv4": {
+                "150.107.201.10": "London, United Kingdom"
+            },
+            "ipv6": {}
+        },
+        "lg.mad.hosthatch.com": {
+            "ipv4": {
+                "45.132.74.19": "Madrid, Spain"
+            },
+            "ipv6": {}
+        },
+        "lg.mil.hosthatch.com": {
+            "ipv4": {
+                "45.91.95.105": "Milan, Italy"
+            },
+            "ipv6": {}
+        },
+        "lg.osl.hosthatch.com": {
+            "ipv4": {
+                "185.175.56.60": "Oslo, Norway"
+            },
+            "ipv6": {}
+        },
+        "lg.sgp.hosthatch.com": {
+            "ipv4": {
+                "103.167.150.90": "Singapore, Singapore"
+            },
+            "ipv6": {}
+        },
+        "lg.sto.hosthatch.com": {
+            "ipv4": {
+                "31.220.15.232": "Stockholm, Sweden"
+            },
+            "ipv6": {}
+        },
+        "lg.syd.hosthatch.com": {
+            "ipv4": {
+                "194.29.100.26": "Sydney, Australia"
+            },
+            "ipv6": {}
+        },
+        "lg.tok.hosthatch.com": {
+            "ipv4": {
+                "212.52.0.11": "Tokyo, Japan"
+            },
+            "ipv6": {}
+        },
+        "lg.waw.hosthatch.com": {
+            "ipv4": {
+                "45.132.75.75": "Warsaw, Poland"
+            },
+            "ipv6": {}
+        },
+        "lg.zrh.hosthatch.com": {
+            "ipv4": {
+                "45.91.92.92": "Zurich, Switzerland"
+            },
+            "ipv6": {}
         }
     },
     "firevps.net": {},
@@ -6124,8 +6202,8 @@
                 "213.139.207.3": "Frankfurt am Main, Germany"
             },
             "ipv6": {
-                "2a0d:9ec1:0:1::7476": "United States",
-                "2a0d:9ec2:0:1::7476": "United States"
+                "2a0d:9ec2:0:1::7476": "United States",
+                "2a0d:9ec1:0:1::7476": "United States"
             }
         },
         "fl-lg.shockhosting.net": {
@@ -15154,16 +15232,6 @@
             "ipv6": {}
         }
     },
-    "ovh.ca": {
-        "bhs.proof.ovh.ca": {
-            "ipv4": {
-                "51.222.154.207": "Canada"
-            },
-            "ipv6": {
-                "2607:5300:203:8acf::1": "Canada"
-            }
-        }
-    },
     "ovh.us": {
         "hil.proof.ovh.us": {
             "ipv4": {
@@ -15176,6 +15244,16 @@
                 "135.148.100.133": "United States"
             },
             "ipv6": {}
+        }
+    },
+    "ovh.ca": {
+        "bhs.proof.ovh.ca": {
+            "ipv4": {
+                "51.222.154.207": "Canada"
+            },
+            "ipv6": {
+                "2607:5300:203:8acf::1": "Canada"
+            }
         }
     },
     "bluevps.com": {

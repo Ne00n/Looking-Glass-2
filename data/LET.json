@@ -11503,15 +11503,6 @@
             ]
         }
     },
-    "skylonhost.com": {
-        "https://lg.skylonhost.com/prefix/prg/ipv6?q=2406:8dc0:6004:1e83:bcbc:4eb:ff6f:4613": {
-            "ipv4": [],
-            "ipv6": [
-                "2001:678:aa4::1",
-                "2001:678:aa4::2"
-            ]
-        }
-    },
     "visualwebtechnologies.com": {
         "https://visualwebtechnologies.com/datacenters": {
             "ipv4": [

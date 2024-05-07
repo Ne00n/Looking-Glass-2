@@ -2,6 +2,26 @@
 
 Spontaniously updated.<br>
 Collects data from a bunch of sources,
+### linode.com
+* [https://www.linode.com/speed-test/](https://www.linode.com/speed-test/)
+* [speedtest.atlanta.linode.com](http://speedtest.atlanta.linode.com)
+* [speedtest.dallas.linode.com](http://speedtest.dallas.linode.com)
+* [speedtest.frankfurt.linode.com](http://speedtest.frankfurt.linode.com)
+* [speedtest.fremont.linode.com](http://speedtest.fremont.linode.com)
+* [speedtest.london.linode.com](http://speedtest.london.linode.com)
+* [speedtest.mumbai1.linode.com](http://speedtest.mumbai1.linode.com)
+* [speedtest.newark.linode.com](http://speedtest.newark.linode.com)
+* [speedtest.singapore.linode.com](http://speedtest.singapore.linode.com)
+* [speedtest.syd1.linode.com](http://speedtest.syd1.linode.com)
+* [speedtest.tokyo2.linode.com](http://speedtest.tokyo2.linode.com)
+* [speedtest.toronto1.linode.com](http://speedtest.toronto1.linode.com)
+### hetzner.com
+* [ash.icmp.hetzner.com](http://ash.icmp.hetzner.com)
+* [fsn.icmp.hetzner.com](http://fsn.icmp.hetzner.com)
+* [hel.icmp.hetzner.com](http://hel.icmp.hetzner.com)
+* [nbg.icmp.hetzner.com](http://nbg.icmp.hetzner.com)
+### skylonhost.com
+* [lg.skylonhost.com](http://lg.skylonhost.com)
 ### hostmayo.com
 * [https://hostmayo.com/vps-windows](https://hostmayo.com/vps-windows)
 * [https://lg.hostmayo.com/](https://lg.hostmayo.com/)
@@ -561,8 +581,6 @@ Collects data from a bunch of sources,
 * [https://lg-tr-ie.rabisu.com/](https://lg-tr-ie.rabisu.com/)
 * [https://lg-us-nw.rabisu.com/](https://lg-us-nw.rabisu.com/)
 * [https://lg.rabisu.com/](https://lg.rabisu.com/)
-### skylonhost.com
-* [https://lg.skylonhost.com/prefix/prg/ipv6?q=2406:8dc0:6004:1e83:bcbc:4eb:ff6f:4613](https://lg.skylonhost.com/prefix/prg/ipv6?q=2406:8dc0:6004:1e83:bcbc:4eb:ff6f:4613)
 ### serverhub.com
 * [http://lg-chicago.serverhub.com/](http://lg-chicago.serverhub.com/)
 * [http://lg-frankfurt.serverhub.com/](http://lg-frankfurt.serverhub.com/)
@@ -1135,8 +1153,6 @@ Collects data from a bunch of sources,
 ### greenkvm.com
 * [http://greenkvm.com/data-centers.php](http://greenkvm.com/data-centers.php)
 * [https://blog.greencloudvps.com/](https://blog.greencloudvps.com/)
-### linode.com
-* [https://www.linode.com/speed-test/](https://www.linode.com/speed-test/)
 ### phoenixnap.com
 * [https://phoenixnap.com/network/speed-test](https://phoenixnap.com/network/speed-test)
 ### hawkhost.com

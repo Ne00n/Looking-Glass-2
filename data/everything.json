@@ -1,4 +1,146 @@
 {
+    "linode.com": {
+        "https://www.linode.com/speed-test/": {
+            "ipv4": {
+                "2.16.240.30": "Frankfurt am Main, Germany"
+            },
+            "ipv6": {
+                "2a0f:93c1:26:28c::": "United Kingdom"
+            }
+        },
+        "speedtest.atlanta.linode.com": {
+            "ipv4": {
+                "192.155.94.157": "Atlanta, United States"
+            },
+            "ipv6": {
+                "2600:3c02::f03c:93ff:fe76:6b67": "Atlanta, United States"
+            }
+        },
+        "speedtest.dallas.linode.com": {
+            "ipv4": {
+                "50.116.25.154": "Richardson, United States"
+            },
+            "ipv6": {
+                "2600:3c00::f03c:91ff:feae:603": "Richardson, United States"
+            }
+        },
+        "speedtest.frankfurt.linode.com": {
+            "ipv4": {
+                "139.162.130.8": "Frankfurt am Main, Germany"
+            },
+            "ipv6": {
+                "2a01:7e01::f03c:91ff:fe26:8794": "Frankfurt am Main, Germany"
+            }
+        },
+        "speedtest.fremont.linode.com": {
+            "ipv4": {
+                "50.116.14.9": "Fremont, United States"
+            },
+            "ipv6": {
+                "2600:3c01::f03c:91ff:feae:68d": "Fremont, United States"
+            }
+        },
+        "speedtest.london.linode.com": {
+            "ipv4": {
+                "176.58.107.39": "London, United Kingdom"
+            },
+            "ipv6": {
+                "2a01:7e00::f03c:91ff:feae:657": "London, United Kingdom"
+            }
+        },
+        "speedtest.mumbai1.linode.com": {
+            "ipv4": {
+                "172.105.33.31": "Mumbai, India"
+            },
+            "ipv6": {
+                "2400:8904::f03c:91ff:fea5:928b": "Mumbai, India"
+            }
+        },
+        "speedtest.newark.linode.com": {
+            "ipv4": {
+                "50.116.57.237": "Cedar Knolls, United States"
+            },
+            "ipv6": {
+                "2600:3c03::f03c:91ff:feae:65e": "Cedar Knolls, United States"
+            }
+        },
+        "speedtest.singapore.linode.com": {
+            "ipv4": {
+                "139.162.23.4": "Singapore, Singapore"
+            },
+            "ipv6": {
+                "2400:8901::f03c:91ff:fe84:541d": "Singapore, Singapore"
+            }
+        },
+        "speedtest.syd1.linode.com": {
+            "ipv4": {
+                "172.105.174.7": "Sydney, Australia"
+            },
+            "ipv6": {
+                "2400:8907::f03c:92ff:fe6e:a16f": "Sydney, Australia"
+            }
+        },
+        "speedtest.tokyo2.linode.com": {
+            "ipv4": {
+                "139.162.65.37": "Tokyo, Japan"
+            },
+            "ipv6": {
+                "2400:8902::f03c:91ff:fe16:ffaa": "Tokyo, Japan"
+            }
+        },
+        "speedtest.toronto1.linode.com": {
+            "ipv4": {
+                "172.105.30.21": "Toronto, Canada"
+            },
+            "ipv6": {
+                "2600:3c04::f03c:91ff:feba:c4f8": "Toronto, Canada"
+            }
+        }
+    },
+    "hetzner.com": {
+        "ash.icmp.hetzner.com": {
+            "ipv4": {
+                "5.161.7.195": "United States"
+            },
+            "ipv6": {
+                "2a01:4ff:ef::fa57:1": "Ashburn, United States"
+            }
+        },
+        "fsn.icmp.hetzner.com": {
+            "ipv4": {
+                "78.46.170.2": "Germany"
+            },
+            "ipv6": {
+                "2a01:4f8:0:a232::2": "Ehingen, Germany"
+            }
+        },
+        "hel.icmp.hetzner.com": {
+            "ipv4": {
+                "95.217.255.81": "Helsinki, Finland"
+            },
+            "ipv6": {
+                "2a01:4f9:0:a010::20": "Germany"
+            }
+        },
+        "nbg.icmp.hetzner.com": {
+            "ipv4": {
+                "88.198.248.254": "Germany"
+            },
+            "ipv6": {
+                "2a01:4f8:0:59ed::2": "Ehingen, Germany"
+            }
+        }
+    },
+    "skylonhost.com": {
+        "lg.skylonhost.com": {
+            "ipv4": {
+                "109.248.43.3": "Prague, Czechia"
+            },
+            "ipv6": {
+                "2001:678:aa4:3::1": "United Kingdom"
+            }
+        }
+    },
     "hostmayo.com": {
         "https://hostmayo.com/vps-windows": {
             "ipv4": {
@@ -3578,15 +3720,6 @@
                 "45.155.125.40": "Turkiye"
             },
             "ipv6": {}
-        }
-    },
-    "skylonhost.com": {
-        "https://lg.skylonhost.com/prefix/prg/ipv6?q=2406:8dc0:6004:1e83:bcbc:4eb:ff6f:4613": {
-            "ipv4": {},
-            "ipv6": {
-                "2001:678:aa4::1": "United Kingdom",
-                "2001:678:aa4::2": "United Kingdom"
-            }
         }
     },
     "budgetnode.net": {},
@@ -7413,16 +7546,6 @@
             "ipv6": {}
         }
     },
-    "linode.com": {
-        "https://www.linode.com/speed-test/": {
-            "ipv4": {
-                "2.16.240.30": "Frankfurt am Main, Germany"
-            },
-            "ipv6": {
-                "2a0f:93c1:26:28c::": "United Kingdom"
-            }
-        }
-    },
     "phoenixnap.com": {
         "https://phoenixnap.com/network/speed-test": {
             "ipv4": {
@@ -8950,7 +9073,6 @@
     "ikihost.com": {},
     "datafabrik.de": {},
     "gdbi.info": {},
-    "hetzner.com": {},
     "hostvds.com": {},
     "mechanicweb.com": {},
     "vpsaff.net": {

@@ -3063,14 +3063,6 @@
                 "2604:6600:fe7c::e4c0:65f5"
             ]
         },
-        "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Falphavps": {
-            "ipv4": [
-                "122.0.0.0"
-            ],
-            "ipv6": [
-                "2a03:2880:f177:185:face:b00c:0:25de"
-            ]
-        },
         "https://lg.icn.psychz.net/": {
             "ipv4": [
                 "108.181.51.92"

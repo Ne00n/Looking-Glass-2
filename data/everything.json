@@ -4279,12 +4279,6 @@
                 "2a0d:5082:0:4::2": "United Kingdom"
             }
         },
-        "man.speedtest.clouvider.net": {
-            "ipv4": {},
-            "ipv6": {
-                "2a0b:9b00:2::2": "London, United Kingdom"
-            }
-        },
         "nyc.speedtest.clouvider.net": {
             "ipv4": {
                 "194.33.45.192": "New York, United States"
@@ -4303,6 +4297,12 @@
             "ipv4": {},
             "ipv6": {
                 "2a0b:f304:2::2": "London, United Kingdom"
+            }
+        },
+        "man.speedtest.clouvider.net": {
+            "ipv4": {},
+            "ipv6": {
+                "2a0b:9b00:2::2": "London, United Kingdom"
             }
         }
     },
@@ -9383,6 +9383,14 @@
     "hostclean.net": {},
     "dtln.ru": {},
     "binarylane.cloud": {
+        "bne-lg.binarylane.cloud": {
+            "ipv4": {
+                "103.230.157.80": "Brisbane, Australia"
+            },
+            "ipv6": {
+                "2404:9400:1:0:216:3eff:fef1:3a51": "Australia"
+            }
+        },
         "https://per-lg.binarylane.cloud/": {
             "ipv4": {
                 "203.29.240.49": "Perth, Australia"
@@ -9397,6 +9405,22 @@
             },
             "ipv6": {
                 "2404:9400:2:0:216:3eff:fee1:3a3b": "Australia"
+            }
+        },
+        "mel-lg.binarylane.cloud": {
+            "ipv4": {
+                "45.124.55.30": "Melbourne, Australia"
+            },
+            "ipv6": {
+                "2404:9400:3:0:216:3eff:fee1:3a50": "Australia"
+            }
+        },
+        "sin-lg.binarylane.cloud": {
+            "ipv4": {
+                "103.100.37.6": "Singapore"
+            },
+            "ipv6": {
+                "2404:9400:5:0:216:3eff:fee4:35af": "Singapore"
             }
         }
     },
@@ -11025,14 +11049,10 @@
         "https://lg.ovh.net": {
             "ipv4": {
                 "135.125.244.2": "France",
-                "135.148.101.2": "United States",
-                "141.94.18.2": "France",
                 "145.239.28.3": "United Kingdom",
                 "5.135.137.2": "France",
-                "51.210.158.3": "France",
                 "51.79.100.2": "Canada",
-                "51.81.200.4": "Hillsboro, United States",
-                "51.89.228.2": "London, United Kingdom"
+                "51.81.200.4": "Hillsboro, United States"
             },
             "ipv6": {}
         }

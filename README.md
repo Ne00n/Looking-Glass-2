@@ -664,10 +664,10 @@ Collects data from a bunch of sources,
 * [http://lg.clouvider.net/](http://lg.clouvider.net/)
 * [la.speedtest.clouvider.net](http://la.speedtest.clouvider.net)
 * [lon.speedtest.clouvider.net](http://lon.speedtest.clouvider.net)
-* [man.speedtest.clouvider.net](http://man.speedtest.clouvider.net)
 * [nyc.speedtest.clouvider.net](http://nyc.speedtest.clouvider.net)
 * [phx.speedtest.clouvider.net](http://phx.speedtest.clouvider.net)
 * [ash.speedtest.clouvider.net](http://ash.speedtest.clouvider.net)
+* [man.speedtest.clouvider.net](http://man.speedtest.clouvider.net)
 ### xhosts.uk
 * [http://lg.xhosts.uk/](http://lg.xhosts.uk/)
 ### hosterion.net
@@ -1402,8 +1402,11 @@ Collects data from a bunch of sources,
 * [https://lg.nc.iwebfusion.net/](https://lg.nc.iwebfusion.net/)
 * [https://lg.or.iwebfusion.net/](https://lg.or.iwebfusion.net/)
 ### binarylane.cloud
+* [bne-lg.binarylane.cloud](http://bne-lg.binarylane.cloud)
 * [https://per-lg.binarylane.cloud/](https://per-lg.binarylane.cloud/)
 * [https://syd-lg.binarylane.cloud/](https://syd-lg.binarylane.cloud/)
+* [mel-lg.binarylane.cloud](http://mel-lg.binarylane.cloud)
+* [sin-lg.binarylane.cloud](http://sin-lg.binarylane.cloud)
 ### cycloneservers.net
 * [https://lgtx.cycloneservers.net/](https://lgtx.cycloneservers.net/)
 ### msk-ix.ru

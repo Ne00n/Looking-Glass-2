@@ -3,7 +3,7 @@ import urllib.request, subprocess, json, sys, re, os
 sys.path.append(os.getcwd().replace("/tools",""))
 from Class.base import Base
 
-urls = {"ovh":"https://lg.ovh.net","meerfarbig":"https://meerblick.io","edgecneter":"https://lg.edgecenter.ru"}
+urls = {"ovh":"https://lg.ovh.net","meerfarbig":"https://meerblick.io","edgecenter":"https://lg.edgecenter.ru"}
 
 def fetch(url):
     try:

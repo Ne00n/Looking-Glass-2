@@ -1613,7 +1613,7 @@ Collects data from a bunch of sources,
 * [http://ipv6.ec2-reachability.amazonaws.com/](http://ipv6.ec2-reachability.amazonaws.com/)
 ### ovh
 * [https://lg.ovh.net](https://lg.ovh.net)
-### edgecneter
+### edgecenter
 * [https://lg.edgecenter.ru](https://lg.edgecenter.ru)
 ### Cyxym
 * [looking.house/point.php?id=568](http://looking.house/point.php?id=568)

@@ -1,7 +1,7 @@
 import dns.resolver, sys, os
 sys.path.append(os.getcwd().replace("/tools",""))
 
-from requests_html import HTMLSession
+from requests_html import HTML
 from Class.base import Base
 from pathlib import Path 
 import tldextract, requests, socket, json, re, os
@@ -33,17 +33,19 @@ data = {}
 tags = ['speedtest','proof','lg','icmp']
 ignore = ['friendhosting','starrydns','frantech']
 resolver = dns.resolver.Resolver()
-html = HTMLSession()
 for file in files:
     print(f"Loading file {file}")
     with open(folder+"/"+file, 'r') as f:
         text = f.read()
     links = text.split()
     for link in links:
-        response = html.get(link)
-        for target in response.html.absolute_links:
-            print(f"Checking {target}")
+        headers={'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36'}
+        request = requests.get(link,allow_redirects=True,timeout=6,headers=headers)
+        if (request.status_code != 200): print(f"Got {request.status_code} for {link}")
+        response = HTML(html=request.text)
+        for target in response.absolute_links:
             if any(element in target for element in tags) or ( not any(element in target for element in ignore) and  any(target.replace("https://","").startswith(element) for element in countries)):
+                print(f"Checking {target}")
                 ext = tldextract.extract(target)
                 domain = ext.domain+"."+ext.suffix
                 url = '.'.join(ext[:3])
@@ -68,7 +70,6 @@ for file in files:
                 #IPv6
                 for v6 in v6s:
                     if not v6.to_text() in data[domain][url]['ipv6']: data[domain][url]['ipv6'].append(v6.to_text())
-
 
 print(f"Saving {default}")
 with open(os.getcwd()+'/data/'+default, 'w') as f:

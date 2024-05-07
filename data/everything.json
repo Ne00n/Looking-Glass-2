@@ -8,12 +8,36 @@
                 "2a0f:93c1:26:28c::": "United Kingdom"
             }
         },
+        "speedtest.amsterdam.linode.com": {
+            "ipv4": {
+                "172.233.33.22": "Amsterdam, The Netherlands"
+            },
+            "ipv6": {
+                "2600:3c0e::f03c:93ff:fe9d:2de0": "Amsterdam, The Netherlands"
+            }
+        },
         "speedtest.atlanta.linode.com": {
             "ipv4": {
                 "192.155.94.157": "Atlanta, United States"
             },
             "ipv6": {
                 "2600:3c02::f03c:93ff:fe76:6b67": "Atlanta, United States"
+            }
+        },
+        "speedtest.chennai.linode.com": {
+            "ipv4": {
+                "172.232.96.28": "Chennai, India"
+            },
+            "ipv6": {
+                "2600:3c08::f03c:93ff:fe7c:11f2": "Chennai, India"
+            }
+        },
+        "speedtest.chicago.linode.com": {
+            "ipv4": {
+                "172.232.0.29": "Chicago, United States"
+            },
+            "ipv6": {
+                "2600:3c06::f03c:93ff:fed0:e5d8": "Chicago, United States"
             }
         },
         "speedtest.dallas.linode.com": {
@@ -40,12 +64,52 @@
                 "2600:3c01::f03c:91ff:feae:68d": "Fremont, United States"
             }
         },
+        "speedtest.jakarta.linode.com": {
+            "ipv4": {
+                "172.232.224.19": "Jakarta, Indonesia"
+            },
+            "ipv6": {
+                "2600:3c0c::f03c:93ff:feed:a921": "Jakarta, Indonesia"
+            }
+        },
         "speedtest.london.linode.com": {
             "ipv4": {
                 "176.58.107.39": "London, United Kingdom"
             },
             "ipv6": {
                 "2a01:7e00::f03c:91ff:feae:657": "London, United Kingdom"
+            }
+        },
+        "speedtest.los-angeles.linode.com": {
+            "ipv4": {
+                "172.233.128.61": "Los Angeles, United States"
+            },
+            "ipv6": {
+                "2a01:7e03::f03c:93ff:feb1:b772": "Los Angeles, United States"
+            }
+        },
+        "speedtest.madrid.linode.com": {
+            "ipv4": {
+                "172.233.111.7": "Madrid, Spain"
+            },
+            "ipv6": {
+                "2a01:7e02::f03c:93ff:feea:b5b5": "Madrid, Spain"
+            }
+        },
+        "speedtest.miami.linode.com": {
+            "ipv4": {
+                "172.233.160.12": "Miami, United States"
+            },
+            "ipv6": {
+                "2a01:7e04::f03c:93ff:fead:d398": "Miami, United States"
+            }
+        },
+        "speedtest.milan.linode.com": {
+            "ipv4": {
+                "172.232.192.34": "Milan, Italy"
+            },
+            "ipv6": {
+                "2600:3c0b::f03c:93ff:feba:d504": "Milan, Italy"
             }
         },
         "speedtest.mumbai1.linode.com": {
@@ -64,12 +128,52 @@
                 "2600:3c03::f03c:91ff:feae:65e": "Cedar Knolls, United States"
             }
         },
+        "speedtest.osaka.linode.com": {
+            "ipv4": {
+                "172.233.64.142": "Osaka, Japan"
+            },
+            "ipv6": {
+                "2400:8905::f03c:93ff:fe8b:326b": "Osaka, Japan"
+            }
+        },
+        "speedtest.paris.linode.com": {
+            "ipv4": {
+                "172.232.32.31": "Paris, France"
+            },
+            "ipv6": {
+                "2600:3c07::f03c:93ff:feb7:c3be": "Paris, France"
+            }
+        },
+        "speedtest.sao-paulo.linode.com": {
+            "ipv4": {
+                "172.233.0.26": "Sao Paulo, Brazil"
+            },
+            "ipv6": {
+                "2600:3c0d::f03c:93ff:fe3d:6e63": "Sao Paulo, Brazil"
+            }
+        },
+        "speedtest.seattle.linode.com": {
+            "ipv4": {
+                "172.232.160.30": "Tukwila, United States"
+            },
+            "ipv6": {
+                "2600:3c0a::f03c:93ff:fe54:c66f": "Tukwila, United States"
+            }
+        },
         "speedtest.singapore.linode.com": {
             "ipv4": {
                 "139.162.23.4": "Singapore, Singapore"
             },
             "ipv6": {
                 "2400:8901::f03c:91ff:fe84:541d": "Singapore, Singapore"
+            }
+        },
+        "speedtest.stockholm.linode.com": {
+            "ipv4": {
+                "172.232.128.9": "Stockholm, Sweden"
+            },
+            "ipv6": {
+                "2600:3c09::f03c:93ff:feba:8f43": "Stockholm, Sweden"
             }
         },
         "speedtest.syd1.linode.com": {
@@ -94,6 +198,14 @@
             },
             "ipv6": {
                 "2600:3c04::f03c:91ff:feba:c4f8": "Toronto, Canada"
+            }
+        },
+        "speedtest.washington.linode.com": {
+            "ipv4": {
+                "139.144.192.81": "Ashburn, United States"
+            },
+            "ipv6": {
+                "2600:3c05::f03c:93ff:fe07:ebe": "Ashburn, United States"
             }
         }
     },
@@ -6012,8 +6124,8 @@
                 "213.139.207.3": "Frankfurt am Main, Germany"
             },
             "ipv6": {
-                "2a0d:9ec2:0:1::7476": "United States",
-                "2a0d:9ec1:0:1::7476": "United States"
+                "2a0d:9ec1:0:1::7476": "United States",
+                "2a0d:9ec2:0:1::7476": "United States"
             }
         },
         "fl-lg.shockhosting.net": {

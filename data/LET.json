@@ -11720,17 +11720,6 @@
             "ipv6": []
         }
     },
-    "bgp.services": {
-        "https://bgp.services/bgp-vps-providers": {
-            "ipv4": [],
-            "ipv6": [
-                "5664:130:x",
-                "5664:110:x",
-                "5664:120:x",
-                "5664:100:x"
-            ]
-        }
-    },
     "hostslim.eu": {
         "https://lg.hostslim.nl/": {
             "ipv4": [
@@ -15015,14 +15004,6 @@
                 "0.0.1.1"
             ],
             "ipv6": []
-        }
-    },
-    "wordpress.com": {
-        "https://wordpress.com/theme/ctlg?ref=logged-out-homepage-lp": {
-            "ipv4": [],
-            "ipv6": [
-                "2016:43:44"
-            ]
         }
     },
     "kcix.net": {

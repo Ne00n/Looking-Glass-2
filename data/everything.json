@@ -1007,6 +1007,30 @@
             "ipv6": {
                 "7f4c:a4fe:e85b:4410:21f4:7b8c:99c": "n/a"
             }
+        },
+        "https://lblk-lg.as210630.net/": {
+            "ipv4": {
+                "23.184.48.7": "Liberty Lake, United States"
+            },
+            "ipv6": {
+                "2602:fc24:18:0018:23:184:48:7": "Liberty Lake, United States"
+            }
+        },
+        "https://nl-lg.as210630.net/": {
+            "ipv4": {
+                "23.137.250.50": "Naaldwijk, The Netherlands"
+            },
+            "ipv6": {
+                "2602:fc24:12:5f3b:23:137:250:50": "Naaldwijk, The Netherlands"
+            }
+        },
+        "https://pa-lg.as210630.net/": {
+            "ipv4": {
+                "23.137.253.5": "Allentown, United States"
+            },
+            "ipv6": {
+                "2602:fc24:19:ca0c:23:137:253:5": "Allentown, United States"
+            }
         }
     },
     "ramnode.com": {
@@ -1110,6 +1134,14 @@
         }
     },
     "terrahost.no": {
+        "https://lg.ams-nl.terrahost.com/": {
+            "ipv4": {
+                "45.88.200.26": "Amsterdam, The Netherlands"
+            },
+            "ipv6": {
+                "2a03:94e3:ffff:45:88:200::26": "Amsterdam, The Netherlands"
+            }
+        },
         "https://lg.kc-us.terrahost.com/": {
             "ipv4": {
                 "193.243.189.8": "Kansas City, United States"
@@ -3367,6 +3399,12 @@
                 "104.149.18.203": "Los Angeles, United States"
             },
             "ipv6": {}
+        },
+        "http://lg.lax.psychz.net/": {
+            "ipv4": {},
+            "ipv6": {
+                "2604:6600:0:54::cd76:5890": "Rockville, United States"
+            }
         }
     },
     "first-root.com": {
@@ -4169,6 +4207,7 @@
     "servervy.com": {
         "https://lg.servervy.com/": {
             "ipv4": {
+                "241.102.63.245": "n/a",
                 "246.169.174.54": "n/a",
                 "252.175.48.209": "n/a",
                 "81.161.238.38": "Amsterdam, The Netherlands"
@@ -5474,9 +5513,7 @@
     },
     "shifthosting.com": {
         "https://bgp.tools/lg/394177": {
-            "ipv4": {
-                "192.0.2.1": "n/a"
-            },
+            "ipv4": {},
             "ipv6": {
                 "2001:db8::1": "n/a"
             }
@@ -5674,14 +5711,7 @@
             }
         }
     },
-    "loomhosts.com": {
-        "https://hostingfanatic.com/ru/rating/top-vps-vds-hostingov/": {
-            "ipv4": {
-                "5.5.6.1": "Germany"
-            },
-            "ipv6": {}
-        }
-    },
+    "loomhosts.com": {},
     "obhost.net": {
         "https://obhost.net/datacenter.php": {
             "ipv4": {
@@ -6008,7 +6038,14 @@
             }
         }
     },
-    "lightnode.com": {},
+    "lightnode.com": {
+        "https://openlitespeed.org/": {
+            "ipv4": {
+                "5.4.5.2": "Germany"
+            },
+            "ipv6": {}
+        }
+    },
     "virpus.com": {
         "https://www.virpus.com/windows-vps.php": {
             "ipv4": {
@@ -6818,17 +6855,6 @@
                 "78.142.8.78": "Atlanta, United States"
             },
             "ipv6": {}
-        }
-    },
-    "bgp.services": {
-        "https://bgp.services/bgp-vps-providers": {
-            "ipv4": {},
-            "ipv6": {
-                "5664:130:x": "n/a",
-                "5664:110:x": "n/a",
-                "5664:120:x": "n/a",
-                "5664:100:x": "n/a"
-            }
         }
     },
     "tube-hosting.com": {
@@ -8267,14 +8293,6 @@
             "ipv6": {}
         }
     },
-    "wordpress.com": {
-        "https://wordpress.com/theme/ctlg?ref=logged-out-homepage-lp": {
-            "ipv4": {},
-            "ipv6": {
-                "2016:43:44": "n/a"
-            }
-        }
-    },
     "kcix.net": {
         "https://joesdatacenter.com/": {
             "ipv4": {
@@ -8836,7 +8854,14 @@
     "netedgetechnology.com": {},
     "snt.ru": {},
     "svenhost.com": {},
-    "jsmsr.com": {},
+    "jsmsr.com": {
+        "https://lg.jsmsr.com/": {
+            "ipv4": {},
+            "ipv6": {
+                "2406:840:e182::1": "Ha Kwai Chung, Hong Kong"
+            }
+        }
+    },
     "devcapsule.com": {},
     "maxkvm.net": {},
     "pnshostings.com": {},
@@ -9654,14 +9679,7 @@
     "rootwelt.de": {},
     "apac-tools.ovh": {},
     "melbourne.co.uk": {},
-    "as52025.net": {
-        "https://lg.as52025.net/": {
-            "ipv4": {
-                "192.0.2.1": "n/a"
-            },
-            "ipv6": {}
-        }
-    },
+    "as52025.net": {},
     "transroute.net": {},
     "whitelabelitsolutions.com": {},
     "fdcservers.net": {
@@ -9905,9 +9923,7 @@
     "batucloud.com": {},
     "bgp.tools": {
         "https://bgp.tools/lg/207781": {
-            "ipv4": {
-                "192.0.2.1": "n/a"
-            },
+            "ipv4": {},
             "ipv6": {
                 "2001:db8::1": "n/a"
             }
@@ -9926,7 +9942,16 @@
             "ipv6": {}
         }
     },
-    "edgevm.com": {},
+    "edgevm.com": {
+        "https://www.edgevm.com/windows-vps-kvm/": {
+            "ipv4": {
+                "136.0.16.3": "San Francisco, United States",
+                "205.164.41.66": "United States",
+                "23.27.48.19": "Hong Kong, Hong Kong"
+            },
+            "ipv6": {}
+        }
+    },
     "dedibyte.com": {},
     "gorack.net": {},
     "hn.cl": {},
@@ -9985,14 +10010,7 @@
     },
     "lcsnet.eu": {},
     "contabo.com": {},
-    "edgoo.net": {
-        "https://lg.edgoo.net/": {
-            "ipv4": {
-                "192.0.2.1": "n/a"
-            },
-            "ipv6": {}
-        }
-    },
+    "edgoo.net": {},
     "keycdn.com": {},
     "as45040.net": {},
     "synlinq.de": {},
@@ -10450,16 +10468,6 @@
     "theserverstore.com": {},
     "serverzoo.com": {},
     "vps.net": {},
-    "hosterdaddy.com": {
-        "https://www.hosterdaddy.com/company/datacenter-network.php": {
-            "ipv4": {
-                "0.0.0.1": "n/a",
-                "0.0.2.7": "n/a",
-                "0.0.5.0": "n/a"
-            },
-            "ipv6": {}
-        }
-    },
     "clubvps.com": {},
     "servermedia.com.br": {},
     "hostbillapp.com": {},
@@ -10937,6 +10945,2239 @@
     "abelohost.jp": {},
     "netrality.com": {},
     "vantage-dc.com": {},
+    "sid.net.id": {
+        "http://lg.sid.net.id/": {
+            "ipv4": {
+                "103.148.113.13": "Bandung, Indonesia"
+            },
+            "ipv6": {}
+        }
+    },
+    "schwartznet.com": {},
+    "imcloud.tw": {
+        "http://lg.imcloud.tw/": {
+            "ipv4": {
+                "103.246.218.1": "Taipei, Taiwan"
+            },
+            "ipv6": {}
+        }
+    },
+    "hkix.net": {
+        "https://www.hkix.net/hkix/hkixlg.htm": {
+            "ipv4": {
+                "123.255.88.1": "Hong Kong"
+            },
+            "ipv6": {}
+        }
+    },
+    "netflash.com.cy": {
+        "https://lg.netflash.com.cy/": {
+            "ipv4": {
+                "185.78.129.229": "Parekklisha, Cyprus"
+            },
+            "ipv6": {
+                "2a10:8400::ffff:b94e:81e5": "Cyprus"
+            }
+        }
+    },
+    "swissnode.ch": {
+        "http://lg.swissnode.ch/": {
+            "ipv4": {
+                "185.164.184.102": "Bern, Switzerland"
+            },
+            "ipv6": {
+                "2a0b:5400:1:862::1": "Spain"
+            }
+        }
+    },
+    "ninjaserver.co.id": {
+        "https://lg.ninjaserver.co.id/": {
+            "ipv4": {
+                "103.143.170.165": "Indonesia"
+            },
+            "ipv6": {}
+        }
+    },
+    "ohost.bg": {
+        "https://lg.ohost.bg/": {
+            "ipv4": {
+                "93.123.16.24": "Sofia, Bulgaria"
+            },
+            "ipv6": {}
+        }
+    },
+    "as53767.net": {
+        "https://www.as53767.net/lg.php": {
+            "ipv4": {
+                "199.180.73.26": "Phoenix, United States"
+            },
+            "ipv6": {
+                "2605:9d00:0:2::2": "United States"
+            }
+        }
+    },
+    "hostperl.com": {
+        "http://lg.hostperl.com/": {
+            "ipv4": {
+                "103.243.170.3": "New Zealand"
+            },
+            "ipv6": {}
+        }
+    },
+    "i4w.pt": {
+        "https://lg.i4w.pt/": {
+            "ipv4": {
+                "185.113.142.41": "Lisbon, Portugal"
+            },
+            "ipv6": {
+                "2a03:0:141::cafe:2:c0de": "Lisbon, Portugal"
+            }
+        }
+    },
+    "hostoweb.com": {
+        "https://lg.hostoweb.com/": {
+            "ipv4": {
+                "154.70.207.44": "Morocco"
+            },
+            "ipv6": {
+                "2c0f:5400:2:18::1": "Morocco"
+            }
+        }
+    },
+    "voltbb.com": {},
+    "sumofiber.com": {
+        "https://lg-bozeman.sumofiber.com/": {
+            "ipv4": {
+                "38.148.32.20": "Bozeman, United States"
+            },
+            "ipv6": {}
+        },
+        "https://lg-dal.sumofiber.com/": {
+            "ipv4": {
+                "38.70.250.10": "Little Elm, United States"
+            },
+            "ipv6": {}
+        },
+        "https://lg-denver.sumofiber.com/": {
+            "ipv4": {
+                "38.148.122.4": "Colorado Springs, United States"
+            },
+            "ipv6": {}
+        },
+        "https://lg-idf.sumofiber.com/": {
+            "ipv4": {
+                "130.51.28.3": "Idaho Falls, United States"
+            },
+            "ipv6": {}
+        },
+        "https://lg-las.sumofiber.com/": {
+            "ipv4": {
+                "45.41.232.9": "Las Vegas, United States"
+            },
+            "ipv6": {}
+        },
+        "https://lg-stgeorge.sumofiber.com/": {
+            "ipv4": {
+                "38.59.192.151": "St. George, United States"
+            },
+            "ipv6": {}
+        },
+        "https://lg-tam.sumofiber.com/": {
+            "ipv4": {
+                "38.59.208.24": "Spring Hill, United States"
+            },
+            "ipv6": {}
+        },
+        "https://lg.sumofiber.com/": {
+            "ipv4": {
+                "198.91.51.23": "Centerville, United States"
+            },
+            "ipv6": {}
+        }
+    },
+    "padi.net.id": {
+        "https://lg.padi.net.id/": {
+            "ipv4": {
+                "202.6.229.6": "Surabaya, Indonesia"
+            },
+            "ipv6": {}
+        }
+    },
+    "as44136.net": {
+        "https://lg.as44136.net/": {
+            "ipv4": {
+                "46.16.239.242": "Sweden"
+            },
+            "ipv6": {
+                "2a02:28f1:7000:1::5:1": "Sweden"
+            }
+        }
+    },
+    "ni.net.tr": {
+        "https://lg.ni.net.tr:443/": {
+            "ipv4": {
+                "159.253.40.22": "Turkiye"
+            },
+            "ipv6": {
+                "2a03:2100::22": "Turkiye"
+            }
+        }
+    },
+    "as211364.net": {
+        "https://lg.as211364.net/summary/apl+obb": {
+            "ipv4": {},
+            "ipv6": {
+                "2a0c:b641:171:e201:d0d0:15:dead:0": "Hullhorst, Germany"
+            }
+        }
+    },
+    "eth-services.de": {
+        "https://lg.eth-services.de/": {
+            "ipv4": {
+                "45.86.125.164": "Germany"
+            },
+            "ipv6": {
+                "2a09:e1c0:0:1::135": "Germany"
+            }
+        }
+    },
+    "datamossa.io": {
+        "http://looking-glass.datamossa.io/": {
+            "ipv4": {
+                "103.126.53.66": "Australia"
+            },
+            "ipv6": {
+                "2404:5c0:153::13:8466:1": "Australia"
+            }
+        }
+    },
+    "kapper.net": {
+        "https://lg.kapper.net/": {
+            "ipv4": {
+                "94.136.22.133": "Vienna, Austria"
+            },
+            "ipv6": {
+                "2a02:ab8:4::100": "Austria"
+            }
+        }
+    },
+    "nonexiste.net": {
+        "https://lg.nonexiste.net/": {
+            "ipv4": {
+                "158.51.134.37": "United States"
+            },
+            "ipv6": {}
+        }
+    },
+    "rcp.net": {
+        "https://lg.rcp.net/": {
+            "ipv4": {
+                "103.211.1.17": "Hong Kong"
+            },
+            "ipv6": {}
+        }
+    },
+    "itn.net.id": {
+        "https://lg.itn.net.id/": {
+            "ipv4": {
+                "103.140.189.47": "Bandar Lampung, Indonesia"
+            },
+            "ipv6": {}
+        }
+    },
+    "208814.de": {
+        "https://lg.208814.de/": {
+            "ipv4": {
+                "193.138.81.84": "Germany"
+            },
+            "ipv6": {
+                "2a0f:5707:aa15::84:1": "Germany"
+            }
+        }
+    },
+    "i4networks.nl": {
+        "https://lg.i4networks.nl/": {
+            "ipv4": {
+                "195.246.236.60": "Amsterdam, The Netherlands"
+            },
+            "ipv6": {}
+        }
+    },
+    "shinjiru.com.my": {
+        "https://lg.shinjiru.com.my/": {
+            "ipv4": {
+                "124.217.224.196": "Malaysia"
+            },
+            "ipv6": {}
+        }
+    },
+    "intibu.com": {
+        "https://lg.intibu.com/": {
+            "ipv4": {
+                "213.238.165.12": "Istanbul, Turkiye"
+            },
+            "ipv6": {}
+        }
+    },
+    "as213052.net": {},
+    "cubepath.com": {
+        "https://lg.cubepath.com/": {
+            "ipv4": {
+                "108.165.47.7": "Ashburn, United States",
+                "46.31.68.16": "Spain"
+            },
+            "ipv6": {}
+        }
+    },
+    "terratransit.de": {
+        "https://lg.terratransit.de/prefix_bgpmap/all?q=terratransit.de": {
+            "ipv4": {
+                "77.237.224.30": "Germany"
+            },
+            "ipv6": {}
+        }
+    },
+    "azonne.com": {},
+    "tre.se": {
+        "http://lg.3.dk/": {
+            "ipv4": {
+                "80.251.195.71": "Stockholm, Sweden"
+            },
+            "ipv6": {
+                "2a02:aa0:0:2d:6612:25ff:fe36:aa6a": "Sweden"
+            }
+        },
+        "http://lg.tre.se/": {
+            "ipv4": {
+                "80.251.201.188": "Sweden"
+            },
+            "ipv6": {
+                "2a02:aa0:0:1:d685:64ff:fecd:db0e": "Sweden"
+            }
+        }
+    },
+    "rediris.es": {
+        "https://www.rediris.es/red/lg/": {
+            "ipv4": {
+                "130.206.194.253": "Madrid, Spain",
+                "130.206.195.253": "Madrid, Spain",
+                "130.206.197.253": "Madrid, Spain",
+                "130.206.198.126": "Madrid, Spain",
+                "130.206.198.253": "Madrid, Spain",
+                "130.206.206.254": "Madrid, Spain",
+                "130.206.210.253": "Madrid, Spain",
+                "130.206.211.253": "Madrid, Spain",
+                "130.206.212.253": "Madrid, Spain"
+            },
+            "ipv6": {}
+        }
+    },
+    "mag.net.id": {
+        "https://lg.mag.net.id": {
+            "ipv4": {
+                "103.18.133.251": "Indonesia"
+            },
+            "ipv6": {}
+        }
+    },
+    "3winfra.com": {
+        "https://lg.ams.3winfra.com/": {
+            "ipv4": {
+                "45.138.37.226": "Amsterdam, The Netherlands"
+            },
+            "ipv6": {
+                "2a02:5060:333:333::2": "Amsterdam, The Netherlands"
+            }
+        }
+    },
+    "ip-projects.de": {
+        "https://lg.ip-projects.de/": {
+            "ipv4": {
+                "194.45.36.120": "Germany"
+            },
+            "ipv6": {
+                "2a0a:51c1:0000:000b::3": "Germany"
+            }
+        }
+    },
+    "as205965.net": {
+        "https://lg.as205965.net/": {
+            "ipv4": {
+                "82.163.18.3": "Vienna, Austria"
+            },
+            "ipv6": {
+                "2a05:dfc1:ad00::107": "United States"
+            }
+        }
+    },
+    "opteamax.net": {
+        "https://lg.opteamax.net/": {
+            "ipv4": {},
+            "ipv6": {
+                "2a01:b1c0:0:12::1": "Germany"
+            }
+        }
+    },
+    "adamo.es": {},
+    "cable.st": {
+        "http://lg.cable.st/": {
+            "ipv4": {
+                "185.250.184.198": "United Kingdom"
+            },
+            "ipv6": {
+                "2a00:dcc7:2202:3e3::4ab6": "Italy"
+            }
+        }
+    },
+    "myix.my": {
+        "https://portal.myix.my/lg": {
+            "ipv4": {},
+            "ipv6": {
+                "2400:2400:A000:": "n/a"
+            }
+        }
+    },
+    "yacolo.com": {
+        "http://lg.yacolo.com/": {
+            "ipv4": {
+                "46.8.251.41": "Kemerovo, Russia"
+            },
+            "ipv6": {
+                "2a09:6280:3:1::41": "Kemerovo, Russia"
+            }
+        },
+        "https://lg.fra.yacolo.com/": {
+            "ipv4": {
+                "37.187.154.209": "Paris, France"
+            },
+            "ipv6": {
+                "2001:41d0:a:5ad1::1": "France"
+            }
+        }
+    },
+    "hnhost.net": {
+        "https://ixlg.hnhost.net/": {
+            "ipv4": {},
+            "ipv6": {
+                "2a0f:85c1:363:1::2": "United Kingdom",
+                "2a0f:85c1:363:1::1": "United Kingdom"
+            }
+        }
+    },
+    "vietpn.com": {
+        "http://lg.sgn.vietpn.com/": {
+            "ipv4": {
+                "103.151.57.22": "Ho Chi Minh City, Vietnam"
+            },
+            "ipv6": {
+                "2400:39a0::f348:5452:bed2:2a0f": "Vietnam"
+            }
+        },
+        "http://lg.vietpn.com/": {
+            "ipv4": {
+                "103.151.56.6": "Ho Chi Minh City, Vietnam"
+            },
+            "ipv6": {
+                "2400:72a0::7a7a:ab5c:b370:3d78": "Vietnam"
+            }
+        }
+    },
+    "herzacloud.com": {
+        "http://lg-cyber1.herzacloud.com/": {
+            "ipv4": {
+                "103.152.118.76": "Indonesia"
+            },
+            "ipv6": {}
+        },
+        "https://lg-kul.herzacloud.com/": {
+            "ipv4": {
+                "38.47.189.100": "Kuala Lumpur, Malaysia"
+            },
+            "ipv6": {
+                "2401:0920:1003:1111:e02a:2671:be8b:0001": "Singapore"
+            }
+        },
+        "https://lg-sub1.herzacloud.com/": {
+            "ipv4": {
+                "103.215.229.21": "Surabaya, Indonesia"
+            },
+            "ipv6": {
+                "2401:920:1001:1111:20d:831b:e05c:1": "Singapore"
+            }
+        }
+    },
+    "as215665.net": {
+        "https://lg.as215665.net/": {
+            "ipv4": {},
+            "ipv6": {
+                "2a11:29c0:37::1": "Moers, Germany"
+            }
+        }
+    },
+    "mediainvent.net": {
+        "https://lg-de.fonira.net/": {
+            "ipv4": {
+                "81.169.166.77": "Germany"
+            },
+            "ipv6": {
+                "2a01:238:421d:ec00:5717:78e:3cb4:51fe": "Germany"
+            }
+        },
+        "https://lg-usa.fonira.net/": {
+            "ipv4": {
+                "62.151.178.60": "United States"
+            },
+            "ipv6": {
+                "2607:f1c0:1801:2d::1": "United States"
+            }
+        },
+        "https://lg.mediainvent.net/": {
+            "ipv4": {
+                "178.251.64.167": "Vienna, Austria"
+            },
+            "ipv6": {
+                "2a02:1748:f064:160::167": "Austria"
+            }
+        }
+    },
+    "comvive.es": {
+        "https://lg.comvive.es/": {
+            "ipv4": {
+                "195.78.228.97": "Spain"
+            },
+            "ipv6": {
+                "2a00:1d70:c01c::228:97": "Spain"
+            }
+        }
+    },
+    "enta.net": {
+        "http://lg.enta.net/": {
+            "ipv4": {},
+            "ipv6": {
+                "2a02:8100::": "Germany",
+                "2001:4d48:feed:1::5": "United Kingdom",
+                "86b8:2ff:fe7d:c8b1": "n/a"
+            }
+        }
+    },
+    "bknix.co.th": {
+        "https://bknix.co.th/en/lg/": {
+            "ipv4": {
+                "203.159.70.23": "Thailand"
+            },
+            "ipv6": {
+                "2001:deb:0:4070::23": "Thailand"
+            }
+        }
+    },
+    "forksystems.net": {},
+    "vserver.site": {
+        "https://lg-dus.vserver.site/": {
+            "ipv4": {
+                "185.244.27.121": "Dusseldorf, Germany"
+            },
+            "ipv6": {
+                "2a0f:5707:aa81:ffff:ffff:ffff:448b:b94e": "Germany"
+            }
+        }
+    },
+    "palmahost.sh": {
+        "https://lg.palmahost.sh/": {
+            "ipv4": {
+                "77.83.39.254": "Madrid, Spain"
+            },
+            "ipv6": {}
+        }
+    },
+    "fibersix.it": {
+        "https://lg.fibersix.it/": {
+            "ipv4": {
+                "103.230.140.104": "Cava de' Tirreni, Italy"
+            },
+            "ipv6": {
+                "2a10:ba87:fef0:f0f0::1": "Cava de' Tirreni, Italy"
+            }
+        }
+    },
+    "lasagna.dev": {
+        "https://lg.lasagna.dev/": {
+            "ipv4": {
+                "79.110.170.38": "Fremont, United States"
+            },
+            "ipv6": {
+                "2a0d:1a43:c010:123::": "Fremont, United States"
+            }
+        }
+    },
+    "gpm.co.id": {
+        "https://lg.gpm.co.id": {
+            "ipv4": {
+                "116.206.212.252": "Lampung, Indonesia"
+            },
+            "ipv6": {
+                "2400:d680::5fed:7e57:a": "Indonesia"
+            }
+        }
+    },
+    "jantechcs.com": {
+        "https://lg.jantechcs.com/": {
+            "ipv4": {
+                "155.138.160.218": "Atlanta, United States"
+            },
+            "ipv6": {
+                "2001:19f0:5401:1e89:5400:2ff:fe29:f7ff": "Atlanta, United States"
+            }
+        }
+    },
+    "primexm.com": {
+        "https://lg01-ld4.primexm.com/": {
+            "ipv4": {
+                "185.97.160.8": "Cyprus"
+            },
+            "ipv6": {}
+        },
+        "https://lg01-ny4.primexm.com/": {
+            "ipv4": {
+                "162.255.145.8": "British Virgin Islands"
+            },
+            "ipv6": {}
+        },
+        "https://lg01-ty3.primexm.com/": {
+            "ipv4": {
+                "103.40.209.8": "Singapore"
+            },
+            "ipv6": {}
+        }
+    },
+    "dataartasedaya.net.id": {
+        "http://lg.dataartasedaya.net.id/lg/": {
+            "ipv4": {
+                "103.163.80.1": "Ngawi, Indonesia"
+            },
+            "ipv6": {
+                "2001:df2:38c0:2ff:abd:ad:ffff:1": "Indonesia"
+            }
+        }
+    },
+    "hesenergy.net": {},
+    "as56958.net": {
+        "https://lg.mad01.as56958.net/": {
+            "ipv4": {
+                "178.211.133.5": "Madrid, Spain"
+            },
+            "ipv6": {
+                "2a12:d280:100:5::1": "Madrid, Spain"
+            }
+        }
+    },
+    "edgecenter.ru": {},
+    "as44620.net": {
+        "https://lg.as44620.net/": {
+            "ipv4": {
+                "176.116.6.66": "Istanbul, Turkiye"
+            },
+            "ipv6": {
+                "2a0f:6580:110:171::1d": "Turkiye"
+            }
+        }
+    },
+    "sitel.net.pl": {
+        "http://lg.sitel.net.pl/": {
+            "ipv4": {
+                "91.188.97.174": "Tarnowskie Gory, Poland"
+            },
+            "ipv6": {
+                "2a02:2430:1:5::2": "Poland"
+            }
+        }
+    },
+    "tecnocratica.net": {
+        "https://lg1.tecnocratica.net/": {
+            "ipv4": {
+                "31.47.72.202": "Spain"
+            },
+            "ipv6": {
+                "2a01:a940:419:ca::1": "Spain"
+            }
+        }
+    },
+    "as204003.net": {
+        "https://lg.as204003.net/": {
+            "ipv4": {
+                "94.142.242.20": "Amsterdam, The Netherlands"
+            },
+            "ipv6": {
+                "2a06:e881:5803:42:4c0:deff:fe2e:5910": "Amsterdam, The Netherlands"
+            }
+        }
+    },
+    "mitues.com": {
+        "http://lg.mitues.com/": {
+            "ipv4": {
+                "185.220.59.5": "Istanbul, Turkiye"
+            },
+            "ipv6": {
+                "2a0c:f587:fffd:13::1": "Turkiye"
+            }
+        }
+    },
+    "optinet.co.uk": {
+        "https://optinet.co.uk/support/looking-glass/": {
+            "ipv4": {
+                "54.229.23.119": "Dublin, Ireland"
+            },
+            "ipv6": {
+                "2001:db8:1337::42": "n/a",
+                "2001:db8::": "n/a"
+            }
+        }
+    },
+    "internetsahibi.net": {
+        "http://lg.internetsahibi.net/": {
+            "ipv4": {
+                "185.172.146.9": "Istanbul, Turkiye"
+            },
+            "ipv6": {}
+        }
+    },
+    "datacasa.com.tr": {
+        "https://lg.datacasa.com.tr/": {
+            "ipv4": {
+                "185.112.74.106": "Turkiye"
+            },
+            "ipv6": {}
+        }
+    },
+    "topfibrainternet.com.br": {
+        "http://lookingglass.topfibrainternet.com.br/": {
+            "ipv4": {},
+            "ipv6": {
+                "2001:db8:1::1": "n/a"
+            }
+        }
+    },
+    "mymanga.co.ke": {
+        "https://bgp.tools/lg/329029": {
+            "ipv4": {},
+            "ipv6": {
+                "2001:db8::1": "n/a"
+            }
+        }
+    },
+    "as51745.net": {
+        "http://lg.as51745.net/": {
+            "ipv4": {
+                "45.145.80.42": "Austria"
+            },
+            "ipv6": {
+                "2a0e:46c3:300::1": "Germany"
+            }
+        }
+    },
+    "scip.es": {
+        "http://noc.scip.es/lg/": {
+            "ipv4": {},
+            "ipv6": {
+                "2a00:b5c0:1::1": "Spain"
+            }
+        }
+    },
+    "subrigo.net": {},
+    "castrotelecom.net": {
+        "https://lg.castrotelecom.net/": {
+            "ipv4": {
+                "23.147.168.39": "Kansas City, United States"
+            },
+            "ipv6": {
+                "2602:faa5::39": "United States"
+            }
+        }
+    },
+    "schleyer-edv.de": {
+        "https://lg.schleyer-edv.de/": {
+            "ipv4": {
+                "45.151.56.5": "Langen (Hessen), Germany"
+            },
+            "ipv6": {
+                "2a06:1283:c112:fa21::14c3:afa3": "United States"
+            }
+        }
+    },
+    "start.psi.br": {},
+    "xorek.cloud": {
+        "https://lg.xorek.cloud/": {
+            "ipv4": {
+                "185.103.100.123": "Frankfurt am Main, Germany",
+                "185.103.102.9": "Helsinki, Finland",
+                "185.103.103.73": "Stockholm, Sweden"
+            },
+            "ipv6": {}
+        }
+    },
+    "baehost.com": {
+        "https://baehost.com/es-int/looking-glass/": {
+            "ipv4": {
+                "131.255.4.1": "Argentina",
+                "131.255.7.1": "Argentina",
+                "170.78.72.1": "Argentina",
+                "170.78.75.1": "Argentina"
+            },
+            "ipv6": {
+                "2803:eb80:4000::1": "Argentina",
+                "2803:eb80::1": "Argentina",
+                "2803:eb80:c000::1": "Santiago, Chile",
+                "2803:eb80:8000::1": "Santiago, Chile"
+            }
+        }
+    },
+    "ntt.lt": {
+        "https://lg.ntt.lt/": {
+            "ipv4": {
+                "84.32.134.225": "Lithuania"
+            },
+            "ipv6": {}
+        }
+    },
+    "pendns.net": {
+        "http://lg.pendns.net/": {
+            "ipv4": {
+                "85.153.142.163": "Turkiye"
+            },
+            "ipv6": {}
+        }
+    },
+    "codit.com.tr": {
+        "https://lg.codit.com.tr/": {
+            "ipv4": {
+                "193.33.164.254": "Turkiye"
+            },
+            "ipv6": {}
+        }
+    },
+    "kyouma.net": {
+        "https://lg.kyouma.net/": {
+            "ipv4": {
+                "45.150.123.0": "Germany"
+            },
+            "ipv6": {
+                "2a0f:be01::1": "Germany"
+            }
+        }
+    },
+    "mtu.ru": {},
+    "volia.com": {},
+    "zxinc.org": {
+        "http://ngb3.bb.zxinc.org/lg/": {
+            "ipv4": {},
+            "ipv6": {
+                "2406:840:20::1": "Ningbo, China"
+            }
+        }
+    },
+    "snakecrafthosting.com": {
+        "https://lg.snakecrafthosting.com/": {
+            "ipv4": {
+                "185.165.44.2": "Grand Rapids, United States"
+            },
+            "ipv6": {
+                "2602:f964:1:2::a": "Grand Rapids, United States"
+            }
+        }
+    },
+    "47272.net": {},
+    "pch.net": {
+        "https://www.pch.net/tools/looking_glass": {
+            "ipv4": {
+                "255.255.255.0": "n/a"
+            },
+            "ipv6": {}
+        }
+    },
+    "radiantbd.com": {
+        "http://lg.radiantbd.com/": {
+            "ipv4": {
+                "122.102.32.237": "Bangladesh"
+            },
+            "ipv6": {}
+        }
+    },
+    "netlen.com": {
+        "https://lg.netlen.com/": {
+            "ipv4": {
+                "176.116.6.66": "Istanbul, Turkiye"
+            },
+            "ipv6": {
+                "2a0f:6580:110:171::1d": "Turkiye"
+            }
+        }
+    },
+    "tgg.net.id": {
+        "http://lg.tgg.net.id/": {
+            "ipv4": {
+                "202.43.115.92": "Indonesia"
+            },
+            "ipv6": {}
+        }
+    },
+    "hlp.net.br": {
+        "http://lg.hlp.net.br/": {
+            "ipv4": {
+                "164.163.108.50": "Sao Paulo, Brazil"
+            },
+            "ipv6": {
+                "2804:404c:1001::2": "Brazil"
+            }
+        }
+    },
+    "neocarrier.com": {
+        "https://lg.neocarrier.com/": {
+            "ipv4": {
+                "217.146.49.18": "Zurich, Switzerland"
+            },
+            "ipv6": {}
+        }
+    },
+    "linkfull.com.br": {
+        "http://lgv6.linkfull.com.br/lg/": {
+            "ipv4": {
+                "191.243.156.214": "Volta Redonda, Brazil"
+            },
+            "ipv6": {
+                "2804:908:300:806::156:218": "Brazil"
+            }
+        }
+    },
+    "harmonika.id": {
+        "https://lg.harmonika.id/": {
+            "ipv4": {
+                "103.141.170.162": "Depok, Indonesia"
+            },
+            "ipv6": {}
+        }
+    },
+    "igloo.to": {},
+    "core-backbone.com": {
+        "http://lg.core-backbone.com/": {
+            "ipv4": {
+                "83.142.85.226": "Germany"
+            },
+            "ipv6": {
+                "2a01:4a0:36::2": "Germany"
+            }
+        }
+    },
+    "odeaweb.com": {
+        "https://lg.odeaweb.com/": {
+            "ipv4": {
+                "213.238.190.7": "Izmir, Turkiye"
+            },
+            "ipv6": {}
+        }
+    },
+    "hostlab.com": {
+        "https://lg.hostlab.com/": {
+            "ipv4": {
+                "45.158.14.13": "Istanbul, Turkiye"
+            },
+            "ipv6": {}
+        }
+    },
+    "it-communicationsltd.co.uk": {
+        "https://lg2.it-communicationsltd.co.uk/": {
+            "ipv4": {
+                "185.131.10.29": "United Kingdom"
+            },
+            "ipv6": {
+                "2a06:dd40:5600::7": "United Kingdom"
+            }
+        }
+    },
+    "insight.co.za": {},
+    "sobat.net.id": {
+        "https://lg.sobat.net.id/": {
+            "ipv4": {
+                "103.120.125.23": "Indonesia"
+            },
+            "ipv6": {}
+        }
+    },
+    "warpnet.xyz": {},
+    "jettel.pl": {
+        "http://lg.jettel.pl/": {
+            "ipv4": {
+                "91.241.33.69": "Bielsko-Biala, Poland"
+            },
+            "ipv6": {}
+        }
+    },
+    "openfactory.net": {},
+    "daoport.net": {},
+    "unlimitednet.us": {
+        "http://lg.unlimitednet.us/": {
+            "ipv4": {
+                "198.134.104.1": "Indianapolis, United States"
+            },
+            "ipv6": {}
+        }
+    },
+    "php-friends.de": {
+        "https://lg.php-friends.de/": {
+            "ipv4": {
+                "176.96.137.37": "Germany"
+            },
+            "ipv6": {
+                "2a0d:5940:8:6e::2": "Germany"
+            }
+        }
+    },
+    "netbone.com.tr": {
+        "https://lg.netbone.com.tr/": {
+            "ipv4": {
+                "45.94.148.20": "Istanbul, Turkiye"
+            },
+            "ipv6": {}
+        }
+    },
+    "rgfi.net": {
+        "https://lg.rgfi.net/": {
+            "ipv4": {
+                "185.33.216.65": "Germany"
+            },
+            "ipv6": {}
+        }
+    },
+    "path.net": {},
+    "fonira.net": {
+        "https://lg-de.fonira.net/": {
+            "ipv4": {
+                "81.169.166.77": "Germany"
+            },
+            "ipv6": {
+                "2a01:238:421d:ec00:5717:78e:3cb4:51fe": "Germany"
+            }
+        },
+        "https://lg.fonira.net/": {
+            "ipv4": {
+                "178.251.64.167": "Vienna, Austria"
+            },
+            "ipv6": {
+                "2a02:1748:f064:160::167": "Austria"
+            }
+        }
+    },
+    "argon.sg": {
+        "http://lg.argon.sg/": {
+            "ipv4": {
+                "45.64.97.73": "Changi Village, Singapore"
+            },
+            "ipv6": {}
+        }
+    },
+    "tay.net.tr": {},
+    "rise.ph": {},
+    "nexthop.no": {
+        "http://lg.nexthop.no/prefix_detail/rr1-hmg9-osl-no+rr1-s121-osl-no/ipv4?q=nexthop.no": {
+            "ipv4": {
+                "91.218.184.99": "Norway",
+                "91.90.105.241": "Norway",
+                "91.90.105.249": "Norway",
+                "91.90.109.129": "Norway"
+            },
+            "ipv6": {}
+        }
+    },
+    "novoserve.com": {
+        "https://lg.nl.novoserve.com": {
+            "ipv4": {
+                "89.105.215.9": "Enschede, The Netherlands"
+            },
+            "ipv6": {}
+        },
+        "https://lg.us.novoserve.com/": {
+            "ipv4": {
+                "205.142.240.73": "United States"
+            },
+            "ipv6": {}
+        }
+    },
+    "4vendeta.com": {
+        "https://4vendeta.com/data-center/looking-glass": {
+            "ipv4": {
+                "79.124.56.2": "Blagoevgrad, Bulgaria"
+            },
+            "ipv6": {}
+        }
+    },
+    "gointec.com.br": {
+        "https://lg.gointec.com.br/": {
+            "ipv4": {
+                "172.70.123.158": "Tokyo, Japan"
+            },
+            "ipv6": {}
+        }
+    },
+    "as62000.net": {},
+    "predkosci.pl": {
+        "https://www.predkosci.pl/lg": {
+            "ipv4": {
+                "119.75.204.0": "Singapore, Singapore",
+                "119.75.205.0": "Singapore, Singapore",
+                "119.75.206.0": "Singapore, Singapore",
+                "195.70.192.0": "Russia",
+                "203.114.96.0": "Thailand",
+                "203.92.100.0": "Singapore, Singapore",
+                "203.92.102.0": "Singapore, Singapore"
+            },
+            "ipv6": {
+                "2a13:d704::": "Jakarta, Indonesia",
+                "2a13:d707::": "Bangkok, Thailand",
+                "2002:8d0b:5652::8d0b:5652": "New Taipei, Taiwan",
+                "2a13:d903::": "Sofia, Bulgaria"
+            }
+        },
+        "https://www.predkosci.pl/speedtest": {
+            "ipv4": {},
+            "ipv6": {
+                "2002:b9c1:9efd::b9c1:9efd": "Amsterdam, The Netherlands"
+            }
+        }
+    },
+    "imfnetwork.com.br": {
+        "https://lg.imfnetwork.com.br/": {
+            "ipv4": {
+                "191.5.164.61": "Marilia, Brazil"
+            },
+            "ipv6": {
+                "2804:1398:1::164:61": "Brazil"
+            }
+        }
+    },
+    "as5405.net": {},
+    "astrovpn.co": {
+        "https://lg.astrovpn.co/": {
+            "ipv4": {
+                "104.234.220.172": "Chicago, United States",
+                "66.11.123.16": "Dallas, United States"
+            },
+            "ipv6": {
+                "2602:ffc5:105:301:0000:0000:0e1c:ba77": "Dallas, United States"
+            }
+        }
+    },
+    "breitbandmessung.de": {
+        "https://lg.breitbandmessung.de/": {
+            "ipv4": {
+                "193.238.173.27": "Germany"
+            },
+            "ipv6": {
+                "2a11:380:1::7:3": "Germany"
+            }
+        }
+    },
+    "xperience-group.com": {
+        "https://lg.xperience-group.com/": {
+            "ipv4": {
+                "172.70.250.10": "Frankfurt am Main, Germany",
+                "85.88.254.100": "United Kingdom"
+            },
+            "ipv6": {}
+        }
+    },
+    "plutex.de": {
+        "https://lg.plutex.de/": {
+            "ipv4": {
+                "31.24.146.69": "Wingst, Germany"
+            },
+            "ipv6": {
+                "2a02:16d0:0:b::2": "Germany"
+            }
+        }
+    },
+    "sh.com.tr": {
+        "https://ping.sh.com.tr/": {
+            "ipv4": {
+                "77.92.155.66": "Turkiye"
+            },
+            "ipv6": {
+                "2a02:26b0:8000:b::2": "Turkiye"
+            }
+        }
+    },
+    "kapteyan.com.tr": {
+        "https://lg.kapteyan.com.tr/": {
+            "ipv4": {
+                "213.238.172.3": "Istanbul, Turkiye"
+            },
+            "ipv6": {}
+        }
+    },
+    "infraly.co": {
+        "https://lg.chi.infraly.co/": {
+            "ipv4": {
+                "45.134.10.10": "Chicago, United States"
+            },
+            "ipv6": {}
+        }
+    },
+    "kings.net.id": {
+        "https://lookingglass.kings.net.id": {
+            "ipv4": {
+                "202.150.161.220": "Bekasi, Indonesia"
+            },
+            "ipv6": {
+                "2402:780:4:5725:b19:fa7:b00b:2": "Indonesia"
+            }
+        }
+    },
+    "dmctelecom.com.br": {
+        "https://lg.dmctelecom.com.br/": {
+            "ipv4": {
+                "172.71.234.91": "Sao Paulo, Brazil"
+            },
+            "ipv6": {}
+        }
+    },
+    "comnet.com.tr": {
+        "https://lg.comnet.com.tr/": {
+            "ipv4": {
+                "185.17.114.50": "Istanbul, Turkiye"
+            },
+            "ipv6": {}
+        }
+    },
+    "6project.org": {
+        "https://lg.6project.org/": {
+            "ipv4": {
+                "185.133.208.223": "Rheine, Germany"
+            },
+            "ipv6": {
+                "2a0c:b642:a01::cafe": "Belgium"
+            }
+        },
+        "https://lg.fr.6project.org/": {
+            "ipv4": {
+                "62.210.74.34": "France"
+            },
+            "ipv6": {
+                "2a05:b0c6:200a:ffff:20a8:10ff:fe7d:4f5": "United Kingdom"
+            }
+        },
+        "https://lg.uk.6project.org/": {
+            "ipv4": {
+                "181.215.32.103": "Manchester, United Kingdom"
+            },
+            "ipv6": {
+                "2a06:8184:1:b::a": "Manchester, United Kingdom"
+            }
+        }
+    },
+    "unix-solutions.be": {
+        "https://lg-leu.unix-solutions.be/": {
+            "ipv4": {
+                "185.111.204.208": "Belgium"
+            },
+            "ipv6": {
+                "2a04:6480:101::208": "Leuven, Belgium"
+            }
+        },
+        "https://lg.unix-solutions.be/": {
+            "ipv4": {
+                "109.68.160.208": "Zaventem, Belgium"
+            },
+            "ipv6": {
+                "2a02:2a08:102::208": "Belgium"
+            }
+        }
+    },
+    "knserv.de": {
+        "https://lg.knserv.de/": {
+            "ipv4": {
+                "88.216.220.26": "Dusseldorf, Germany"
+            },
+            "ipv6": {
+                "2a0e:97c0::25": "Dusseldorf, Germany"
+            }
+        }
+    },
+    "as202427.net": {},
+    "xentain.net": {
+        "https://lg.xentain.net/": {
+            "ipv4": {
+                "170.39.49.218": "Fort Worth, United States",
+                "23.145.56.3": "Fremont, United States",
+                "23.145.57.12": "Falkenstein, Germany",
+                "23.156.104.130": "Kansas City, United States"
+            },
+            "ipv6": {
+                "2602:fa11:10:1033::a": "Canada",
+                "2602:fa11:20:1037::a": "Canada",
+                "2602:fa11:90:100a::a": "Falkenstein, Germany",
+                "2602:fa11:40:102f::a": "Canada"
+            }
+        }
+    },
+    "btscyber.id": {
+        "https://lg.btscyber.id/": {
+            "ipv4": {
+                "210.87.112.13": "Indonesia"
+            },
+            "ipv6": {
+                "2001:df3:8f40:112::15": "Indonesia"
+            }
+        }
+    },
+    "ignero.net": {
+        "https://lg.lax.ignero.net/": {
+            "ipv4": {
+                "66.118.255.5": "Los Angeles, United States"
+            },
+            "ipv6": {}
+        }
+    },
+    "freakhosting.com": {
+        "https://lg.freakhosting.com/": {
+            "ipv4": {
+                "191.96.94.153": "Frankfurt am Main, Germany",
+                "45.13.151.201": "Bacau, Romania",
+                "64.72.205.155": "Dallas, United States"
+            },
+            "ipv6": {}
+        }
+    },
+    "alastyr.com": {
+        "http://lg.alastyr.com/": {
+            "ipv4": {
+                "5.2.80.45": "Izmir, Turkiye"
+            },
+            "ipv6": {}
+        },
+        "https://www.alastyr.com/bilgibankasi/dns-recursion-nasil-kapatilir.html": {
+            "ipv4": {
+                "5.2.81.50": "Izmir, Turkiye"
+            },
+            "ipv6": {}
+        }
+    },
+    "egihosting.com": {
+        "http://lg.egihosting.com/": {
+            "ipv4": {
+                "69.46.67.66": "United States"
+            },
+            "ipv6": {}
+        }
+    },
+    "nexa.net.id": {
+        "https://lg.nexa.net.id/": {
+            "ipv4": {
+                "103.170.25.2": "Indonesia"
+            },
+            "ipv6": {
+                "2401:2620:2620::103:170:25:2": "Indonesia"
+            }
+        }
+    },
+    "goodleafdev.com": {
+        "http://lg.mia.goodleafdev.com/": {
+            "ipv4": {
+                "192.41.102.42": "King, United States"
+            },
+            "ipv6": {
+                "2a13:df80:8390:0000:0000:0000:e3c9:ddb1": "United Kingdom"
+            }
+        }
+    },
+    "as211398.net": {
+        "https://lg.as211398.net/": {
+            "ipv4": {},
+            "ipv6": {
+                "1398:888:888": "n/a"
+            }
+        }
+    },
+    "omnilance.com": {
+        "http://lg.omnilance.com/": {
+            "ipv4": {
+                "185.126.112.24": "Mykolayiv, Ukraine"
+            },
+            "ipv6": {
+                "2a06:c0c0:16::16": "Ukraine"
+            }
+        }
+    },
+    "ipserverone.com": {
+        "http://www.ipserverone.com/data-center-malaysia/": {
+            "ipv4": {
+                "1.8.0.2": "China"
+            },
+            "ipv6": {}
+        },
+        "https://lg4.ipserverone.com": {
+            "ipv4": {
+                "103.197.57.54": "Malaysia"
+            },
+            "ipv6": {}
+        },
+        "https://www.ipserverone.com/data-center-malaysia-gallery/": {
+            "ipv4": {
+                "54.36.148.145": "France"
+            },
+            "ipv6": {}
+        },
+        "https://www.ipserverone.info/knowledge-base/how-to-create-data-center-visitation-request/": {
+            "ipv4": {
+                "2.4.6.1": "Montpellier, France"
+            },
+            "ipv6": {}
+        }
+    },
+    "dscw.fr": {
+        "http://lg.dscw.fr/": {
+            "ipv4": {
+                "91.206.229.132": "France"
+            },
+            "ipv6": {
+                "2a09:5ec0:999::132": "France"
+            }
+        }
+    },
+    "transjakarta.co.id": {
+        "http://lg.transjakarta.co.id/": {
+            "ipv4": {
+                "103.145.125.59": "Jakarta, Indonesia"
+            },
+            "ipv6": {}
+        }
+    },
+    "as151188.net": {
+        "https://lg.as151188.net/": {
+            "ipv4": {},
+            "ipv6": {
+                "2602:faa8:404::3": "Taipei City, Taiwan"
+            }
+        }
+    },
+    "gbnetwork.my": {
+        "https://lg.gbnetwork.my/": {
+            "ipv4": {
+                "103.72.163.221": "Cyberjaya, Malaysia"
+            },
+            "ipv6": {
+                "2403:fd40:1001:a001:1:0:4c10:7bc4": "Malaysia"
+            }
+        }
+    },
+    "lars-ewald.net": {
+        "http://lg.lars-ewald.net/": {
+            "ipv4": {},
+            "ipv6": {
+                "2001:67c:b40::1337": "Germany"
+            }
+        }
+    },
+    "petrus.pl": {
+        "http://lg.petrus.pl/": {
+            "ipv4": {},
+            "ipv6": {
+                "2a02:e88:8000:105::2": "Poland"
+            }
+        }
+    },
+    "fnoh.de": {
+        "https://bgp.tools/lg/203536": {
+            "ipv4": {},
+            "ipv6": {
+                "2001:db8::1": "n/a"
+            }
+        },
+        "https://fnoh.de/service/faq/#faq-allgemein": {
+            "ipv4": {
+                "51.75.78.237": "Germany"
+            },
+            "ipv6": {}
+        }
+    },
+    "justg.com": {
+        "https://lg.justg.com/": {
+            "ipv4": {
+                "102.223.74.212": "Johannesburg, South Africa"
+            },
+            "ipv6": {
+                "2a0c:0640:0000:0001:0000:0000:363b:9b95": "Hong Kong"
+            }
+        },
+        "https://rulg.justg.com/": {
+            "ipv4": {
+                "45.150.236.107": "St Petersburg, Russia"
+            },
+            "ipv6": {
+                "2a0f:9a00::216:3eff:fee9:3a5f": "United Kingdom"
+            }
+        }
+    },
+    "berrybyte.network": {
+        "https://lg.berrybyte.network/": {
+            "ipv4": {
+                "104.167.215.164": "Dallas, United States"
+            },
+            "ipv6": {}
+        }
+    },
+    "abica.co.uk": {
+        "http://lg.abica.co.uk/": {
+            "ipv4": {
+                "185.146.47.152": "United Kingdom"
+            },
+            "ipv6": {
+                "2a07:4d80:2::1": "United Kingdom"
+            }
+        }
+    },
+    "maisnet.com.br": {
+        "http://nsa1.maisnet.com.br/lg/": {
+            "ipv4": {
+                "201.182.166.26": "Santana de Parnaiba, Brazil"
+            },
+            "ipv6": {
+                "2804:4330:8000:a::2": "Brazil"
+            }
+        }
+    },
+    "as1403.net": {
+        "http://lg.as1403.net/": {
+            "ipv4": {
+                "96.127.255.94": "Montreal, Canada"
+            },
+            "ipv6": {
+                "2606:6d00:0:99::b1b9": "Montreal, Canada"
+            }
+        }
+    },
+    "truenetwork.ru": {
+        "http://lg.truenetwork.ru/": {
+            "ipv4": {
+                "94.247.111.2": "Novokuznetsk, Russia"
+            },
+            "ipv6": {
+                "2a02:47a0:a::2": "Russia"
+            }
+        }
+    },
+    "polineo.pl": {
+        "http://lg.polineo.pl/": {
+            "ipv4": {
+                "89.39.108.254": "Godziszka, Poland"
+            },
+            "ipv6": {}
+        }
+    },
+    "unpak.ac.id": {
+        "https://lg.bgr.unpak.ac.id/": {
+            "ipv4": {
+                "103.169.192.133": "Bogor, Indonesia"
+            },
+            "ipv6": {
+                "2001:df0:3140:fac1:b090:12:1980:25": "Bogor, Indonesia"
+            }
+        }
+    },
+    "civicos.net": {
+        "https://lg.civicos.net/": {
+            "ipv4": {
+                "185.230.239.220": "San Cristobal de La Laguna, Spain"
+            },
+            "ipv6": {}
+        }
+    },
+    "cloud.mu": {
+        "https://lg-jhb.cloud.mu/": {
+            "ipv4": {
+                "102.222.105.231": "Mauritius"
+            },
+            "ipv6": {
+                "2c0f:e8f8:1000:232:0:1:e0f4:feda": "Ebene CyberCity, Mauritius"
+            }
+        },
+        "https://lg.cloud.mu/": {
+            "ipv4": {
+                "102.222.106.231": "Mauritius"
+            },
+            "ipv6": {
+                "2c0f:e8f8:2000:233::b932:158c": "Ebene CyberCity, Mauritius"
+            }
+        }
+    },
+    "as213234.net.tr": {
+        "https://lg.as213234.net.tr/": {
+            "ipv4": {},
+            "ipv6": {
+                "2a06:a001:a0d0::1": "Germany"
+            }
+        }
+    },
+    "zitline.net.id": {
+        "http://lg.zitline.net.id/": {
+            "ipv4": {
+                "103.87.228.9": "Lampung, Indonesia"
+            },
+            "ipv6": {
+                "2400:d940:c000::2": "Indonesia"
+            }
+        }
+    },
+    "primadona.net.id": {
+        "https://lg.primadona.net.id/": {
+            "ipv4": {
+                "103.179.26.220": "Indonesia"
+            },
+            "ipv6": {}
+        }
+    },
+    "indo.net.id": {
+        "http://lg.indo.net.id/": {
+            "ipv4": {
+                "117.54.200.163": "Jakarta, Indonesia",
+                "202.53.251.81": "Indonesia"
+            },
+            "ipv6": {}
+        }
+    },
+    "as49581.net": {
+        "https://lg.as49581.net/": {
+            "ipv4": {
+                "45.131.108.74": "Eygelshoven, The Netherlands"
+            },
+            "ipv6": {
+                "2a12:de40:12::c0de": "Germany"
+            }
+        }
+    },
+    "veganet.com.tr": {
+        "https://lg.veganet.com.tr/": {
+            "ipv4": {
+                "185.233.247.36": "Istanbul, Turkiye"
+            },
+            "ipv6": {}
+        }
+    },
+    "jago.net.id": {
+        "https://lg.jago.net.id/": {
+            "ipv4": {
+                "172.70.243.155": "Frankfurt am Main, Germany"
+            },
+            "ipv6": {}
+        }
+    },
+    "digitalhasanah.co.id": {
+        "https://lg.digitalhasanah.co.id/": {
+            "ipv4": {
+                "103.178.146.136": "Indonesia"
+            },
+            "ipv6": {}
+        }
+    },
+    "server24.net": {
+        "http://lg.server24.net/": {
+            "ipv4": {
+                "84.33.37.101": "Italy"
+            },
+            "ipv6": {
+                "2001:1a38:37:0:44b:74ff:fe00:d": "Italy"
+            }
+        }
+    },
+    "g8.net.br": {
+        "https://lg.sp4.spo.g8.net.br": {
+            "ipv4": {
+                "179.96.6.58": "Palmas, Brazil"
+            },
+            "ipv6": {
+                "2804:39c:1002::58": "Brazil"
+            }
+        }
+    },
+    "nexonhost.com": {
+        "http://ro-lg.nexonhost.com/": {
+            "ipv4": {
+                "89.37.117.120": "Bucharest, Romania"
+            },
+            "ipv6": {}
+        }
+    },
+    "iw.net.br": {
+        "http://lg.iw.net.br/": {
+            "ipv4": {
+                "187.0.152.26": "Sao Paulo, Brazil"
+            },
+            "ipv6": {}
+        }
+    },
+    "coltel.ru": {
+        "https://volgograd.b2b.domru.ru": {
+            "ipv4": {},
+            "ipv6": {
+                "2003:14:07": "n/a"
+            }
+        }
+    },
+    "as207803.net": {
+        "http://lg.as207803.net/": {
+            "ipv4": {
+                "185.224.145.118": "Delft, The Netherlands"
+            },
+            "ipv6": {
+                "2a0e:fd45:d30:10:b01e:29ff:fefb:b49b": "Delft, The Netherlands"
+            }
+        }
+    },
+    "wifian.id": {
+        "https://lg.wifian.id/": {
+            "ipv4": {
+                "103.247.21.30": "Bekasi, Indonesia"
+            },
+            "ipv6": {
+                "2402:e100:ac::30": "Indonesia"
+            }
+        }
+    },
+    "ukrnames.com": {
+        "https://lg.ukrnames.com/": {
+            "ipv4": {
+                "91.231.87.71": "Ukraine"
+            },
+            "ipv6": {}
+        }
+    },
+    "infocom.co.id": {
+        "https://lg.infocom.co.id/": {
+            "ipv4": {
+                "103.138.14.251": "Indonesia"
+            },
+            "ipv6": {}
+        }
+    },
+    "sbp.net.id": {
+        "http://lg.sbp.net.id/": {
+            "ipv4": {
+                "27.131.3.230": "Bandung, Indonesia"
+            },
+            "ipv6": {}
+        }
+    },
+    "hybu.la": {
+        "https://lg-nl-ams.hybula.net/": {
+            "ipv4": {
+                "2.58.57.56": "The Netherlands"
+            },
+            "ipv6": {
+                "2a09:e240:22:0:2:58:57:56": "The Netherlands"
+            }
+        }
+    },
+    "supernetes.com.br": {
+        "http://lg.supernetes.com.br/": {
+            "ipv4": {
+                "189.91.156.9": "Sao Mateus, Brazil"
+            },
+            "ipv6": {
+                "2804:2050:5a8e:3e9::9": "Brazil"
+            }
+        }
+    },
+    "lintas.net.id": {
+        "http://lg.lintas.net.id/": {
+            "ipv4": {
+                "103.242.106.84": "Bekasi, Indonesia"
+            },
+            "ipv6": {}
+        }
+    },
+    "css.net.id": {
+        "https://lg.css.net.id/": {
+            "ipv4": {
+                "103.167.220.217": "Bantul, Indonesia"
+            },
+            "ipv6": {}
+        }
+    },
+    "dkm.cz": {
+        "https://speedtest.dkm.cz/lg/": {
+            "ipv4": {
+                "89.102.0.142": "Prague, Czechia"
+            },
+            "ipv6": {
+                "2a02:8301:0:c:0:ffff:5966:8e": "Czechia"
+            }
+        }
+    },
+    "7dc.net": {
+        "https://lg.7dc.net/": {
+            "ipv4": {
+                "212.192.212.249": "United States"
+            },
+            "ipv6": {
+                "2001:67c:15cc::249": "Bulgaria"
+            }
+        }
+    },
+    "as50156.net": {
+        "https://www.as50156.net/network/lg": {
+            "ipv4": {
+                "195.200.224.1": "United Kingdom",
+                "195.200.224.2": "United Kingdom",
+                "195.200.225.1": "United Kingdom"
+            },
+            "ipv6": {}
+        }
+    },
+    "telecom.tw": {
+        "https://bgp.tools/lg/134823": {
+            "ipv4": {},
+            "ipv6": {
+                "2001:db8::1": "n/a"
+            }
+        }
+    },
+    "as59645.net": {
+        "https://lg.as59645.net/cgi-bin/bgplg": {
+            "ipv4": {},
+            "ipv6": {
+                "9645:0:0": "n/a",
+                "9645:1:1": "n/a"
+            }
+        }
+    },
+    "teknosos.com.tr": {
+        "http://lg.teknosos.com.tr/": {
+            "ipv4": {
+                "45.158.15.251": "Istanbul, Turkiye"
+            },
+            "ipv6": {}
+        }
+    },
+    "gis.net.id": {
+        "https://lg.gis.net.id/": {
+            "ipv4": {
+                "103.186.93.82": "Indonesia"
+            },
+            "ipv6": {
+                "2401:f60:93::82": "Indonesia"
+            }
+        }
+    },
+    "rnp.br": {},
+    "as47692.net": {
+        "http://lg.as47692.net/tools/": {
+            "ipv4": {
+                "146.255.61.34": "Vienna, Austria"
+            },
+            "ipv6": {}
+        }
+    },
+    "ascenty.com": {},
+    "gigenet.com": {},
+    "rackray.com": {},
+    "devstorage.eu": {},
+    "ldm.net.id": {},
+    "as38154.net": {
+        "http://lg.as38154.net/": {
+            "ipv4": {
+                "116.58.195.195": "Indonesia"
+            },
+            "ipv6": {}
+        }
+    },
+    "ifog.ch": {
+        "http://lg.tor.fognet.ch/": {
+            "ipv4": {
+                "193.37.139.20": "Toronto, Canada"
+            },
+            "ipv6": {
+                "2a0c:9a40:2d00::20": "Toronto, Canada"
+            }
+        },
+        "https://lg.ams.fognet.ch/": {
+            "ipv4": {
+                "193.148.248.20": "Amsterdam, The Netherlands"
+            },
+            "ipv6": {
+                "2a0c:9a40:1070::20": "Amsterdam, The Netherlands"
+            }
+        },
+        "https://lg.bcn.fognet.ch/": {
+            "ipv4": {
+                "45.134.91.20": "Barcelona, Spain"
+            },
+            "ipv6": {
+                "2a0c:9a40:2b00::20": "Barcelona, Spain"
+            }
+        },
+        "https://lg.fmt.fognet.ch/": {
+            "ipv4": {
+                "185.44.83.10": "Fremont, United States"
+            },
+            "ipv6": {
+                "2a0c:9a40:1005::10": "Fremont, United States"
+            }
+        },
+        "https://lg.fra.fognet.ch/": {
+            "ipv4": {
+                "193.148.249.40": "Frankfurt am Main, Germany"
+            },
+            "ipv6": {
+                "2a0c:9a40:1030::20": "Frankfurt am Main, Germany"
+            }
+        },
+        "https://lg.hou.fognet.ch/": {
+            "ipv4": {
+                "23.140.249.20": "Houston, United States"
+            },
+            "ipv6": {
+                "2602:fed2:711e::130": "Houston, United States"
+            }
+        },
+        "https://lg.lon.fognet.ch/": {
+            "ipv4": {
+                "45.134.88.20": "London, United Kingdom"
+            },
+            "ipv6": {
+                "2a0c:9a40:1031::20": "London, United Kingdom"
+            }
+        },
+        "https://lg.mci.fognet.ch/": {
+            "ipv4": {
+                "193.148.251.20": "Kansas City, United States"
+            },
+            "ipv6": {
+                "2a0c:9a40:1009::20": "Kansas City, United States"
+            }
+        },
+        "https://lg.no.fognet.ch/": {
+            "ipv4": {
+                "45.134.89.20": "Oslo, Norway"
+            },
+            "ipv6": {
+                "2a0c:9a40:1038::20": "Oslo, Norway"
+            }
+        },
+        "https://lg.sin.fognet.ch/": {
+            "ipv4": {
+                "103.180.193.20": "Singapore, Singapore"
+            },
+            "ipv6": {
+                "2400:54a0:1020::20": "Singapore, Singapore"
+            }
+        },
+        "https://lg.syd.fognet.ch/": {
+            "ipv4": {
+                "103.180.192.20": "Sydney, Australia"
+            },
+            "ipv6": {
+                "2400:54a0:1010::20": "Sydney, Australia"
+            }
+        },
+        "https://lg.zrh.fognet.ch/": {
+            "ipv4": {
+                "193.148.250.20": "Zurich, Switzerland"
+            },
+            "ipv6": {
+                "2a0c:9a40:1050::20": "Zurich, Switzerland"
+            }
+        }
+    },
+    "gtu.net.ua": {
+        "https://gtu.net.ua/datacenter/": {
+            "ipv4": {
+                "2.7.9.1": "Moutiers, France"
+            },
+            "ipv6": {}
+        }
+    },
+    "host-telecom.com": {
+        "https://www.host-telecom.com/virtual-data-center-vdc-iaas/": {
+            "ipv4": {
+                "2.6.1.3": "Samazan, France"
+            },
+            "ipv6": {}
+        },
+        "https://www.host-telecom.com/virtual-servers-vps-vds/": {
+            "ipv4": {
+                "188.226.189.38": "Amsterdam, The Netherlands",
+                "193.161.84.90": "Czechia",
+                "91.109.200.200": "Moscow, Russia"
+            },
+            "ipv6": {
+                "2a03:1840::53": "Czechia",
+                "2a03:ec0::53": "Russia",
+                "2a03:b0c0:0:1010::75:c001": "Amsterdam, The Netherlands"
+            }
+        }
+    },
+    "daticum.com": {},
+    "asimonetworks.com": {
+        "https://www.asimonetworks.com/datacenter-connectiviteit/": {
+            "ipv4": {
+                "185.85.209.2": "Oostzaan, The Netherlands"
+            },
+            "ipv6": {}
+        }
+    },
+    "sfmix.org": {
+        "https://sfmix.org/looking_glass/": {
+            "ipv4": {
+                "206.197.187.1": "Sunnyvale, United States"
+            },
+            "ipv6": {
+                "2001:504:30::ba01:2276:1": "United States"
+            }
+        }
+    },
+    "level66.network": {
+        "https://lg.noc.level66.network/": {
+            "ipv4": {
+                "141.98.136.66": "Frankfurt am Main, Germany"
+            },
+            "ipv6": {
+                "2a09:11c0:1200:210:ffff:ffff:8d62:8842": "Germany"
+            }
+        }
+    },
+    "uar.net": {},
+    "as9875.net": {
+        "http://lg.as9875.net/": {
+            "ipv4": {
+                "202.182.182.181": "Indonesia"
+            },
+            "ipv6": {}
+        }
+    },
+    "ciklet.net.tr": {
+        "https://lg.intibu.com/": {
+            "ipv4": {
+                "213.238.165.12": "Istanbul, Turkiye"
+            },
+            "ipv6": {}
+        }
+    },
+    "interconnect.ro": {},
+    "atlex.ru": {
+        "https://www.atlex.ru/knowledge-base/guides/how-to-use-ispmanager-panel-on-vds-vps-with-linux/": {
+            "ipv4": {
+                "6.2.1.1": "United States"
+            },
+            "ipv6": {}
+        },
+        "https://www.atlex.ru/virtualnyj-server-v-rossii/bitrix-vps-v-rossii/?utm_medium=banner&utm_source=mainpage&utm_campaign=bitrix_server": {
+            "ipv4": {
+                "188.226.189.38": "Amsterdam, The Netherlands",
+                "193.161.84.90": "Czechia",
+                "91.109.200.200": "Moscow, Russia"
+            },
+            "ipv6": {
+                "2a03:1840::53": "Czechia",
+                "2a03:ec0::53": "Russia",
+                "2a03:b0c0:0:1010::75:c001": "Amsterdam, The Netherlands"
+            }
+        }
+    },
+    "qnax.sh": {
+        "https://qnax.sh/rede-looking-glass/": {
+            "ipv4": {
+                "2.0.2.1": "Sweden",
+                "2.3.2.1": "Clermont-Ferrand, France"
+            },
+            "ipv6": {}
+        }
+    },
+    "visi.com": {
+        "https://www.oneneck.com/datacenter-colocation/minneapolis/": {
+            "ipv4": {
+                "4.5.7.2": "United States"
+            },
+            "ipv6": {}
+        }
+    },
+    "aplitt.net": {
+        "http://aplitt.dualstack.speedtestcustom.com/": {
+            "ipv4": {
+                "91.212.242.6": "Milan, Italy"
+            },
+            "ipv6": {}
+        }
+    },
+    "bix.bg": {
+        "https://www.bix.bg/en/technical_information/index.html#lookingglass": {
+            "ipv4": {
+                "193.169.198.10": "Bulgaria",
+                "193.169.199.10": "Bulgaria"
+            },
+            "ipv6": {
+                "2001:7f8:58::3d35:0:2": "Bulgaria",
+                "2001:7f8:58::3d35:0:1": "Bulgaria"
+            }
+        }
+    },
+    "argotel.ru": {
+        "https://lg.argotel.ru/": {
+            "ipv4": {
+                "95.182.120.59": "Moscow, Russia"
+            },
+            "ipv6": {}
+        }
+    },
+    "routeservers.org": {
+        "http://lg.as1403.net/": {
+            "ipv4": {
+                "96.127.255.94": "Montreal, Canada"
+            },
+            "ipv6": {
+                "2606:6d00:0:99::b1b9": "Montreal, Canada"
+            }
+        },
+        "http://lg.egihosting.com/": {
+            "ipv4": {
+                "69.46.67.66": "United States"
+            },
+            "ipv6": {}
+        },
+        "http://lg.joesdatacenter.com/": {
+            "ipv4": {
+                "208.94.245.2": "Kansas City, United States"
+            },
+            "ipv6": {}
+        },
+        "http://lg.omnilance.com/": {
+            "ipv4": {
+                "185.126.112.24": "Mykolayiv, Ukraine"
+            },
+            "ipv6": {
+                "2a06:c0c0:16::16": "Ukraine"
+            }
+        },
+        "http://lg.sbp.net.id/": {
+            "ipv4": {
+                "27.131.3.230": "Bandung, Indonesia"
+            },
+            "ipv6": {}
+        },
+        "http://lg.veesp.com/": {
+            "ipv4": {
+                "94.242.57.101": "St Petersburg, Russia"
+            },
+            "ipv6": {
+                "2a00:1838:20:1::5b2a:9cbf": "St Petersburg, Russia"
+            }
+        },
+        "https://lg.mediainvent.net/": {
+            "ipv4": {
+                "178.251.64.167": "Vienna, Austria"
+            },
+            "ipv6": {
+                "2a02:1748:f064:160::167": "Austria"
+            }
+        }
+    },
+    "as32030.net": {
+        "http://lg.kc.as32030.net/": {
+            "ipv4": {
+                "192.40.140.13": "United States"
+            },
+            "ipv6": {
+                "2620:128:7002:1::8ed": "United States"
+            }
+        },
+        "http://lg.wi.as32030.net/": {
+            "ipv4": {
+                "192.40.141.29": "United States"
+            },
+            "ipv6": {
+                "2620:128:7000::1000": "United States"
+            }
+        }
+    },
+    "belwue.de": {
+        "https://www.belwue.de/tools/speedtest.html": {
+            "ipv4": {
+                "129.143.4.238": "Weingarten, Germany"
+            },
+            "ipv6": {}
+        },
+        "https://www.belwue.de/tools/looking-glass.html": {
+            "ipv4": {},
+            "ipv6": {
+                "2001:db0::": "Australia"
+            }
+        }
+    },
+    "belwue.net": {
+        "https://www.belwue.de/tools/speedtest.html": {
+            "ipv4": {
+                "129.143.4.238": "Weingarten, Germany"
+            },
+            "ipv6": {}
+        },
+        "https://www.belwue.de/tools/looking-glass.html": {
+            "ipv4": {},
+            "ipv6": {
+                "2001:db0::": "Australia"
+            }
+        }
+    },
+    "ateltelecom.com.br": {
+        "https://ateltelecom.com.br/salgueiro-pe/": {
+            "ipv4": {
+                "2.6.17.1": "Arrodets, France"
+            },
+            "ipv6": {}
+        }
+    },
+    "siriustelecom.uz": {
+        "https://siriustelecom.uz/vps-hosting-v-uzbekistane/": {
+            "ipv4": {
+                "1.8.4.1": "China"
+            },
+            "ipv6": {}
+        }
+    },
+    "lsnetworks.net": {},
+    "atlantisnet.com.tr": {
+        "https://lg.atlantisnet.com.tr/": {
+            "ipv4": {
+                "185.248.14.2": "Istanbul, Turkiye"
+            },
+            "ipv6": {}
+        }
+    },
+    "internexa.com": {},
+    "idealhosting.net.tr": {
+        "https://www.idealhosting.net.tr/fransa-seo-vps-sunucu": {
+            "ipv4": {
+                "188.165.12.106": "France"
+            },
+            "ipv6": {}
+        },
+        "https://www.idealhosting.net.tr/turkiye-seo-vps-sunucu": {
+            "ipv4": {
+                "213.238.173.2": "Turkiye"
+            },
+            "ipv6": {}
+        }
+    },
+    "digitalfyre.com": {},
+    "dewabiz.com": {},
+    "feral.io": {},
+    "brdrive.net": {},
+    "wicloud.id": {
+        "https://hostim.themetags.com/data-center/": {
+            "ipv4": {
+                "173.230.149.42": "Fremont, United States"
+            },
+            "ipv6": {}
+        }
+    },
+    "space.net": {},
+    "argeweb.nl": {},
+    "as8758.net": {},
+    "pentanet.com.au": {},
     "aws": {
         "http://ec2-reachability.amazonaws.com": {
             "ipv4": {
@@ -11049,10 +13290,14 @@
         "https://lg.ovh.net": {
             "ipv4": {
                 "135.125.244.2": "France",
+                "135.148.101.2": "United States",
+                "139.99.216.2": "Sydney, Australia",
                 "145.239.28.3": "United Kingdom",
                 "5.135.137.2": "France",
                 "51.79.100.2": "Canada",
-                "51.81.200.4": "Hillsboro, United States"
+                "51.79.140.2": "Singapore, Singapore",
+                "51.81.200.4": "Hillsboro, United States",
+                "51.89.228.2": "London, United Kingdom"
             },
             "ipv6": {}
         }

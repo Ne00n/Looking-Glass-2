@@ -9318,16 +9318,6 @@
             ]
         }
     },
-    "hosterdaddy.com": {
-        "https://www.hosterdaddy.com/company/datacenter-network.php": {
-            "ipv4": [
-                "0.0.0.1",
-                "0.0.5.0",
-                "0.0.2.7"
-            ],
-            "ipv6": []
-        }
-    },
     "clubvps.com": {},
     "servermedia.com.br": {},
     "hostbillapp.com": {},

@@ -1524,8 +1524,6 @@ If you want to be added, you can either open a pull request for src/manual or op
 * [https://ownwebservers.com/datacenter-info/](https://ownwebservers.com/datacenter-info/)
 ### vpsbg.eu
 * [https://lg.vpsbg.eu/](https://lg.vpsbg.eu/)
-### cloudns.net
-* [https://www.cloudns.net/blog/dns-tools-dns-trace-online-ping-traceroute-dns-lookup-reverse-lookup/](https://www.cloudns.net/blog/dns-tools-dns-trace-online-ping-traceroute-dns-lookup-reverse-lookup/)
 ### cyberonedata.com
 * [https://cyberonedata.com/5-reasons-to-consider-a-private-data-center-instead-of-public-cloud/](https://cyberonedata.com/5-reasons-to-consider-a-private-data-center-instead-of-public-cloud/)
 ### kingservers.com

@@ -62,7 +62,9 @@ class Base():
     def readme(self,list):
         readme = """# Looking-Glass-2\n
 Spontaniously updated.<br>
-Collects data from a bunch of sources,
+Collects data from a bunch of sources, optimized for Multi-Ping.<br>
+
+If you want to be added, you can either open a pull request for src/manual or open an Issue.<br>
 """
         for element,urls in list.items():
             if len(urls) > 0:
